@@ -26,7 +26,7 @@
   Linee guida per la valorizzazione del patrimonio informativo pubblico
 - [lg-misuraperformance-docs](https://github.com/italia/lg-misuraperformance-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-misuraperformance-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-misuraperformance-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/lg-misuraperformance-docs" alt="GitHub issues">
   
 - [lg-acquisizione-e-riuso-software-per-pa-docs](https://github.com/italia/lg-acquisizione-e-riuso-software-per-pa-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-acquisizione-e-riuso-software-per-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -34,7 +34,7 @@
   Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
 - [lg-interoperabilita](https://github.com/italia/lg-interoperabilita)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-interoperabilita" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/lg-interoperabilita" alt="GitHub issues">
   
 - [lg-modellointeroperabilita-docs](https://github.com/italia/lg-modellointeroperabilita-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-modellointeroperabilita-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -42,7 +42,7 @@
   Linee guida sul modello di interoperabilità 2018
 - [lg-comunicazione-docs](https://github.com/italia/lg-comunicazione-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-comunicazione-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-comunicazione-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/lg-comunicazione-docs" alt="GitHub issues">
   
 - [lg-competenzedigitali-docs](https://github.com/italia/lg-competenzedigitali-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-competenzedigitali-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -160,7 +160,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 - [spid-php-lib](https://github.com/italia/spid-php-lib)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">
 
 - [spid-php](https://github.com/italia/spid-php)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -320,7 +320,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using .NET Core
 - [cieid-android-sdk](https://github.com/italia/cieid-android-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/cieid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cieid-android-sdk" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/cieid-android-sdk" alt="GitHub issues">
   
 - [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -371,7 +371,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   A Liferay theme which implements the Italia Design System
 - [design-vue-kit](https://github.com/italia/design-vue-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-vue-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-vue-kit" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-vue-kit" alt="GitHub issues">
   
 - [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -399,7 +399,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Risorse relative al modello dei siti per i Comuni Italiani
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">
   
 - [design-django-theme](https://github.com/italia/design-django-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -435,7 +435,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Tema WordPress open-source per la Pubblica Amministrazione basato su Bootstrap Italia
 - [design-linee-guida-docs](https://github.com/italia/design-linee-guida-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-linee-guida-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-linee-guida-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-linee-guida-docs" alt="GitHub issues">
   
 - [design-ui-kit](https://github.com/italia/design-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -474,7 +474,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   La comunità italiana dei designer di servizi pubblici
 - [monitoraggio-italia-it](https://github.com/italia/monitoraggio-italia-it)
   <img align="right" src="https://img.shields.io/github/stars/italia/monitoraggio-italia-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/monitoraggio-italia-it" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/monitoraggio-italia-it" alt="GitHub issues">
   
 - [docs.italia.it](https://github.com/italia/docs.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -517,19 +517,19 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Old PagoPA Documentation in PDF format
 - [pagopa-portaledelleadesioni-docs](https://github.com/italia/pagopa-portaledelleadesioni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-portaledelleadesioni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-portaledelleadesioni-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-portaledelleadesioni-docs" alt="GitHub issues">
   
 - [pagopa-soap-ruby](https://github.com/italia/pagopa-soap-ruby)
   <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-soap-ruby?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-soap-ruby" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-soap-ruby" alt="GitHub issues">
   Ruby Wrapper for pagoPA SOAP API
 - [pagopa-ios-sdk](https://github.com/italia/pagopa-ios-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-ios-sdk" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-ios-sdk" alt="GitHub issues">
   
 - [pagopa-android-sdk](https://github.com/italia/pagopa-android-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-android-sdk" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-android-sdk" alt="GitHub issues">
   
 
 ## 🚧 Unsorted
@@ -555,7 +555,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Documento Piano Triennale ICT
 - [moduli-pa](https://github.com/italia/moduli-pa)
   <img align="right" src="https://img.shields.io/github/stars/italia/moduli-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/moduli-pa" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/moduli-pa" alt="GitHub issues">
   
 - [pianotri-elencobasidatichiave](https://github.com/italia/pianotri-elencobasidatichiave)
   <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-elencobasidatichiave?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -685,7 +685,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Documentazione del processo di Censimento ICT della PA
 - [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">
   
 - [pandoc](https://github.com/italia/pandoc)
   <img align="right" src="https://img.shields.io/github/stars/italia/pandoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -769,11 +769,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Guida a Carta del Docente per gli esercenti
 - [competenzedigitali-docs](https://github.com/italia/competenzedigitali-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/competenzedigitali-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/competenzedigitali-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/competenzedigitali-docs" alt="GitHub issues">
   
 - [pell-illuminazionepubblica-docs](https://github.com/italia/pell-illuminazionepubblica-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/pell-illuminazionepubblica-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pell-illuminazionepubblica-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/pell-illuminazionepubblica-docs" alt="GitHub issues">
   
 - [writing-toolkit](https://github.com/italia/writing-toolkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/writing-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -781,7 +781,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Guida al linguaggio della Pubblica Amministrazione
 - [OntoPiA-UI](https://github.com/italia/OntoPiA-UI)
   <img align="right" src="https://img.shields.io/github/stars/italia/OntoPiA-UI?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/OntoPiA-UI" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/OntoPiA-UI" alt="GitHub issues">
   
 - [w3id.org](https://github.com/italia/w3id.org)
   <img align="right" src="https://img.shields.io/github/stars/italia/w3id.org?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -801,15 +801,15 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Onboarding web portal for the Developers Italia website
 - [daf-semantic-validator](https://github.com/italia/daf-semantic-validator)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-validator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-validator" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-validator" alt="GitHub issues">
   
 - [daf-semantic-katalod](https://github.com/italia/daf-semantic-katalod)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-katalod?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-katalod" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-katalod" alt="GitHub issues">
   
 - [docs-italia-convertitore-web](https://github.com/italia/docs-italia-convertitore-web)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-convertitore-web?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-convertitore-web" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-convertitore-web" alt="GitHub issues">
   
 - [docs-italia-test-conversione](https://github.com/italia/docs-italia-test-conversione)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-test-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -825,7 +825,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   publiccode.yml is a metadata standard for public software
 - [fatturapa-webapp](https://github.com/italia/fatturapa-webapp)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-webapp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-webapp" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-webapp" alt="GitHub issues">
   
 - [fatturapa-testsdi](https://github.com/italia/fatturapa-testsdi)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-testsdi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -833,7 +833,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Sistema d'Interscambio di test
 - [italia-conf](https://github.com/italia/italia-conf)
   <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">
   
 - [awesome-rss-feeds](https://github.com/italia/awesome-rss-feeds)
   <img align="right" src="https://img.shields.io/github/stars/italia/awesome-rss-feeds?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -845,15 +845,15 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   An example of a skeleton for writing java and scala microservices using an api contract first approach using play 2.6 and swagger code gen
 - [daf-d3-unibo-scuole](https://github.com/italia/daf-d3-unibo-scuole)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-d3-unibo-scuole?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-d3-unibo-scuole" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-d3-unibo-scuole" alt="GitHub issues">
   
 - [daf-kafka-consumer](https://github.com/italia/daf-kafka-consumer)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-kafka-consumer?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-consumer" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-consumer" alt="GitHub issues">
   
 - [daf-kafka-http-proxy](https://github.com/italia/daf-kafka-http-proxy)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-kafka-http-proxy?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-http-proxy" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-http-proxy" alt="GitHub issues">
   
 - [agave-template-school](https://github.com/italia/agave-template-school)
   <img align="right" src="https://img.shields.io/github/stars/italia/agave-template-school?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -870,39 +870,39 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 - [codice-amministrazione-digitale-docs](https://github.com/italia/codice-amministrazione-digitale-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/codice-amministrazione-digitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">
   
 - [daf-srv-ingestion](https://github.com/italia/daf-srv-ingestion)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-ingestion?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-ingestion" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-ingestion" alt="GitHub issues">
   
 - [daf-srv-catalog](https://github.com/italia/daf-srv-catalog)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-catalog?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-catalog" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-catalog" alt="GitHub issues">
   
 - [daf-srv-configurator](https://github.com/italia/daf-srv-configurator)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-configurator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-configurator" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-configurator" alt="GitHub issues">
   
 - [daf-srv-security](https://github.com/italia/daf-srv-security)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-security?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-security" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-security" alt="GitHub issues">
   
 - [daf-srv-storage](https://github.com/italia/daf-srv-storage)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-storage?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-storage" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-storage" alt="GitHub issues">
   
 - [daf-util-common](https://github.com/italia/daf-util-common)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-util-common?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-util-common" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-util-common" alt="GitHub issues">
   
 - [daf-semantic-triplifier](https://github.com/italia/daf-semantic-triplifier)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-triplifier?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">
   
 - [hugo-theme-bootstrap-italia](https://github.com/italia/hugo-theme-bootstrap-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/hugo-theme-bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/hugo-theme-bootstrap-italia" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/hugo-theme-bootstrap-italia" alt="GitHub issues">
   A Hugo theme built with Bootstrap Italia (https://italia.github.io/bootstrap-italia/)
 - [daf-dhall-kubernetes](https://github.com/italia/daf-dhall-kubernetes)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-dhall-kubernetes?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -910,7 +910,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [cloud-enablement-kit](https://github.com/italia/cloud-enablement-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud-enablement-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">
   
 - [interoperabilita](https://github.com/italia/interoperabilita)
   <img align="right" src="https://img.shields.io/github/stars/italia/interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -926,11 +926,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Documentation and discussion about GSoC projects
 - [daf-semantic-kbaselib](https://github.com/italia/daf-semantic-kbaselib)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-kbaselib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">
   
 - [developers-italia-searchyll](https://github.com/italia/developers-italia-searchyll)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">
   
 - [fatturapa-python](https://github.com/italia/fatturapa-python)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-python?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -938,7 +938,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Generatore a riga di comando di semplici fatture elettroniche FatturaPA per consulenti
 - [daf-community](https://github.com/italia/daf-community)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-community?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-community" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-community" alt="GitHub issues">
   
 - [gl-acquisition-and-reuse-software-for-pa-docs](https://github.com/italia/gl-acquisition-and-reuse-software-for-pa-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/gl-acquisition-and-reuse-software-for-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -1034,7 +1034,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">
   
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
