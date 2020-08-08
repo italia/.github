@@ -237,6 +237,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 - [spid-concrete5](https://github.com/italia/spid-concrete5)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-concrete5?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-concrete5" alt="GitHub issues">
   Add-on for integration of SPID with the concrete5 CMS
 
 - [spid-perl](https://github.com/italia/spid-perl)
