@@ -73,6 +73,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-docs" alt="GitHub issues">\
   Documentazione SPID
 
+- [lg-spid-rilascio-identita-digitale-uso-professionale](https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale)
+  <img align="right" src="https://img.shields.io/github/stars/italia/lg-spid-rilascio-identita-digitale-uso-professionale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
+  Linee Guida SPID - Rilascio dell'identità digitale per uso professionale
+
 - [spid-graphics](https://github.com/italia/spid-graphics)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-graphics" alt="GitHub issues">\
@@ -123,15 +128,15 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-testenv2" alt="GitHub issues">\
   New test Identity Provider for SPID
 
-- [lg-spid-rilascio-identita-digitale-uso-professionale](https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-spid-rilascio-identita-digitale-uso-professionale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
-  Linee Guida SPID - Rilascio dell'identità digitale per uso professionale
-
 - [spid-sinatra-example](https://github.com/italia/spid-sinatra-example)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sinatra-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sinatra-example" alt="GitHub issues">\
   Test application to demostrate gem 'spid' usage in a sinatra application
+
+- [spid-shibboleth-proxy-docker](https://github.com/italia/spid-shibboleth-proxy-docker)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-shibboleth-proxy-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-shibboleth-proxy-docker" alt="GitHub issues">\
+  SPID authentication proxy based on Shibboleth service provider
 
 - [spid-saml-check](https://github.com/italia/spid-saml-check)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -143,137 +148,108 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-registry-idp" alt="GitHub issues">\
   SPID Registry - IDP
 
-### Client libraries
+### Libraries for SPID authentication
 
 - [spid-wordpress](https://github.com/italia/spid-wordpress)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-wordpress?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-wordpress" alt="GitHub issues">\
-  SPID Wordpress plugin (based on SimpleSAMLphp)
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-wordpress" alt="GitHub issues">
 
 - [spid-dotnet-sdk](https://github.com/italia/spid-dotnet-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-dotnet-sdk" alt="GitHub issues">\
-  SPID authentication library for .NET
-
-- [spid-php](https://github.com/italia/spid-php)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php" alt="GitHub issues">\
-  Software Development Kit for easy SPID access integration with simplesamlphp
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-dotnet-sdk" alt="GitHub issues">
 
 - [spid-php-lib](https://github.com/italia/spid-php-lib)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
-  PHP package for SPID authentication
+
+- [spid-php](https://github.com/italia/spid-php)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php" alt="GitHub issues">
+  Alternative PHP library based on SimpleSAMLphp
 
 - [spid-ruby](https://github.com/italia/spid-ruby)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-ruby?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-ruby" alt="GitHub issues">\
-  Ruby library for SPID authentication
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-ruby" alt="GitHub issues">
 
 - [spid-rails](https://github.com/italia/spid-rails)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-rails?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-rails" alt="GitHub issues">\
-  SPID authentication for Ruby on Rails
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-rails" alt="GitHub issues">
+
+- [spid-sinatra](https://github.com/italia/spid-sinatra)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sinatra?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sinatra" alt="GitHub issues">
 
 - [spid-django](https://github.com/italia/spid-django)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">\
-  SPID authentication for Django
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">
 
 - [spid-laravel](https://github.com/italia/spid-laravel)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-laravel" alt="GitHub issues">\
-  SPID authentication package for Laravel
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-laravel" alt="GitHub issues">
 
 - [spid-ios-sdk](https://github.com/italia/spid-ios-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-ios-sdk" alt="GitHub issues">\
-  SPID authentication library for iOS
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-ios-sdk" alt="GitHub issues">
 
 - [spid-android-sdk](https://github.com/italia/spid-android-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-android-sdk" alt="GitHub issues">\
-  SPID authentication library for Android
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-android-sdk" alt="GitHub issues">
 
 - [spid-go](https://github.com/italia/spid-go)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
-  Go package for SPID authentication
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">
 
 - [spid-magento](https://github.com/italia/spid-magento)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-magento?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-magento" alt="GitHub issues">\
-  Extension for SPID authentication in Magento
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-magento" alt="GitHub issues">
 
 - [spid-symfony-bundle](https://github.com/italia/spid-symfony-bundle)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-symfony-bundle?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-symfony-bundle" alt="GitHub issues">\
-  SPID bundle per framework php Symfony
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-symfony-bundle" alt="GitHub issues">
 
 - [spid-limesurvey-plugin](https://github.com/italia/spid-limesurvey-plugin)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-limesurvey-plugin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-limesurvey-plugin" alt="GitHub issues">\
-  SPID authentication plugin for LimeSurvey
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-limesurvey-plugin" alt="GitHub issues">
 
 - [spid-passport](https://github.com/italia/spid-passport)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-passport?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-passport" alt="GitHub issues">\
-  Passport authentication provider for SPID
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-passport" alt="GitHub issues">
 
 - [spid-spring](https://github.com/italia/spid-spring)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-spring?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-spring" alt="GitHub issues">\
-  SPID extension for Java Spring
-
-- [spid-perl-dancer2](https://github.com/italia/spid-perl-dancer2)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-dancer2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-dancer2" alt="GitHub issues">\
-  SPID authentication module for Perl Dancer
-
-- [spid-perl-mojolicious](https://github.com/italia/spid-perl-mojolicious)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-mojolicious?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-mojolicious" alt="GitHub issues">\
-  SPID authentication module for Perl Mojolicious
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-spring" alt="GitHub issues">
 
 - [spid-joomla-plugin](https://github.com/italia/spid-joomla-plugin)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-joomla-plugin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-joomla-plugin" alt="GitHub issues">\
-  Plugin per autenticazione SPID in Joomla
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-joomla-plugin" alt="GitHub issues">
 
 - [spid-drupal-module](https://github.com/italia/spid-drupal-module)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-drupal-module?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-drupal-module" alt="GitHub issues">\
-  SPID authentication module for Drupal
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-drupal-module" alt="GitHub issues">
 
 - [spid-liferay](https://github.com/italia/spid-liferay)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-liferay?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-liferay" alt="GitHub issues">\
-  SPID authentication plugin for Liferay
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-liferay" alt="GitHub issues">
 
 - [spid-ionic-sdk](https://github.com/italia/spid-ionic-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-ionic-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-ionic-sdk" alt="GitHub issues">\
-  SPID authentication library for Ionic
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-ionic-sdk" alt="GitHub issues">
 
 - [spid-concrete5](https://github.com/italia/spid-concrete5)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-concrete5?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-concrete5" alt="GitHub issues">\
   Add-on for integration of SPID with the concrete5 CMS
 
 - [spid-perl](https://github.com/italia/spid-perl)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl" alt="GitHub issues">\
-  Perl module for SPID authentication
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl" alt="GitHub issues">
 
-- [spid-shibboleth-proxy-docker](https://github.com/italia/spid-shibboleth-proxy-docker)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-shibboleth-proxy-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-shibboleth-proxy-docker" alt="GitHub issues">\
-  SPID authentication proxy based on Shibboleth service provider
+- [spid-perl-dancer2](https://github.com/italia/spid-perl-dancer2)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-dancer2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-dancer2" alt="GitHub issues">
 
-- [spid-sinatra](https://github.com/italia/spid-sinatra)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sinatra?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sinatra" alt="GitHub issues">\
-  Wrapper of spid-ruby for sinatrarb
+- [spid-perl-mojolicious](https://github.com/italia/spid-perl-mojolicious)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-mojolicious?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-mojolicious" alt="GitHub issues">
 
 ## 🎭 Electronic identity card (CIE)
 
