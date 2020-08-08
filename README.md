@@ -14,7 +14,7 @@
 
 > The organized list of awesome @italia projects
 
-## 🚦 Guidelines
+## ☑️  Guidelines
 
 - [lg-transizione-interoperabilita](https://github.com/italia/lg-transizione-interoperabilita)
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-transizione-interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
