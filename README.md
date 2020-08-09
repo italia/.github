@@ -53,35 +53,74 @@
   <img align="right" src="https://img.shields.io/github/issues/italia/linee-guida-cataloghi-dati-dcat-ap-it" alt="GitHub issues">\
   Linee guida per l’alimentazione e gestione di cataloghi dati secondo il profilo nazionale di metadatazione DCAT-AP_IT
 
+- [gl-acquisition-and-reuse-software-for-pa-docs](https://github.com/italia/gl-acquisition-and-reuse-software-for-pa-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/gl-acquisition-and-reuse-software-for-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/gl-acquisition-and-reuse-software-for-pa-docs" alt="GitHub issues">\
+  Guidelines on the acquisition and reuse of software for Public Administrations
+
+## 📱 Mobile apps
+
+### 18app
+
+- [18app](https://github.com/italia/18app)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app" alt="GitHub issues">\
+  Official mobile app for 18app
+
+- [18app-java-sdk](https://github.com/italia/18app-java-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-java-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-java-sdk" alt="GitHub issues">\
+  Java SDK for developing applications which accept 18app vouchers (retails and stores)
+
+- [18app-dotnet-sdk](https://github.com/italia/18app-dotnet-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-dotnet-sdk" alt="GitHub issues">\
+  .NET SDK for developing merchant applications which accept 18app vouchers
+
+- [18app-cpp-sdk](https://github.com/italia/18app-cpp-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-cpp-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-cpp-sdk" alt="GitHub issues">\
+  C++ SDK for developing merchant applications which accept 18app vouchers
+
+- [18app-python-sdk](https://github.com/italia/18app-python-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-python-sdk" alt="GitHub issues">\
+  Python SDK for developing merchant applications which accept 18app vouchers
+
+- [18app-magento-sdk](https://github.com/italia/18app-magento-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-magento-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-magento-sdk" alt="GitHub issues">\
+  Plugin per Magento per esercenti accreditati su 18app
+
+- [18app-php-sdk](https://github.com/italia/18app-php-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-php-sdk" alt="GitHub issues">\
+  PHP SDK for developing merchant applications which accept 18app vouchers￼
+
+- [18app-esercenti-docs](https://github.com/italia/18app-esercenti-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/18app-esercenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/18app-esercenti-docs" alt="GitHub issues">\
+  Docs for merchants integration with 18app
+
 ## 🎭 SPID
 
 _Sistema Pubblico di Identità Digitale, permette di accedere ai servizi della
 Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e smartphone._
 
-- [spid](https://github.com/italia/spid)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid" alt="GitHub issues">\
-  SPID - Sistema Pubblico di Identità Digitale
-
 - [spid-regole-tecniche](https://github.com/italia/spid-regole-tecniche)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-regole-tecniche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-regole-tecniche" alt="GitHub issues">\
-  Regole tecniche SPID
+  Specifiche tecniche su docs.italia.it
 
 - [spid-docs](https://github.com/italia/spid-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-docs" alt="GitHub issues">\
-  Documentazione SPID
-
-- [lg-spid-rilascio-identita-digitale-uso-professionale](https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-spid-rilascio-identita-digitale-uso-professionale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
-  Linee Guida SPID - Rilascio dell'identità digitale per uso professionale
+  Documentazione
 
 - [spid-graphics](https://github.com/italia/spid-graphics)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-graphics" alt="GitHub issues">\
-  Icone, loghi e grafiche SPID
+  Icone, loghi e grafiche
 
 - [spid-idp-login-layout](https://github.com/italia/spid-idp-login-layout)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-idp-login-layout?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -91,22 +130,22 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [spid-sp-access-button](https://github.com/italia/spid-sp-access-button)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-access-button?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-access-button" alt="GitHub issues">\
-  Bottone di scelta dell'Identity Provider per l'accesso ai servizi dei Service Provider
+  Pulsante di login
 
 - [spid-smart-button](https://github.com/italia/spid-smart-button)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-smart-button?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-smart-button" alt="GitHub issues">\
-  Nuovo pulsante login per SPID basato su finestra modale JavaScript (in sviluppo)
+  Nuovo pulsante di login basato su finestra modale JavaScript (in sviluppo)
 
 - [spid-ansible-shibboleth-example](https://github.com/italia/spid-ansible-shibboleth-example)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-ansible-shibboleth-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-ansible-shibboleth-example" alt="GitHub issues">\
-  Service provider di base con autenticazione SPID
+  Playbook Ansible con applicazione di esempio autenticata via SPID (nginx + Shibboleth)
 
 - [spid-metadata-signer](https://github.com/italia/spid-metadata-signer)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-metadata-signer?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-metadata-signer" alt="GitHub issues">\
-  Tool per la firma del metadata SAML SPID
+  Script per la firma di metadata SPID
 
 - [spid-metadata-builder](https://github.com/italia/spid-metadata-builder)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-metadata-builder?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -121,7 +160,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [spid-sp-sapspid](https://github.com/italia/spid-sp-sapspid)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-sapspid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-sapspid" alt="GitHub issues">\
-  SPID Service Provider SAML basato su SapSpid
+  Service Provider SAML basato su SapSpid
 
 - [spid-testenv2](https://github.com/italia/spid-testenv2)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-testenv2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -147,6 +186,17 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-registry-idp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-registry-idp" alt="GitHub issues">\
   SPID Registry - IDP
+
+- [spid](https://github.com/italia/spid)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid" alt="GitHub issues">\
+  Bug tracker per supporto tecnico a pubbliche amministrazioni ed enti privati
+
+- [lg-spid-rilascio-identita-digitale-uso-professionale](https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale)
+  <img align="right" src="https://img.shields.io/github/stars/italia/lg-spid-rilascio-identita-digitale-uso-professionale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
+  SPID per uso professionale
+
 
 ### Libraries for SPID authentication
 
@@ -329,26 +379,46 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 ## 📐 Design
 
+- [design-ui-kit](https://github.com/italia/design-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit" alt="GitHub issues">\
+  Official UI components and templates for the Italia design system
+
+- [design-icon-kit](https://github.com/italia/design-icon-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-icon-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-icon-kit" alt="GitHub issues">\
+  Official icon set for the Italia design system
+
+- [bootstrap-italia](https://github.com/italia/bootstrap-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
+  Bootstrap Italia è un tema Bootstrap 4 conforme alle linee guida di design per i servizi web della PA
+
 - [design-web-toolkit](https://github.com/italia/design-web-toolkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-web-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-web-toolkit" alt="GitHub issues">\
   Questa libreria è deprecata, si consiglia l'utilizzo di Bootstrap Italia (https://italia.github.io/bootstrap-italia/)
+
 - [design-react-kit](https://github.com/italia/design-react-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit" alt="GitHub issues">\
   A React toolkit that implements the Italia design system
+
 - [design-joomla-theme](https://github.com/italia/design-joomla-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-joomla-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-joomla-theme" alt="GitHub issues">\
   A Joomla theme which implements the Italia Design System
+
 - [design-wordpress-theme](https://github.com/italia/design-wordpress-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-wordpress-theme" alt="GitHub issues">\
-  Tema di WordPress per la Pubblica Amministrazione che implementa Bootstrap Italia. 
+  Tema di WordPress per la Pubblica Amministrazione che implementa Bootstrap Italia.
+
 - [design-jekyll-theme](https://github.com/italia/design-jekyll-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-jekyll-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-jekyll-theme" alt="GitHub issues">\
   A Jekyll theme which implements the Italia Design System
+
 - [design-drupal-theme](https://github.com/italia/design-drupal-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-drupal-theme" alt="GitHub issues">\
@@ -436,15 +506,12 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [design-linee-guida-docs](https://github.com/italia/design-linee-guida-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-linee-guida-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-linee-guida-docs" alt="GitHub issues">
-  
-- [design-ui-kit](https://github.com/italia/design-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit" alt="GitHub issues">\
-  Official UI components and templates for the Italia design system
-- [design-icon-kit](https://github.com/italia/design-icon-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-icon-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-icon-kit" alt="GitHub issues">\
-  Official icon set for the Italia design system
+
+- [hugo-theme-bootstrap-italia](https://github.com/italia/hugo-theme-bootstrap-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/hugo-theme-bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/hugo-theme-bootstrap-italia" alt="GitHub issues">
+  A Hugo theme built with Bootstrap Italia (https://italia.github.io/bootstrap-italia/)
+
 - [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
@@ -456,38 +523,62 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
   The developer community designing and developing public digital services in Italy
-- [dati.gov.it](https://github.com/italia/dati.gov.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dati.gov.it" alt="GitHub issues">\
-  dati.gov.it: il sito degli opendata italiani
-- [pianotriennale-ict.italia.it](https://github.com/italia/pianotriennale-ict.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict.italia.it" alt="GitHub issues">\
-  Sito Piano Triennale ICT
-- [italia.github.io](https://github.com/italia/italia.github.io)
-  <img align="right" src="https://img.shields.io/github/stars/italia/italia.github.io?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/italia.github.io" alt="GitHub issues">\
-  Github Pages for italia.github.io
+
 - [designers.italia.it](https://github.com/italia/designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/designers.italia.it" alt="GitHub issues">\
   La comunità italiana dei designer di servizi pubblici
-- [monitoraggio-italia-it](https://github.com/italia/monitoraggio-italia-it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/monitoraggio-italia-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/monitoraggio-italia-it" alt="GitHub issues">
-  
+
 - [docs.italia.it](https://github.com/italia/docs.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs.italia.it" alt="GitHub issues">\
   The source code that powers docs.italia.it
-- [comunica.italia.it](https://github.com/italia/comunica.italia.it)
+
+- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
+  Tema per i documenti pubblicati su Docs Italia
+
+- [dati.gov.it](https://github.com/italia/dati.gov.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/dati.gov.it" alt="GitHub issues">\
+  dati.gov.it: il sito degli opendata italiani
+
+- [pianotriennale-ict.italia.it](https://github.com/italia/pianotriennale-ict.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict.italia.it" alt="GitHub issues">\
+  Sito Piano Triennale ICT
+
+- [repubblica-digitale](https://github.com/italia/repubblica-digitale)
+  <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">
+  repubblicadigitale.innovazione.gov.it
+
+- ❌ [monitoraggio-italia-it](https://github.com/italia/monitoraggio-italia-it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/monitoraggio-italia-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/monitoraggio-italia-it" alt="GitHub issues">
+
+- 👀 [comunica.italia.it](https://github.com/italia/comunica.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/comunica.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/comunica.italia.it" alt="GitHub issues">\
-  Comunica
-- [servizi-gov](https://github.com/italia/servizi-gov)
+  comunica.italia.it
+
+- ❌ [servizi-gov](https://github.com/italia/servizi-gov)
   <img align="right" src="https://img.shields.io/github/stars/italia/servizi-gov?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/servizi-gov" alt="GitHub issues">\
-  Servizi.Gov.IT - Catalogo Servizi della PA
+  servizi.gov.it: Catalogo Servizi della PA
+
+- [hack.developers.italia.it](https://github.com/italia/hack.developers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/hack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/hack.developers.italia.it" alt="GitHub issues">\
+  hack.developers.italia.it website
+
+- [italia.github.io](https://github.com/italia/italia.github.io)
+  <img align="right" src="https://img.shields.io/github/stars/italia/italia.github.io?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/italia.github.io" alt="GitHub issues">\
+  Github Pages for italia.github.io
+
+
 
 ## 💰 pagoPa
 
@@ -532,55 +623,62 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-android-sdk" alt="GitHub issues">
   
 
-## 🚧 Unsorted
+## ANPR (Anagrafe Nazionale Popolazione Residente)
+
+L'anagrafe digitale Italiana
+
 - [anpr](https://github.com/italia/anpr)
   <img align="right" src="https://img.shields.io/github/stars/italia/anpr?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr" alt="GitHub issues">\
-  Issue tracker e documentazione di ANPR - Anagrafe Nazionale della Popolazione Residente
-- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
-  Tema per i documenti pubblicati su Docs Italia
+  Issue tracker e documentazione
+
 - [anpr-doc-subentro](https://github.com/italia/anpr-doc-subentro)
   <img align="right" src="https://img.shields.io/github/stars/italia/anpr-doc-subentro?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr-doc-subentro" alt="GitHub issues">\
   ANPR - Documentazione sulle procedure di rettifica delle anomalie per il subentro
+
+- [anpr-wsdl-docwriter](https://github.com/italia/anpr-wsdl-docwriter)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-wsdl-docwriter?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-wsdl-docwriter" alt="GitHub issues">\
+  An automated generator of API documentation starting from WSDL files
+
+- [anpr-github-privacy-check](https://github.com/italia/anpr-github-privacy-check)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-github-privacy-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-github-privacy-check" alt="GitHub issues">\
+  A service to enforce the absence of sensitive data on ANPR tickets
+
+- [anpr-github-metrics](https://github.com/italia/anpr-github-metrics)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-github-metrics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-github-metrics" alt="GitHub issues">\
+  An analytics system for github issues
+
+- [anpr-error-search](https://github.com/italia/anpr-error-search)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-error-search?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-error-search" alt="GitHub issues">\
+  A search interface to sort through error codes
+
+- [anpr-client-example](https://github.com/italia/anpr-client-example)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-client-example" alt="GitHub issues">\
+  Example Java client to connect to ANPR
+
+## 📜 DAF
+
 - [daf](https://github.com/italia/daf)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf" alt="GitHub issues">\
   Data & Analytics Framework (DAF)
-- [pianotriennale-ict-doc](https://github.com/italia/pianotriennale-ict-doc)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc" alt="GitHub issues">\
-  Documento Piano Triennale ICT
-- [moduli-pa](https://github.com/italia/moduli-pa)
-  <img align="right" src="https://img.shields.io/github/stars/italia/moduli-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/moduli-pa" alt="GitHub issues">
-  
-- [pianotri-elencobasidatichiave](https://github.com/italia/pianotri-elencobasidatichiave)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-elencobasidatichiave?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotri-elencobasidatichiave" alt="GitHub issues">\
-  Piano Triennale: Elenco Basi Dati Chiave
+
 - [daf-piano-di-sviluppo](https://github.com/italia/daf-piano-di-sviluppo)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-piano-di-sviluppo?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-piano-di-sviluppo" alt="GitHub issues">\
   DAF Piano di Sviluppo
-- [pianotriennale-ict-doc-en](https://github.com/italia/pianotriennale-ict-doc-en)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc-en?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc-en" alt="GitHub issues">\
-  The Italian Three Year Plan for ICT - English translation
-- [ckan-it](https://github.com/italia/ckan-it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it" alt="GitHub issues">\
-  This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
-- [pianotri-schede-bdin](https://github.com/italia/pianotri-schede-bdin)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-schede-bdin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotri-schede-bdin" alt="GitHub issues">\
-  Schede Basi di Dati di Interesse Nazionale
+
 - [daf-ontologie-vocabolari-controllati](https://github.com/italia/daf-ontologie-vocabolari-controllati)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-ontologie-vocabolari-controllati?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-ontologie-vocabolari-controllati" alt="GitHub issues">\
   Elenco di ontologie e vocabolari controllati. Per maggiori informazioni, si veda il readme principale e quello di singoli vocabolari/ontologie, ove presente, e la seguente documentazione
+
 - [daf-dataportal](https://github.com/italia/daf-dataportal)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-dataportal?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-dataportal" alt="GitHub issues">\
@@ -590,6 +688,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantics" alt="GitHub issues">\
   Daf Semantics repository
+
 - [daf-ckan-crawler](https://github.com/italia/daf-ckan-crawler)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-ckan-crawler?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-ckan-crawler" alt="GitHub issues">\
@@ -599,102 +698,170 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-docs" alt="GitHub issues">\
   Documentation for the Data & Analytics Framework (DAF)
-- [anpr-wsdl-docwriter](https://github.com/italia/anpr-wsdl-docwriter)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-wsdl-docwriter?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-wsdl-docwriter" alt="GitHub issues">\
-  An automated generator of API documentation starting from WSDL files
-- [anpr-github-privacy-check](https://github.com/italia/anpr-github-privacy-check)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-github-privacy-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-github-privacy-check" alt="GitHub issues">\
-  A service to enforce the absence of sensitive data on ANPR tickets
-- [anpr-github-metrics](https://github.com/italia/anpr-github-metrics)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-github-metrics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-github-metrics" alt="GitHub issues">\
-  An analytics system for github issues
-- [security-pulse](https://github.com/italia/security-pulse)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-pulse?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-pulse" alt="GitHub issues">\
-  How the .gov domain space is doing at best practices and federal requirements.
-- [security-securethenews](https://github.com/italia/security-securethenews)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-securethenews?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-securethenews" alt="GitHub issues">\
-  An automated scanner and web dashboard for tracking TLS deployment across news organizations
-- [bootstrap-italia](https://github.com/italia/bootstrap-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
-  Bootstrap Italia è un tema Bootstrap 4 conforme alle linee guida di design per i servizi web della PA
-- [security-dashboard](https://github.com/italia/security-dashboard)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-dashboard?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-dashboard" alt="GitHub issues">\
-  A dashboard that shows the status of security features on .gov.it websites
-- [security-recipes](https://github.com/italia/security-recipes)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-recipes?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-recipes" alt="GitHub issues">\
-  Docker and other deploy recipes for security dashboards
-- [18app](https://github.com/italia/18app)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app" alt="GitHub issues">\
-  Official mobile app for 18app
-- [18app-java-sdk](https://github.com/italia/18app-java-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-java-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-java-sdk" alt="GitHub issues">\
-  Java SDK for developing applications which accept 18app vouchers (retails and stores)
-- [18app-dotnet-sdk](https://github.com/italia/18app-dotnet-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-dotnet-sdk" alt="GitHub issues">\
-  .NET SDK for developing merchant applications which accept 18app vouchers
-- [18app-cpp-sdk](https://github.com/italia/18app-cpp-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-cpp-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-cpp-sdk" alt="GitHub issues">\
-  C++ SDK for developing merchant applications which accept 18app vouchers
-- [domain-scan](https://github.com/italia/domain-scan)
-  <img align="right" src="https://img.shields.io/github/stars/italia/domain-scan?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/domain-scan" alt="GitHub issues">\
-  A pipeline for scanning domains to measure things like speed, accessibility, and HTTPS.
-- [18app-php-sdk](https://github.com/italia/18app-php-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-php-sdk" alt="GitHub issues">\
-  PHP SDK for developing merchant applications which accept 18app vouchers￼
-- [anpr-error-search](https://github.com/italia/anpr-error-search)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-error-search?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-error-search" alt="GitHub issues">\
-  A search interface to sort through error codes
+
 - [daf-d3-miur-studenti-ateneo](https://github.com/italia/daf-d3-miur-studenti-ateneo)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-d3-miur-studenti-ateneo?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-d3-miur-studenti-ateneo" alt="GitHub issues">\
   d3.js visualization using DAF data
-- [18app-python-sdk](https://github.com/italia/18app-python-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-python-sdk" alt="GitHub issues">\
-  Python SDK for developing merchant applications which accept 18app vouchers
-- [18app-magento-sdk](https://github.com/italia/18app-magento-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-magento-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-magento-sdk" alt="GitHub issues">\
-  Plugin per Magento per esercenti accreditati su 18app
-- [daf-kylo](https://github.com/italia/daf-kylo)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-kylo?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kylo" alt="GitHub issues">\
-  Kylo integration with PDND (previously DAF).
-- [18app-esercenti-docs](https://github.com/italia/18app-esercenti-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-esercenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-esercenti-docs" alt="GitHub issues">\
-  Docs for merchants integration with 18app
-- [censimento-ict](https://github.com/italia/censimento-ict)
-  <img align="right" src="https://img.shields.io/github/stars/italia/censimento-ict?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/censimento-ict" alt="GitHub issues">\
-  Documentazione del processo di Censimento ICT della PA
-- [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">
-  
-- [pandoc](https://github.com/italia/pandoc)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pandoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pandoc" alt="GitHub issues">\
-  Universal markup converter
+
 - [daf-d3-sose-rifiuti](https://github.com/italia/daf-d3-sose-rifiuti)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-d3-sose-rifiuti?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-d3-sose-rifiuti" alt="GitHub issues">\
   visualizzazione in d3.js dei dati relativi allo smaltimento dei rifiuti 
+
+- [daf-kylo](https://github.com/italia/daf-kylo)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-kylo?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kylo" alt="GitHub issues">\
+  Kylo integration with PDND (previously DAF).
+
+- [daf-dataportal-it-docs](https://github.com/italia/daf-dataportal-it-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-dataportal-it-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-dataportal-it-docs" alt="GitHub issues">\
+  DAF Dataportal: manuale per l'utente
+
+- [daf-mappa-quartiere](https://github.com/italia/daf-mappa-quartiere)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-mappa-quartiere?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-mappa-quartiere" alt="GitHub issues">\
+  A data application within DAF project
+
+- [daf-semantic-validator](https://github.com/italia/daf-semantic-validator)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-validator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-validator" alt="GitHub issues">
+  
+
+- [daf-semantic-katalod](https://github.com/italia/daf-semantic-katalod)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-katalod?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-katalod" alt="GitHub issues">
+  
+- [daf-vanilla-microservice](https://github.com/italia/daf-vanilla-microservice)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-vanilla-microservice?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-vanilla-microservice" alt="GitHub issues">\
+  An example of a skeleton for writing java and scala microservices using an api contract first approach using play 2.6 and swagger code gen
+- [daf-d3-unibo-scuole](https://github.com/italia/daf-d3-unibo-scuole)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-d3-unibo-scuole?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-d3-unibo-scuole" alt="GitHub issues">
+  
+- [daf-kafka-consumer](https://github.com/italia/daf-kafka-consumer)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-kafka-consumer?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-consumer" alt="GitHub issues">
+  
+- [daf-kafka-http-proxy](https://github.com/italia/daf-kafka-http-proxy)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-kafka-http-proxy?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-http-proxy" alt="GitHub issues">
+  
+- [daf-srv-ingestion](https://github.com/italia/daf-srv-ingestion)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-ingestion?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-ingestion" alt="GitHub issues">
+  
+- [daf-srv-catalog](https://github.com/italia/daf-srv-catalog)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-catalog?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-catalog" alt="GitHub issues">
+  
+- [daf-srv-configurator](https://github.com/italia/daf-srv-configurator)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-configurator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-configurator" alt="GitHub issues">
+  
+- [daf-srv-security](https://github.com/italia/daf-srv-security)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-security?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-security" alt="GitHub issues">
+  
+- [daf-srv-storage](https://github.com/italia/daf-srv-storage)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-storage?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-storage" alt="GitHub issues">
+  
+- [daf-util-common](https://github.com/italia/daf-util-common)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-util-common?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-util-common" alt="GitHub issues">
+  
+- [daf-semantic-triplifier](https://github.com/italia/daf-semantic-triplifier)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-triplifier?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">
+  
+- [daf-dhall-kubernetes](https://github.com/italia/daf-dhall-kubernetes)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-dhall-kubernetes?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-dhall-kubernetes" alt="GitHub issues">\
+  Typecheck, template and modularize your Kubernetes definitions with Dhall
+
+- [daf-semantic-kbaselib](https://github.com/italia/daf-semantic-kbaselib)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-kbaselib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">
+  
+- [daf-community](https://github.com/italia/daf-community)
+  <img align="right" src="https://img.shields.io/github/stars/italia/daf-community?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/daf-community" alt="GitHub issues">
+  
+
+
+## 🏗️ Tooling
+
+- 🍴 [pandoc](https://github.com/italia/pandoc)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pandoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pandoc" alt="GitHub issues">\
+  Universal markup converter
+
+- 🗑 [security-pulse](https://github.com/italia/security-pulse)
+  <img align="right" src="https://img.shields.io/github/stars/italia/security-pulse?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/security-pulse" alt="GitHub issues">\
+  How the .gov domain space is doing at best practices and federal requirements.
+
+- 🍴 🗑 [security-securethenews](https://github.com/italia/security-securethenews)
+  <img align="right" src="https://img.shields.io/github/stars/italia/security-securethenews?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/security-securethenews" alt="GitHub issues">\
+  An automated scanner and web dashboard for tracking TLS deployment across news organizations
+
+- 🗑 [security-dashboard](https://github.com/italia/security-dashboard)
+  <img align="right" src="https://img.shields.io/github/stars/italia/security-dashboard?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/security-dashboard" alt="GitHub issues">\
+  A dashboard that shows the status of security features on .gov.it websites
+
+- 🗑 [security-recipes](https://github.com/italia/security-recipes)
+  <img align="right" src="https://img.shields.io/github/stars/italia/security-recipes?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/security-recipes" alt="GitHub issues">\
+  Docker and other deploy recipes for security dashboards
+
+- 🍴 🗑 [domain-scan](https://github.com/italia/domain-scan)
+  <img align="right" src="https://img.shields.io/github/stars/italia/domain-scan?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/domain-scan" alt="GitHub issues">\
+  A pipeline for scanning domains to measure things like speed, accessibility, and HTTPS.
+
+## 🚧 Unsorted
+- [pianotriennale-ict-doc](https://github.com/italia/pianotriennale-ict-doc)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc" alt="GitHub issues">\
+  Documento Piano Triennale ICT
+
+- [pianotriennale-ict-doc-en](https://github.com/italia/pianotriennale-ict-doc-en)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc-en?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc-en" alt="GitHub issues">\
+  The Italian Three Year Plan for ICT - English translation
+
+- [pianotri-schede-bdin](https://github.com/italia/pianotri-schede-bdin)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-schede-bdin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pianotri-schede-bdin" alt="GitHub issues">\
+  Schede Basi di Dati di Interesse Nazionale
+
+- 👀 [moduli-pa](https://github.com/italia/moduli-pa)
+  <img align="right" src="https://img.shields.io/github/stars/italia/moduli-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/moduli-pa" alt="GitHub issues">
+
+- [pianotri-elencobasidatichiave](https://github.com/italia/pianotri-elencobasidatichiave)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-elencobasidatichiave?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pianotri-elencobasidatichiave" alt="GitHub issues">\
+  Piano Triennale: Elenco Basi Dati Chiave
+
+- [ckan-it](https://github.com/italia/ckan-it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it" alt="GitHub issues">\
+  This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
+
+- [censimento-ict](https://github.com/italia/censimento-ict)
+  <img align="right" src="https://img.shields.io/github/stars/italia/censimento-ict?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/censimento-ict" alt="GitHub issues">\
+  Documentazione del processo di Censimento ICT della PA
+
+- [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">
 - [pandoc-types](https://github.com/italia/pandoc-types)
   <img align="right" src="https://img.shields.io/github/stars/italia/pandoc-types?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pandoc-types" alt="GitHub issues">\
@@ -707,10 +874,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/relazionecommissionedigitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/relazionecommissionedigitale-docs" alt="GitHub issues">\
   Relazione della Commissione Parlamentare d'Inchiesta sulla Digitalizzazione e l'Innovazione della Pubblica Amministrazione
-- [anpr-client-example](https://github.com/italia/anpr-client-example)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-client-example" alt="GitHub issues">\
-  Example Java client to connect to ANPR
 - [docs-italia-guide](https://github.com/italia/docs-italia-guide)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-guide?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-guide" alt="GitHub issues">\
@@ -747,18 +910,10 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
   La documentazione del Cloud della PA
-- [daf-dataportal-it-docs](https://github.com/italia/daf-dataportal-it-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-dataportal-it-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-dataportal-it-docs" alt="GitHub issues">\
-  DAF Dataportal: manuale per l'utente
 - [foia-circolare2-docs](https://github.com/italia/foia-circolare2-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/foia-circolare2-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/foia-circolare2-docs" alt="GitHub issues">\
   Circolare n. 2 del 2017. Attuazione delle norme sul FOIA
-- [daf-mappa-quartiere](https://github.com/italia/daf-mappa-quartiere)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-mappa-quartiere?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-mappa-quartiere" alt="GitHub issues">\
-  A data application within DAF project
 - [docs-italia-deploy-scripts](https://github.com/italia/docs-italia-deploy-scripts)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-deploy-scripts?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-deploy-scripts" alt="GitHub issues">\
@@ -799,14 +954,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-onboarding?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-onboarding" alt="GitHub issues">\
   Onboarding web portal for the Developers Italia website
-- [daf-semantic-validator](https://github.com/italia/daf-semantic-validator)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-validator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-validator" alt="GitHub issues">
-  
-- [daf-semantic-katalod](https://github.com/italia/daf-semantic-katalod)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-katalod?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-katalod" alt="GitHub issues">
-  
 - [docs-italia-convertitore-web](https://github.com/italia/docs-italia-convertitore-web)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-convertitore-web?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-convertitore-web" alt="GitHub issues">
@@ -831,88 +978,37 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-testsdi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-testsdi" alt="GitHub issues">\
   Sistema d'Interscambio di test
-- [italia-conf](https://github.com/italia/italia-conf)
+- 👀 [italia-conf](https://github.com/italia/italia-conf)
   <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">
   
-- [awesome-rss-feeds](https://github.com/italia/awesome-rss-feeds)
+- 👀 [awesome-rss-feeds](https://github.com/italia/awesome-rss-feeds)
   <img align="right" src="https://img.shields.io/github/stars/italia/awesome-rss-feeds?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/awesome-rss-feeds" alt="GitHub issues">\
   A selection of interesting RSS feeds from the Italian Public Administration and use cases
-- [daf-vanilla-microservice](https://github.com/italia/daf-vanilla-microservice)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-vanilla-microservice?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-vanilla-microservice" alt="GitHub issues">\
-  An example of a skeleton for writing java and scala microservices using an api contract first approach using play 2.6 and swagger code gen
-- [daf-d3-unibo-scuole](https://github.com/italia/daf-d3-unibo-scuole)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-d3-unibo-scuole?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-d3-unibo-scuole" alt="GitHub issues">
-  
-- [daf-kafka-consumer](https://github.com/italia/daf-kafka-consumer)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-kafka-consumer?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-consumer" alt="GitHub issues">
-  
-- [daf-kafka-http-proxy](https://github.com/italia/daf-kafka-http-proxy)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-kafka-http-proxy?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-kafka-http-proxy" alt="GitHub issues">
-  
-- [agave-template-school](https://github.com/italia/agave-template-school)
-  <img align="right" src="https://img.shields.io/github/stars/italia/agave-template-school?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/agave-template-school" alt="GitHub issues">\
-  Public example of a school website to be used with Agave.
-- [ruby-agave-client](https://github.com/italia/ruby-agave-client)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ruby-agave-client?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ruby-agave-client" alt="GitHub issues">\
-  CLI tool for AgaveCMS
 - [agavecms](https://github.com/italia/agavecms)
   <img align="right" src="https://img.shields.io/github/stars/italia/agavecms?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/agavecms" alt="GitHub issues">\
   Agave è un software open-source composto da una serie di strumenti interconnessi che cooperano tra loro per la generazione di un sito statico
 
+- [ruby-agave-client](https://github.com/italia/ruby-agave-client)
+  <img align="right" src="https://img.shields.io/github/stars/italia/ruby-agave-client?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/ruby-agave-client" alt="GitHub issues">\
+  CLI tool for AgaveCMS
+- [agave-template-school](https://github.com/italia/agave-template-school)
+  <img align="right" src="https://img.shields.io/github/stars/italia/agave-template-school?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/agave-template-school" alt="GitHub issues">\
+  Public example of a school website to be used with Agave.
+
 - [codice-amministrazione-digitale-docs](https://github.com/italia/codice-amministrazione-digitale-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/codice-amministrazione-digitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">
   
-- [daf-srv-ingestion](https://github.com/italia/daf-srv-ingestion)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-ingestion?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-ingestion" alt="GitHub issues">
-  
-- [daf-srv-catalog](https://github.com/italia/daf-srv-catalog)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-catalog?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-catalog" alt="GitHub issues">
-  
-- [daf-srv-configurator](https://github.com/italia/daf-srv-configurator)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-configurator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-configurator" alt="GitHub issues">
-  
-- [daf-srv-security](https://github.com/italia/daf-srv-security)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-security?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-security" alt="GitHub issues">
-  
-- [daf-srv-storage](https://github.com/italia/daf-srv-storage)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-srv-storage?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-srv-storage" alt="GitHub issues">
-  
-- [daf-util-common](https://github.com/italia/daf-util-common)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-util-common?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-util-common" alt="GitHub issues">
-  
-- [daf-semantic-triplifier](https://github.com/italia/daf-semantic-triplifier)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-triplifier?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">
-  
-- [hugo-theme-bootstrap-italia](https://github.com/italia/hugo-theme-bootstrap-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/hugo-theme-bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/hugo-theme-bootstrap-italia" alt="GitHub issues">
-  A Hugo theme built with Bootstrap Italia (https://italia.github.io/bootstrap-italia/)
-- [daf-dhall-kubernetes](https://github.com/italia/daf-dhall-kubernetes)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-dhall-kubernetes?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-dhall-kubernetes" alt="GitHub issues">\
-  Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [cloud-enablement-kit](https://github.com/italia/cloud-enablement-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud-enablement-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">
   
-- [interoperabilita](https://github.com/italia/interoperabilita)
+- 🗑 [interoperabilita](https://github.com/italia/interoperabilita)
   <img align="right" src="https://img.shields.io/github/stars/italia/interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/interoperabilita" alt="GitHub issues">\
   Interoperabilità
@@ -924,10 +1020,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-gsoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-gsoc" alt="GitHub issues">\
   Documentation and discussion about GSoC projects
-- [daf-semantic-kbaselib](https://github.com/italia/daf-semantic-kbaselib)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-kbaselib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">
-  
 - [developers-italia-searchyll](https://github.com/italia/developers-italia-searchyll)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">
@@ -936,14 +1028,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-python?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-python" alt="GitHub issues">\
   Generatore a riga di comando di semplici fatture elettroniche FatturaPA per consulenti
-- [daf-community](https://github.com/italia/daf-community)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-community?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-community" alt="GitHub issues">
-  
-- [gl-acquisition-and-reuse-software-for-pa-docs](https://github.com/italia/gl-acquisition-and-reuse-software-for-pa-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/gl-acquisition-and-reuse-software-for-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/gl-acquisition-and-reuse-software-for-pa-docs" alt="GitHub issues">\
-  Guidelines on the acquisition and reuse of software for Public Administrations
 - [ckanext-dcatapit](https://github.com/italia/ckanext-dcatapit)
   <img align="right" src="https://img.shields.io/github/stars/italia/ckanext-dcatapit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ckanext-dcatapit" alt="GitHub issues">\
@@ -980,10 +1064,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/datapusher?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/datapusher" alt="GitHub issues">\
   A standalone web service that pushes data files from a CKAN site's resources into its DataStore
-- [hack.developers.italia.it](https://github.com/italia/hack.developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/hack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/hack.developers.italia.it" alt="GitHub issues">\
-  hack.developers.italia.it website
 - [dati-ontopia-virtuoso](https://github.com/italia/dati-ontopia-virtuoso)
   <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontopia-virtuoso?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontopia-virtuoso" alt="GitHub issues">\
@@ -1032,9 +1112,8 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/piano-nazionale-innovazione-2025-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/piano-nazionale-innovazione-2025-docs" alt="GitHub issues">\
   Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
-- [repubblica-digitale](https://github.com/italia/repubblica-digitale)
-  <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">
-  
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+🍴 = Forked from upstream
+❌ = Obsolete / Not working
+🗑= Should probably be removed
+👀 = Need info
