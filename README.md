@@ -12,7 +12,7 @@
 
 # Awesome Italia
 
-> The organized list of awesome @italia projects
+> The organized list of awesome @italia (and friends) projects
 
 ## ☑️  Guidelines
 
@@ -523,6 +523,14 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
   The developer community designing and developing public digital services in Italy
+  - [developers-italia-searchyll](https://github.com/italia/developers-italia-searchyll)
+    <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">
+      
+  - [developers-italia-backend](https://github.com/italia/developers-italia-backend)
+    <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-backend?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-backend" alt="GitHub issues">\
+     Backend & crawler for the OSS catalog of Developers Italia
 
 - [designers.italia.it](https://github.com/italia/designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -538,6 +546,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
   Tema per i documenti pubblicati su Docs Italia
+
+- [cloud.italia.it](https://github.com/italia/cloud.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud.italia.it" alt="GitHub issues">\
+  Repository ufficiale del Cloud della PA
 
 - [dati.gov.it](https://github.com/italia/dati.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -791,8 +804,12 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-community" alt="GitHub issues">
   
 
-
 ## 🏗️ Tooling
+
+- [repo-cookiecutter](https://github.com/italia/repo-cookiecutter)
+  <img align="right" src="https://img.shields.io/github/stars/italia/repo-cookiecutter?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/repo-cookiecutter" alt="GitHub issues">\
+  This repo is meant to be used as a template for creating new repos
 
 - 🍴 [pandoc](https://github.com/italia/pandoc)
   <img align="right" src="https://img.shields.io/github/stars/italia/pandoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -824,7 +841,28 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/issues/italia/domain-scan" alt="GitHub issues">\
   A pipeline for scanning domains to measure things like speed, accessibility, and HTTPS.
 
-## 🚧 Unsorted
+## 📜 Docs
+
+- [docs-italia-guide](https://github.com/italia/docs-italia-guide)
+  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-guide?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-guide" alt="GitHub issues">\
+  Guida alla pubblicazione dei documenti su Docs Italia
+
+- [codice-amministrazione-digitale-docs](https://github.com/italia/codice-amministrazione-digitale-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/codice-amministrazione-digitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">
+  Codice dell'amministrazione digitale
+
+- 🗑 [cad-docs](https://github.com/italia/cad-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cad-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cad-docs" alt="GitHub issues">\
+  Codice dell'amministrazione digitale
+
+- [piano-nazionale-innovazione-2025-docs](https://github.com/italia/piano-nazionale-innovazione-2025-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/piano-nazionale-innovazione-2025-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/piano-nazionale-innovazione-2025-docs" alt="GitHub issues">\
+  Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
+
 - [pianotriennale-ict-doc](https://github.com/italia/pianotriennale-ict-doc)
   <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc" alt="GitHub issues">\
@@ -834,6 +872,36 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc-en?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc-en" alt="GitHub issues">\
   The Italian Three Year Plan for ICT - English translation
+
+- [cloud-docs](https://github.com/italia/cloud-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
+  La documentazione del Cloud della PA
+
+- [censimento-ict](https://github.com/italia/censimento-ict)
+  <img align="right" src="https://img.shields.io/github/stars/italia/censimento-ict?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/censimento-ict" alt="GitHub issues">\
+  Documentazione del processo di Censimento ICT della PA
+
+- [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">
+
+- [cartadocente-esercenti-docs](https://github.com/italia/cartadocente-esercenti-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cartadocente-esercenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cartadocente-esercenti-docs" alt="GitHub issues">\
+  Guida a Carta del Docente per gli esercenti
+
+- [competenzedigitali-docs](https://github.com/italia/competenzedigitali-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/competenzedigitali-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/competenzedigitali-docs" alt="GitHub issues">
+  
+- [pell-illuminazionepubblica-docs](https://github.com/italia/pell-illuminazionepubblica-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pell-illuminazionepubblica-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pell-illuminazionepubblica-docs" alt="GitHub issues">
+  
+
+## 🚧 Unsorted
 
 - [pianotri-schede-bdin](https://github.com/italia/pianotri-schede-bdin)
   <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-schede-bdin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -854,30 +922,14 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it" alt="GitHub issues">\
   This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
 
-- [censimento-ict](https://github.com/italia/censimento-ict)
-  <img align="right" src="https://img.shields.io/github/stars/italia/censimento-ict?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/censimento-ict" alt="GitHub issues">\
-  Documentazione del processo di Censimento ICT della PA
-
-- [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">
 - [pandoc-types](https://github.com/italia/pandoc-types)
   <img align="right" src="https://img.shields.io/github/stars/italia/pandoc-types?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pandoc-types" alt="GitHub issues">\
   types for representing structured documents
-- [cad-docs](https://github.com/italia/cad-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cad-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cad-docs" alt="GitHub issues">\
-  Codice dell'amministrazione digitale
 - [relazionecommissionedigitale-docs](https://github.com/italia/relazionecommissionedigitale-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/relazionecommissionedigitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/relazionecommissionedigitale-docs" alt="GitHub issues">\
   Relazione della Commissione Parlamentare d'Inchiesta sulla Digitalizzazione e l'Innovazione della Pubblica Amministrazione
-- [docs-italia-guide](https://github.com/italia/docs-italia-guide)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-guide?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-guide" alt="GitHub issues">\
-  Guida alla pubblicazione dei documenti su Docs Italia
 - [docs-italia-starter-kit](https://github.com/italia/docs-italia-starter-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-starter-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-starter-kit" alt="GitHub issues">\
@@ -894,22 +946,10 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-comandi-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-comandi-conversione" alt="GitHub issues">\
   Comandi di conversione di formato per Docs Italia
-- [developers-italia-backend](https://github.com/italia/developers-italia-backend)
-  <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-backend?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-backend" alt="GitHub issues">\
-  Backend & crawler for the OSS catalog of Developers Italia
 - [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
   A Go parser for publiccode.yml files
-- [cloud.italia.it](https://github.com/italia/cloud.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud.italia.it" alt="GitHub issues">\
-  Repository ufficiale del Cloud della PA
-- [cloud-docs](https://github.com/italia/cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
-  La documentazione del Cloud della PA
 - [foia-circolare2-docs](https://github.com/italia/foia-circolare2-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/foia-circolare2-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/foia-circolare2-docs" alt="GitHub issues">\
@@ -918,18 +958,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-deploy-scripts?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-deploy-scripts" alt="GitHub issues">\
   Ansible playbooks for deploying docs.italia.it
-- [cartadocente-esercenti-docs](https://github.com/italia/cartadocente-esercenti-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cartadocente-esercenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cartadocente-esercenti-docs" alt="GitHub issues">\
-  Guida a Carta del Docente per gli esercenti
-- [competenzedigitali-docs](https://github.com/italia/competenzedigitali-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/competenzedigitali-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/competenzedigitali-docs" alt="GitHub issues">
-  
-- [pell-illuminazionepubblica-docs](https://github.com/italia/pell-illuminazionepubblica-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pell-illuminazionepubblica-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pell-illuminazionepubblica-docs" alt="GitHub issues">
-  
 - [writing-toolkit](https://github.com/italia/writing-toolkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/writing-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/writing-toolkit" alt="GitHub issues">\
@@ -1000,10 +1028,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/issues/italia/agave-template-school" alt="GitHub issues">\
   Public example of a school website to be used with Agave.
 
-- [codice-amministrazione-digitale-docs](https://github.com/italia/codice-amministrazione-digitale-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/codice-amministrazione-digitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">
-  
 - [cloud-enablement-kit](https://github.com/italia/cloud-enablement-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud-enablement-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">
@@ -1020,10 +1044,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-gsoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-gsoc" alt="GitHub issues">\
   Documentation and discussion about GSoC projects
-- [developers-italia-searchyll](https://github.com/italia/developers-italia-searchyll)
-  <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">
-  
 - [fatturapa-python](https://github.com/italia/fatturapa-python)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-python?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-python" alt="GitHub issues">\
@@ -1044,10 +1064,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/manuale-di-abilitazione-al-cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/manuale-di-abilitazione-al-cloud-docs" alt="GitHub issues">\
   Repo del doc Manuale di abilitazione al cloud
-- [repo-cookiecutter](https://github.com/italia/repo-cookiecutter)
-  <img align="right" src="https://img.shields.io/github/stars/italia/repo-cookiecutter?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/repo-cookiecutter" alt="GitHub issues">\
-  This repo is meant to be used as a template for creating new repos
 - [ckan](https://github.com/italia/ckan)
   <img align="right" src="https://img.shields.io/github/stars/italia/ckan?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ckan" alt="GitHub issues">\
@@ -1108,12 +1124,11 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it-postgis?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it-postgis" alt="GitHub issues">\
   PostGIS v11 packaged for CKAN and with some customizations.
-- [piano-nazionale-innovazione-2025-docs](https://github.com/italia/piano-nazionale-innovazione-2025-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/piano-nazionale-innovazione-2025-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/piano-nazionale-innovazione-2025-docs" alt="GitHub issues">\
-  Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
 
 🍴 = Forked from upstream
+
 ❌ = Obsolete / Not working
+
 🗑= Should probably be removed
+
 👀 = Need info
