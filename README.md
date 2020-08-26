@@ -10,6 +10,19 @@
   <br>
 </p>
 
+[<g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji>  Guidelines](#️--guidelines)
+• [<g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Mobile apps](#-mobile-apps)
+• [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> SPID](#-spid)
+• [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> Electronic identity card (CIE)](#-electronic-identity-card-cie)
+• [<g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">📐</g-emoji> Design](#-design)
+• [<g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> Websites](#-websites)
+• [<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> pagoPa](#-pagopa)
+• [<g-emoji class="g-emoji" alias="adult" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png">🧑</g-emoji> ANPR (Anagrafe Nazionale Popolazione Residente)](#-anpr-anagrafe-nazionale-popolazione-residente)
+• [<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> DAF](#-daf)
+• [<g-emoji class="g-emoji" alias="building_construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png">🏗️</g-emoji> Tooling](#️-tooling)
+• [<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Docs](#-docs)
+• [<g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> Unsorted](#-unsorted)
+
 # Awesome Italia
 
 > The organized list of awesome @italia (and friends) projects
@@ -196,7 +209,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/lg-spid-rilascio-identita-digitale-uso-professionale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
   SPID per uso professionale
-
 
 ### Libraries for SPID authentication
 
@@ -542,10 +554,39 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/docs.italia.it" alt="GitHub issues">\
   The source code that powers docs.italia.it
 
-- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
-  Tema per i documenti pubblicati su Docs Italia
+  - [docs-italia-theme](https://github.com/italia/docs-italia-theme)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
+    Tema per i documenti pubblicati su Docs Italia
+
+  - [docs-italia-convertitore-web](https://github.com/italia/docs-italia-convertitore-web)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-convertitore-web?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-convertitore-web" alt="GitHub issues">
+      
+  - [docs-italia-test-conversione](https://github.com/italia/docs-italia-test-conversione)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-test-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-test-conversione" alt="GitHub issues">\
+    test di regressione per https://github.com/italia/docs-italia-comandi-conversione
+
+  - [docs-italia-starter-kit](https://github.com/italia/docs-italia-starter-kit)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-starter-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-starter-kit" alt="GitHub issues">\
+    Starter kit per pubblicare su Docs Italia
+
+  - [docs-italia-pandoc-filters](https://github.com/italia/docs-italia-pandoc-filters)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-pandoc-filters?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-pandoc-filters" alt="GitHub issues">\
+    Filtri pandoc per Docs Italia
+
+  - [docs-italia-comandi-conversione](https://github.com/italia/docs-italia-comandi-conversione)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-comandi-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-comandi-conversione" alt="GitHub issues">\
+    Comandi di conversione di formato per Docs Italia
+
+  - [docs-italia-deploy-scripts](https://github.com/italia/docs-italia-deploy-scripts)
+    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-deploy-scripts?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-deploy-scripts" alt="GitHub issues">\
+    Ansible playbooks for deploying docs.italia.it
 
 - [cloud.italia.it](https://github.com/italia/cloud.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -591,8 +632,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/italia.github.io" alt="GitHub issues">\
   Github Pages for italia.github.io
 
-
-
 ## 💰 pagoPa
 
 - [pagopa-docs-overview](https://github.com/italia/pagopa-docs-overview)
@@ -636,7 +675,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-android-sdk" alt="GitHub issues">
   
 
-## ANPR (Anagrafe Nazionale Popolazione Residente)
+## 🧑 ANPR (Anagrafe Nazionale Popolazione Residente)
 
 L'anagrafe digitale Italiana
 
@@ -930,22 +969,10 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/relazionecommissionedigitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/relazionecommissionedigitale-docs" alt="GitHub issues">\
   Relazione della Commissione Parlamentare d'Inchiesta sulla Digitalizzazione e l'Innovazione della Pubblica Amministrazione
-- [docs-italia-starter-kit](https://github.com/italia/docs-italia-starter-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-starter-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-starter-kit" alt="GitHub issues">\
-  Starter kit per pubblicare su Docs Italia
-- [docs-italia-pandoc-filters](https://github.com/italia/docs-italia-pandoc-filters)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-pandoc-filters?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-pandoc-filters" alt="GitHub issues">\
-  Filtri pandoc per Docs Italia
 - [pandoc-font-to-style](https://github.com/italia/pandoc-font-to-style)
   <img align="right" src="https://img.shields.io/github/stars/italia/pandoc-font-to-style?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pandoc-font-to-style" alt="GitHub issues">\
   convert DOCX fonts into formatting
-- [docs-italia-comandi-conversione](https://github.com/italia/docs-italia-comandi-conversione)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-comandi-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-comandi-conversione" alt="GitHub issues">\
-  Comandi di conversione di formato per Docs Italia
 - [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
@@ -954,10 +981,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/foia-circolare2-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/foia-circolare2-docs" alt="GitHub issues">\
   Circolare n. 2 del 2017. Attuazione delle norme sul FOIA
-- [docs-italia-deploy-scripts](https://github.com/italia/docs-italia-deploy-scripts)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-deploy-scripts?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-deploy-scripts" alt="GitHub issues">\
-  Ansible playbooks for deploying docs.italia.it
 - [writing-toolkit](https://github.com/italia/writing-toolkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/writing-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/writing-toolkit" alt="GitHub issues">\
@@ -982,14 +1005,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-onboarding?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-onboarding" alt="GitHub issues">\
   Onboarding web portal for the Developers Italia website
-- [docs-italia-convertitore-web](https://github.com/italia/docs-italia-convertitore-web)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-convertitore-web?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-convertitore-web" alt="GitHub issues">
-  
-- [docs-italia-test-conversione](https://github.com/italia/docs-italia-test-conversione)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-test-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-test-conversione" alt="GitHub issues">\
-  test di regressione per https://github.com/italia/docs-italia-comandi-conversione
 - [fatturapa-php-sdk](https://github.com/italia/fatturapa-php-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-php-sdk" alt="GitHub issues">\
