@@ -27,7 +27,7 @@ class GitHub
   end
 
   def contributors(repo)
-    commits = paginated_get("https://api.github.com/repos/#{repo}/commits?per_page=100&since=2020-01-09T00:00:00Z")
+    commits = paginated_get("https://api.github.com/repos/#{repo}/commits?per_page=100&since=2020-09-30T00:00:00Z")
     # commits = paginated_get("https://api.github.com/repos/#{repo}/commits?per_page=100")
 
     commits.group_by { |c| c.dig('author', 'login') }
@@ -100,7 +100,7 @@ repos = gh.repos
 
 medals = %w[🥇 🥈 🥉]
 
-puts "# Contributions\n"
+puts "# Hacktoberfest 2020 contributions\n"
 
 repos.each do |repo|
   name = repo['full_name']
@@ -116,7 +116,7 @@ repos.each do |repo|
   puts "- [#{repo['name']}](#{repo['html_url']})"
   puts "  <img align='right' src='https://img.shields.io/github/stars/#{name}?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'>"
   print "  <img align='right' src='https://img.shields.io/github/issues/#{name}' alt='GitHub issues'>"
-  puts "\\\n  #{repo['description']}"
+  puts "\\\n  #{repo['description']}" unless repo['description'].nil?
   puts
 
   medals.each_with_index do |medal, i|
