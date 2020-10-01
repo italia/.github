@@ -6,21 +6,37 @@ jobs:
       - image: cimg/ruby:2.6
     steps:
       - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - 23:92:86:f2:fc:ae:e4:97:19:10:7e:3b:ef:e0:dd:11
       - run:
           command: |
             cd scripts
             gem install bundler:1.17.3
             bundle
-            ./repos.rb > README-HACKTOBERFEST.md
+            ./repos.rb > ../README-HACKTOBERFEST.md
+            git config --global user.email no-reply@teamdigitale.governo.it
+            git config --global user.name "Deploy Bot"
+            git add ../README-HACKTOBERFEST.md
+            git commit -m 'Update README-HACKTOBERFEST.md [ci skip]'
+            git push
 
 workflows:
   update:
     triggers:
       - schedule:
-          cron: "0 0 * * *"
+          cron: "0 0,9 * * *"
           filters:
             branches:
               only:
                 - master
     jobs:
       - update_readme_hacktoberfest
+
+  update-on-commit:
+    jobs:
+      - update_readme_hacktoberfest:
+          filters:
+            branches:
+              only:
+                - master
