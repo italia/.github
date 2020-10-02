@@ -8,7 +8,9 @@ require 'bundler/setup'
 require 'httparty'
 
 ORGS = %w[italia teamdigitale].freeze
-EXCLUDED_MEMBERS = %w[rasky ruphy gunzip gvarisco biancini umbros jenkin cloudify matteodesanti pdavide].freeze
+EXCLUDED_MEMBERS = %w[
+  rasky ruphy gunzip gvarisco biancini umbros jenkin cloudify matteodesanti pdavide giorgialodi danieledebernardinDTD
+].freeze
 
 class GitHub
   include HTTParty
@@ -114,8 +116,8 @@ repos.each do |repo|
   sorted = sort_contribs(contributors)
 
   puts "- [#{repo['name']}](#{repo['html_url']})"
-  puts "  <img align='right' src='https://img.shields.io/github/stars/#{name}?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'>"
-  print "  <img align='right' src='https://img.shields.io/github/issues/#{name}' alt='GitHub issues'>"
+  puts "  <a href='#{repo['html_url']}/stargazers'><img align='right' src='https://img.shields.io/github/stars/#{name}?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>"
+  print "  <a href='#{repo['html_url']}/issues'><img align='right' src='https://img.shields.io/github/issues/#{name}' alt='GitHub issues'></a>"
   puts "\\\n  #{repo['description']}" unless repo['description'].nil?
   puts
 
