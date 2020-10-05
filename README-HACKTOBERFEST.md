@@ -10,7 +10,8 @@
   <a href='https://github.com/italia/developers.italia.it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/developers.italia.it' alt='GitHub issues'></a>\
   The developer community designing and developing public digital services in Italy
 
-  🥇 **[ameybhavsar24](https://github.com/ameybhavsar24)** (2) 
+  🥇 **[ameybhavsar24](https://github.com/ameybhavsar24)** (10) 
+  🥈 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥈 **[akashprasher](https://github.com/akashprasher)** (1)   🥈 **[ccatterina](https://github.com/ccatterina)** (1) 
 
 - [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
   <a href='https://github.com/italia/awesome-italian-public-datasets/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -636,6 +637,10 @@
   Prototipo HiFi del progetto scuole
 
 
+- [design-linee-guida-docs](https://github.com/italia/design-linee-guida-docs)
+  <a href='https://github.com/italia/design-linee-guida-docs/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-linee-guida-docs?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/design-linee-guida-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-linee-guida-docs' alt='GitHub issues'></a>
+
 - [codice-amministrazione-digitale-docs](https://github.com/italia/codice-amministrazione-digitale-docs)
   <a href='https://github.com/italia/codice-amministrazione-digitale-docs/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/codice-amministrazione-digitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/codice-amministrazione-digitale-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs' alt='GitHub issues'></a>
@@ -691,10 +696,6 @@
   <a href='https://github.com/italia/spid-go/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-go' alt='GitHub issues'></a>\
   Go package for SPID authentication
 
-
-- [design-linee-guida-docs](https://github.com/italia/design-linee-guida-docs)
-  <a href='https://github.com/italia/design-linee-guida-docs/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-linee-guida-docs?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/design-linee-guida-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-linee-guida-docs' alt='GitHub issues'></a>
 
 - [docs-italia-theme-legacy](https://github.com/teamdigitale/docs-italia-theme-legacy)
   <a href='https://github.com/teamdigitale/docs-italia-theme-legacy/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/docs-italia-theme-legacy?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
