@@ -11,7 +11,7 @@
   The developer community designing and developing public digital services in Italy
 
   🥇 **[ameybhavsar24](https://github.com/ameybhavsar24)** (10) 
-  🥈 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥈 **[akashprasher](https://github.com/akashprasher)** (1)   🥈 **[ccatterina](https://github.com/ccatterina)** (1) 
+  🥈 **[UchihaCFC](https://github.com/UchihaCFC)** (1)   🥈 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥈 **[akashprasher](https://github.com/akashprasher)** (1)   🥈 **[ccatterina](https://github.com/ccatterina)** (1) 
 
 - [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
   <a href='https://github.com/italia/awesome-italian-public-datasets/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -49,16 +49,16 @@
   PHP SDK per la fatturazione elettronica
 
 
-- [dati.gov.it](https://github.com/italia/dati.gov.it)
-  <a href='https://github.com/italia/dati.gov.it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/dati.gov.it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/dati.gov.it' alt='GitHub issues'></a>\
-  dati.gov.it: il sito degli opendata italiani
-
-
 - [daf-ontologie-vocabolari-controllati](https://github.com/italia/daf-ontologie-vocabolari-controllati)
   <a href='https://github.com/italia/daf-ontologie-vocabolari-controllati/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/daf-ontologie-vocabolari-controllati?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/daf-ontologie-vocabolari-controllati/issues'><img align='right' src='https://img.shields.io/github/issues/italia/daf-ontologie-vocabolari-controllati' alt='GitHub issues'></a>\
   Elenco di ontologie e vocabolari controllati. Per maggiori informazioni, si veda il readme principale e quello di singoli vocabolari/ontologie, ove presente, e la seguente documentazione
+
+
+- [dati.gov.it](https://github.com/italia/dati.gov.it)
+  <a href='https://github.com/italia/dati.gov.it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/dati.gov.it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/dati.gov.it' alt='GitHub issues'></a>\
+  dati.gov.it: il sito degli opendata italiani
 
 
 - [design-wordpress-theme](https://github.com/italia/design-wordpress-theme)
