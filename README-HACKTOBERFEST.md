@@ -11,7 +11,7 @@
   The developer community designing and developing public digital services in Italy
 
   🥇 **[ameybhavsar24](https://github.com/ameybhavsar24)** (10) 
-  🥈 **[UchihaCFC](https://github.com/UchihaCFC)** (1)   🥈 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥈 **[akashprasher](https://github.com/akashprasher)** (1)   🥈 **[ccatterina](https://github.com/ccatterina)** (1) 
+  🥈 **[Guiguerreiro39](https://github.com/Guiguerreiro39)** (1)   🥈 **[UchihaCFC](https://github.com/UchihaCFC)** (1)   🥈 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥈 **[akashprasher](https://github.com/akashprasher)** (1)   🥈 **[ccatterina](https://github.com/ccatterina)** (1) 
 
 - [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
   <a href='https://github.com/italia/awesome-italian-public-datasets/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -36,6 +36,7 @@
   <a href='https://github.com/italia/design-react-kit/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-react-kit' alt='GitHub issues'></a>\
   A React toolkit that implements the Italia design system
 
+  🥇 **[sanyamdogra](https://github.com/sanyamdogra)** (1) 
 
 - [anpr](https://github.com/italia/anpr)
   <a href='https://github.com/italia/anpr/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/anpr?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -109,6 +110,12 @@
   SPID - Sistema Pubblico di Identità Digitale
 
 
+- [publiccode.yml](https://github.com/italia/publiccode.yml)
+  <a href='https://github.com/italia/publiccode.yml/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/publiccode.yml/issues'><img align='right' src='https://img.shields.io/github/issues/italia/publiccode.yml' alt='GitHub issues'></a>\
+  publiccode.yml is a metadata standard for public software
+
+
 - [design-django-theme](https://github.com/italia/design-django-theme)
   <a href='https://github.com/italia/design-django-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/design-django-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-django-theme' alt='GitHub issues'></a>\
@@ -126,12 +133,7 @@
   <a href='https://github.com/italia/spid-testenv2/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-testenv2' alt='GitHub issues'></a>\
   New test Identity Provider for SPID
 
-
-- [publiccode.yml](https://github.com/italia/publiccode.yml)
-  <a href='https://github.com/italia/publiccode.yml/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/publiccode.yml/issues'><img align='right' src='https://img.shields.io/github/issues/italia/publiccode.yml' alt='GitHub issues'></a>\
-  publiccode.yml is a metadata standard for public software
-
+  🥇 **[fmarco](https://github.com/fmarco)** (1) 
 
 - [design-comuni-prototipi](https://github.com/italia/design-comuni-prototipi)
   <a href='https://github.com/italia/design-comuni-prototipi/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-comuni-prototipi?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -372,6 +374,7 @@
   <a href='https://github.com/italia/spid-saml-check/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-saml-check' alt='GitHub issues'></a>\
   Tool di verifica implementazione SPID SAML
 
+  🥇 **[codeweb](https://github.com/codeweb)** (1) 
 
 - [design-italia-gatsby-starterkit](https://github.com/italia/design-italia-gatsby-starterkit)
   <a href='https://github.com/italia/design-italia-gatsby-starterkit/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-italia-gatsby-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -559,6 +562,12 @@
   SPID Service Provider SAML basato su SapSpid
 
 
+- [anpr-client-example](https://github.com/italia/anpr-client-example)
+  <a href='https://github.com/italia/anpr-client-example/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/anpr-client-example/issues'><img align='right' src='https://img.shields.io/github/issues/italia/anpr-client-example' alt='GitHub issues'></a>\
+  Example Java client to connect to ANPR
+
+
 - [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
   <a href='https://github.com/italia/publiccode-parser-go/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/publiccode-parser-go/issues'><img align='right' src='https://img.shields.io/github/issues/italia/publiccode-parser-go' alt='GitHub issues'></a>\
@@ -611,12 +620,6 @@
   <a href='https://github.com/italia/spid-perl/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-perl?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/spid-perl/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-perl' alt='GitHub issues'></a>\
   Perl module for SPID authentication
-
-
-- [anpr-client-example](https://github.com/italia/anpr-client-example)
-  <a href='https://github.com/italia/anpr-client-example/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/anpr-client-example/issues'><img align='right' src='https://img.shields.io/github/issues/italia/anpr-client-example' alt='GitHub issues'></a>\
-  Example Java client to connect to ANPR
 
 
 - [OntoPiA-UI](https://github.com/italia/OntoPiA-UI)
@@ -846,6 +849,7 @@
   <a href='https://github.com/italia/design-wordpress-theme-italiaWP2/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-wordpress-theme-italiaWP2' alt='GitHub issues'></a>\
   Tema WordPress open-source per la Pubblica Amministrazione basato su Bootstrap Italia
 
+  🥇 **[borisamico](https://github.com/borisamico)** (1) 
 
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <a href='https://github.com/italia/repubblica-digitale/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -1062,6 +1066,10 @@
   <a href='https://github.com/italia/piano-nazionale-innovazione-2025-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/piano-nazionale-innovazione-2025-docs' alt='GitHub issues'></a>\
   Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
 
+
+- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
+  <a href='https://github.com/italia/httpclient-lib-go/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/httpclient-lib-go/issues'><img align='right' src='https://img.shields.io/github/issues/italia/httpclient-lib-go' alt='GitHub issues'></a>
 
 - [openapi](https://github.com/teamdigitale/openapi)
   <a href='https://github.com/teamdigitale/openapi/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/openapi?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
