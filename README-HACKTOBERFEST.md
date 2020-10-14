@@ -11,7 +11,8 @@
   The developer community designing and developing public digital services in Italy
 
   🥇 **[ameybhavsar24](https://github.com/ameybhavsar24)** (10) 
-  🥈 **[Guiguerreiro39](https://github.com/Guiguerreiro39)** (1)   🥈 **[UchihaCFC](https://github.com/UchihaCFC)** (1)   🥈 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥈 **[akashprasher](https://github.com/akashprasher)** (1)   🥈 **[ccatterina](https://github.com/ccatterina)** (1) 
+  🥈 **[ccatterina](https://github.com/ccatterina)** (2)   🥈 **[Guiguerreiro39](https://github.com/Guiguerreiro39)** (2) 
+  🥉 **[joneskj55](https://github.com/joneskj55)** (1)   🥉 **[maurovitale](https://github.com/maurovitale)** (1)   🥉 **[namrataaaa](https://github.com/namrataaaa)** (1)   🥉 **[UchihaCFC](https://github.com/UchihaCFC)** (1)   🥉 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥉 **[akashprasher](https://github.com/akashprasher)** (1) 
 
 - [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
   <a href='https://github.com/italia/awesome-italian-public-datasets/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -104,6 +105,12 @@
   Tema Wordpress dedicato al progetto per i siti delle scuole
 
 
+- [spid-laravel](https://github.com/italia/spid-laravel)
+  <a href='https://github.com/italia/spid-laravel/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-laravel/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-laravel' alt='GitHub issues'></a>\
+  SPID authentication package for Laravel
+
+
 - [spid](https://github.com/italia/spid)
   <a href='https://github.com/italia/spid/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/spid/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid' alt='GitHub issues'></a>\
@@ -120,12 +127,6 @@
   <a href='https://github.com/italia/design-django-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/design-django-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-django-theme' alt='GitHub issues'></a>\
   Bootstrap Italia template for Django
-
-
-- [spid-laravel](https://github.com/italia/spid-laravel)
-  <a href='https://github.com/italia/spid-laravel/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-laravel/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-laravel' alt='GitHub issues'></a>\
-  SPID authentication package for Laravel
 
 
 - [spid-testenv2](https://github.com/italia/spid-testenv2)
@@ -183,6 +184,12 @@
   SPID authentication library for .NET
 
 
+- [spid-php-lib](https://github.com/italia/spid-php-lib)
+  <a href='https://github.com/italia/spid-php-lib/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-php-lib/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-php-lib' alt='GitHub issues'></a>\
+  PHP package for SPID authentication
+
+
 - [spid-sp-access-button](https://github.com/italia/spid-sp-access-button)
   <a href='https://github.com/italia/spid-sp-access-button/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-sp-access-button?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/spid-sp-access-button/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-sp-access-button' alt='GitHub issues'></a>\
@@ -193,12 +200,6 @@
   <a href='https://github.com/italia/cie-PN532/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-PN532?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/cie-PN532/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-PN532' alt='GitHub issues'></a>\
   Arduino library for SPI and I2C access to the NFC chip in the Italian Electronic Identity Card (CIE)
-
-
-- [spid-php-lib](https://github.com/italia/spid-php-lib)
-  <a href='https://github.com/italia/spid-php-lib/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-php-lib/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-php-lib' alt='GitHub issues'></a>\
-  PHP package for SPID authentication
 
 
 - [cie-ideaapp](https://github.com/italia/cie-ideaapp)
@@ -249,6 +250,12 @@
   Sito Piano Triennale ICT
 
 
+- [ckan-it](https://github.com/italia/ckan-it)
+  <a href='https://github.com/italia/ckan-it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/ckan-it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/ckan-it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/ckan-it' alt='GitHub issues'></a>\
+  This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
+
+
 - [cie-nis-python-sdk](https://github.com/italia/cie-nis-python-sdk)
   <a href='https://github.com/italia/cie-nis-python-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-nis-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/cie-nis-python-sdk/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-nis-python-sdk' alt='GitHub issues'></a>\
@@ -267,16 +274,16 @@
   A wordpress theme based on the legacy Italia web toolkit
 
 
-- [ckan-it](https://github.com/italia/ckan-it)
-  <a href='https://github.com/italia/ckan-it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/ckan-it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/ckan-it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/ckan-it' alt='GitHub issues'></a>\
-  This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
-
-
 - [developers-italia-backend](https://github.com/italia/developers-italia-backend)
   <a href='https://github.com/italia/developers-italia-backend/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/developers-italia-backend?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/developers-italia-backend/issues'><img align='right' src='https://img.shields.io/github/issues/italia/developers-italia-backend' alt='GitHub issues'></a>\
   Backend & crawler for the OSS catalog of Developers Italia
+
+
+- [spid-metadata-signer](https://github.com/italia/spid-metadata-signer)
+  <a href='https://github.com/italia/spid-metadata-signer/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-metadata-signer?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-metadata-signer/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-metadata-signer' alt='GitHub issues'></a>\
+  Tool per la firma del metadata SAML SPID
 
 
 - [spid-smart-button](https://github.com/italia/spid-smart-button)
@@ -295,12 +302,6 @@
   <a href='https://github.com/italia/spid-idp-login-layout/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-idp-login-layout?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/spid-idp-login-layout/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-idp-login-layout' alt='GitHub issues'></a>\
   User Interface per Identity Provider SPID
-
-
-- [spid-metadata-signer](https://github.com/italia/spid-metadata-signer)
-  <a href='https://github.com/italia/spid-metadata-signer/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-metadata-signer?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-metadata-signer/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-metadata-signer' alt='GitHub issues'></a>\
-  Tool per la firma del metadata SAML SPID
 
 
 - [spid-wordpress](https://github.com/italia/spid-wordpress)
@@ -326,6 +327,13 @@
   <a href='https://github.com/italia/lg-acquisizione-e-riuso-software-per-pa-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/lg-acquisizione-e-riuso-software-per-pa-docs' alt='GitHub issues'></a>\
   Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
 
+
+- [spid-saml-check](https://github.com/italia/spid-saml-check)
+  <a href='https://github.com/italia/spid-saml-check/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-saml-check/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-saml-check' alt='GitHub issues'></a>\
+  Tool di verifica implementazione SPID SAML
+
+  🥇 **[codeweb](https://github.com/codeweb)** (2) 
 
 - [agavecms](https://github.com/italia/agavecms)
   <a href='https://github.com/italia/agavecms/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/agavecms?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -369,12 +377,11 @@
   Official Italian wireframe kit for LoFi prototyping
 
 
-- [spid-saml-check](https://github.com/italia/spid-saml-check)
-  <a href='https://github.com/italia/spid-saml-check/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-saml-check/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-saml-check' alt='GitHub issues'></a>\
-  Tool di verifica implementazione SPID SAML
+- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
+  <a href='https://github.com/italia/design-laravel-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/design-laravel-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-laravel-theme' alt='GitHub issues'></a>\
+  Easy Bootstrap-Italia integration with Laravel 5
 
-  🥇 **[codeweb](https://github.com/codeweb)** (1) 
 
 - [design-italia-gatsby-starterkit](https://github.com/italia/design-italia-gatsby-starterkit)
   <a href='https://github.com/italia/design-italia-gatsby-starterkit/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-italia-gatsby-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -408,12 +415,6 @@
   <a href='https://github.com/italia/cad-docs/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cad-docs?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/cad-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cad-docs' alt='GitHub issues'></a>\
   Codice dell'amministrazione digitale
-
-
-- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
-  <a href='https://github.com/italia/design-laravel-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/design-laravel-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-laravel-theme' alt='GitHub issues'></a>\
-  Easy Bootstrap-Italia integration with Laravel 5
 
 
 - [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
@@ -849,7 +850,7 @@
   <a href='https://github.com/italia/design-wordpress-theme-italiaWP2/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-wordpress-theme-italiaWP2' alt='GitHub issues'></a>\
   Tema WordPress open-source per la Pubblica Amministrazione basato su Bootstrap Italia
 
-  🥇 **[borisamico](https://github.com/borisamico)** (1) 
+  🥇 **[borisamico](https://github.com/borisamico)** (3) 
 
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <a href='https://github.com/italia/repubblica-digitale/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
