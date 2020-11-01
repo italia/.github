@@ -4,6 +4,7 @@
   <a href='https://github.com/italia/bootstrap-italia/issues'><img align='right' src='https://img.shields.io/github/issues/italia/bootstrap-italia' alt='GitHub issues'></a>\
   Bootstrap Italia è un tema Bootstrap 4 conforme alle linee guida di design per i servizi web della PA
 
+  🥇 **[ffranchina](https://github.com/ffranchina)** (2) 
 
 - [developers.italia.it](https://github.com/italia/developers.italia.it)
   <a href='https://github.com/italia/developers.italia.it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -11,8 +12,8 @@
   The developer community designing and developing public digital services in Italy
 
   🥇 **[ameybhavsar24](https://github.com/ameybhavsar24)** (10) 
-  🥈 **[ccatterina](https://github.com/ccatterina)** (2)   🥈 **[Guiguerreiro39](https://github.com/Guiguerreiro39)** (2) 
-  🥉 **[joneskj55](https://github.com/joneskj55)** (1)   🥉 **[maurovitale](https://github.com/maurovitale)** (1)   🥉 **[namrataaaa](https://github.com/namrataaaa)** (1)   🥉 **[UchihaCFC](https://github.com/UchihaCFC)** (1)   🥉 **[adrienluitot](https://github.com/adrienluitot)** (1)   🥉 **[akashprasher](https://github.com/akashprasher)** (1) 
+  🥈 **[maurovitale](https://github.com/maurovitale)** (4) 
+  🥉 **[UchihaCFC](https://github.com/UchihaCFC)** (2)   🥉 **[ccatterina](https://github.com/ccatterina)** (2)   🥉 **[Guiguerreiro39](https://github.com/Guiguerreiro39)** (2) 
 
 - [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
   <a href='https://github.com/italia/awesome-italian-public-datasets/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -37,13 +38,15 @@
   <a href='https://github.com/italia/design-react-kit/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-react-kit' alt='GitHub issues'></a>\
   A React toolkit that implements the Italia design system
 
-  🥇 **[sanyamdogra](https://github.com/sanyamdogra)** (1) 
+  🥇 **[sanyamdogra](https://github.com/sanyamdogra)** (4) 
+  🥈 **[simonhoyos](https://github.com/simonhoyos)** (1)   🥈 **[ffranchina](https://github.com/ffranchina)** (1) 
 
 - [anpr](https://github.com/italia/anpr)
   <a href='https://github.com/italia/anpr/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/anpr?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/anpr/issues'><img align='right' src='https://img.shields.io/github/issues/italia/anpr' alt='GitHub issues'></a>\
   Issue tracker e documentazione di ANPR - Anagrafe Nazionale della Popolazione Residente
 
+  🥇 **[mttfranci](https://github.com/mttfranci)** (4) 
 
 - [fatturapa-php-sdk](https://github.com/italia/fatturapa-php-sdk)
   <a href='https://github.com/italia/fatturapa-php-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/fatturapa-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -57,16 +60,16 @@
   Elenco di ontologie e vocabolari controllati. Per maggiori informazioni, si veda il readme principale e quello di singoli vocabolari/ontologie, ove presente, e la seguente documentazione
 
 
-- [dati.gov.it](https://github.com/italia/dati.gov.it)
-  <a href='https://github.com/italia/dati.gov.it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/dati.gov.it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/dati.gov.it' alt='GitHub issues'></a>\
-  dati.gov.it: il sito degli opendata italiani
-
-
 - [design-wordpress-theme](https://github.com/italia/design-wordpress-theme)
   <a href='https://github.com/italia/design-wordpress-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/design-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/design-wordpress-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-wordpress-theme' alt='GitHub issues'></a>\
   Tema di WordPress per la Pubblica Amministrazione che implementa Bootstrap Italia. 
+
+
+- [dati.gov.it](https://github.com/italia/dati.gov.it)
+  <a href='https://github.com/italia/dati.gov.it/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/dati.gov.it/issues'><img align='right' src='https://img.shields.io/github/issues/italia/dati.gov.it' alt='GitHub issues'></a>\
+  dati.gov.it: il sito degli opendata italiani
 
 
 - [daf](https://github.com/italia/daf)
@@ -86,6 +89,7 @@
   <a href='https://github.com/italia/cie-middleware/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-middleware' alt='GitHub issues'></a>\
   Middleware della CIE (Carta di identità elettronica)
 
+  🥇 **[bitpdg](https://github.com/bitpdg)** (2) 
 
 - [pianotriennale-ict-doc](https://github.com/italia/pianotriennale-ict-doc)
   <a href='https://github.com/italia/pianotriennale-ict-doc/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/pianotriennale-ict-doc?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -105,16 +109,16 @@
   Tema Wordpress dedicato al progetto per i siti delle scuole
 
 
-- [spid-laravel](https://github.com/italia/spid-laravel)
-  <a href='https://github.com/italia/spid-laravel/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-laravel/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-laravel' alt='GitHub issues'></a>\
-  SPID authentication package for Laravel
-
-
 - [spid](https://github.com/italia/spid)
   <a href='https://github.com/italia/spid/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/spid/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid' alt='GitHub issues'></a>\
   SPID - Sistema Pubblico di Identità Digitale
+
+
+- [spid-laravel](https://github.com/italia/spid-laravel)
+  <a href='https://github.com/italia/spid-laravel/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-laravel/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-laravel' alt='GitHub issues'></a>\
+  SPID authentication package for Laravel
 
 
 - [publiccode.yml](https://github.com/italia/publiccode.yml)
@@ -128,6 +132,8 @@
   <a href='https://github.com/italia/design-django-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-django-theme' alt='GitHub issues'></a>\
   Bootstrap Italia template for Django
 
+  🥇 **[francesco-filicetti](https://github.com/francesco-filicetti)** (4) 
+  🥈 **[peppelinux](https://github.com/peppelinux)** (3) 
 
 - [spid-testenv2](https://github.com/italia/spid-testenv2)
   <a href='https://github.com/italia/spid-testenv2/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-testenv2?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -202,24 +208,6 @@
   Arduino library for SPI and I2C access to the NFC chip in the Italian Electronic Identity Card (CIE)
 
 
-- [cie-ideaapp](https://github.com/italia/cie-ideaapp)
-  <a href='https://github.com/italia/cie-ideaapp/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-ideaapp?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/cie-ideaapp/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-ideaapp' alt='GitHub issues'></a>\
-  App IDEA per Android che consente la lettura dati documento ICAO
-
-
-- [spid-django](https://github.com/italia/spid-django)
-  <a href='https://github.com/italia/spid-django/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-django/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-django' alt='GitHub issues'></a>\
-  SPID authentication for Django
-
-
-- [spid-passport](https://github.com/italia/spid-passport)
-  <a href='https://github.com/italia/spid-passport/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-passport?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-passport/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-passport' alt='GitHub issues'></a>\
-  Passport authentication provider for SPID
-
-
 - [spid-php](https://github.com/italia/spid-php)
   <a href='https://github.com/italia/spid-php/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-php?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/spid-php/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-php' alt='GitHub issues'></a>\
@@ -232,16 +220,10 @@
   Un toolkit Angular conforme alle linee guida di design per i servizi web della PA
 
 
-- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
-  <a href='https://github.com/italia/docs-italia-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/docs-italia-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/docs-italia-theme' alt='GitHub issues'></a>\
-  Tema per i documenti pubblicati su Docs Italia
-
-
-- [spid-regole-tecniche](https://github.com/italia/spid-regole-tecniche)
-  <a href='https://github.com/italia/spid-regole-tecniche/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-regole-tecniche?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-regole-tecniche/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-regole-tecniche' alt='GitHub issues'></a>\
-  Regole tecniche SPID
+- [cie-ideaapp](https://github.com/italia/cie-ideaapp)
+  <a href='https://github.com/italia/cie-ideaapp/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-ideaapp?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/cie-ideaapp/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-ideaapp' alt='GitHub issues'></a>\
+  App IDEA per Android che consente la lettura dati documento ICAO
 
 
 - [pianotriennale-ict.italia.it](https://github.com/italia/pianotriennale-ict.italia.it)
@@ -256,16 +238,41 @@
   This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
 
 
-- [cie-nis-python-sdk](https://github.com/italia/cie-nis-python-sdk)
-  <a href='https://github.com/italia/cie-nis-python-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-nis-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/cie-nis-python-sdk/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-nis-python-sdk' alt='GitHub issues'></a>\
-  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using Python
+- [spid-django](https://github.com/italia/spid-django)
+  <a href='https://github.com/italia/spid-django/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-django/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-django' alt='GitHub issues'></a>\
+  SPID authentication for Django
+
+
+- [spid-passport](https://github.com/italia/spid-passport)
+  <a href='https://github.com/italia/spid-passport/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-passport?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-passport/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-passport' alt='GitHub issues'></a>\
+  Passport authentication provider for SPID
 
 
 - [cie-middleware-linux](https://github.com/italia/cie-middleware-linux)
   <a href='https://github.com/italia/cie-middleware-linux/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-middleware-linux?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/cie-middleware-linux/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-middleware-linux' alt='GitHub issues'></a>\
   Middleware della CIE (Carta di Identità Elettronica) per Linux
+
+  🥇 **[bitpdg](https://github.com/bitpdg)** (1) 
+
+- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
+  <a href='https://github.com/italia/docs-italia-theme/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/docs-italia-theme/issues'><img align='right' src='https://img.shields.io/github/issues/italia/docs-italia-theme' alt='GitHub issues'></a>\
+  Tema per i documenti pubblicati su Docs Italia
+
+
+- [spid-regole-tecniche](https://github.com/italia/spid-regole-tecniche)
+  <a href='https://github.com/italia/spid-regole-tecniche/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-regole-tecniche?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-regole-tecniche/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-regole-tecniche' alt='GitHub issues'></a>\
+  Regole tecniche SPID
+
+
+- [cie-nis-python-sdk](https://github.com/italia/cie-nis-python-sdk)
+  <a href='https://github.com/italia/cie-nis-python-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-nis-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/cie-nis-python-sdk/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-nis-python-sdk' alt='GitHub issues'></a>\
+  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using Python
 
 
 - [design-wordpress-theme-italiaWP](https://github.com/italia/design-wordpress-theme-italiaWP)
@@ -279,6 +286,7 @@
   <a href='https://github.com/italia/developers-italia-backend/issues'><img align='right' src='https://img.shields.io/github/issues/italia/developers-italia-backend' alt='GitHub issues'></a>\
   Backend & crawler for the OSS catalog of Developers Italia
 
+  🥇 **[pgiacomo69](https://github.com/pgiacomo69)** (1) 
 
 - [spid-metadata-signer](https://github.com/italia/spid-metadata-signer)
   <a href='https://github.com/italia/spid-metadata-signer/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-metadata-signer?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -389,6 +397,12 @@
   Gatsby starter per il Design React kit di Bootstrap Italia
 
 
+- [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
+  <a href='https://github.com/teamdigitale/confini-amministrativi-istat/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/teamdigitale/confini-amministrativi-istat/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat' alt='GitHub issues'></a>\
+  Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
+
+
 - [moduli-pa](https://github.com/italia/moduli-pa)
   <a href='https://github.com/italia/moduli-pa/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/moduli-pa?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/moduli-pa/issues'><img align='right' src='https://img.shields.io/github/issues/italia/moduli-pa' alt='GitHub issues'></a>
@@ -417,11 +431,10 @@
   Codice dell'amministrazione digitale
 
 
-- [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
-  <a href='https://github.com/teamdigitale/confini-amministrativi-istat/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/teamdigitale/confini-amministrativi-istat/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat' alt='GitHub issues'></a>\
-  Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
-
+- [cieid-android-sdk](https://github.com/italia/cieid-android-sdk)
+  <a href='https://github.com/italia/cieid-android-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cieid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/cieid-android-sdk/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cieid-android-sdk' alt='GitHub issues'></a>
+  🥇 **[fventola89](https://github.com/fventola89)** (3) 
 
 - [spid-graphics](https://github.com/italia/spid-graphics)
   <a href='https://github.com/italia/spid-graphics/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -465,10 +478,6 @@
   A (complete) list of Italian public open data sources.
 
 
-- [cieid-android-sdk](https://github.com/italia/cieid-android-sdk)
-  <a href='https://github.com/italia/cieid-android-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cieid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/cieid-android-sdk/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cieid-android-sdk' alt='GitHub issues'></a>
-
 - [teamdigitale.governo.it](https://github.com/teamdigitale/teamdigitale.governo.it)
   <a href='https://github.com/teamdigitale/teamdigitale.governo.it/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/teamdigitale.governo.it?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/teamdigitale/teamdigitale.governo.it/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/teamdigitale.governo.it' alt='GitHub issues'></a>\
@@ -486,6 +495,7 @@
   <a href='https://github.com/teamdigitale/security-awareness/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/security-awareness' alt='GitHub issues'></a>\
   Security awareness base course
 
+  🥇 **[nhaima](https://github.com/nhaima)** (2) 
 
 - [pianotriennale-ict-doc-en](https://github.com/italia/pianotriennale-ict-doc-en)
   <a href='https://github.com/italia/pianotriennale-ict-doc-en/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/pianotriennale-ict-doc-en?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -499,6 +509,12 @@
   Linee guida per la valorizzazione del patrimonio informativo pubblico
 
 
+- [spid-sp-sapspid](https://github.com/italia/spid-sp-sapspid)
+  <a href='https://github.com/italia/spid-sp-sapspid/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-sp-sapspid?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/spid-sp-sapspid/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-sp-sapspid' alt='GitHub issues'></a>\
+  SPID Service Provider SAML basato su SapSpid
+
+
 - [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
   <a href='https://github.com/italia/cloud-circolari-docs/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/cloud-circolari-docs/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cloud-circolari-docs' alt='GitHub issues'></a>
@@ -507,6 +523,12 @@
   <a href='https://github.com/italia/docs-italia-comandi-conversione/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/docs-italia-comandi-conversione?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/docs-italia-comandi-conversione/issues'><img align='right' src='https://img.shields.io/github/issues/italia/docs-italia-comandi-conversione' alt='GitHub issues'></a>\
   Comandi di conversione di formato per Docs Italia
+
+
+- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
+  <a href='https://github.com/italia/publiccode-parser-go/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/publiccode-parser-go/issues'><img align='right' src='https://img.shields.io/github/issues/italia/publiccode-parser-go' alt='GitHub issues'></a>\
+  A Go parser for publiccode.yml files
 
 
 - [cloud.italia.it](https://github.com/italia/cloud.italia.it)
@@ -557,22 +579,10 @@
   Middleware SPID basato su Shibboleth
 
 
-- [spid-sp-sapspid](https://github.com/italia/spid-sp-sapspid)
-  <a href='https://github.com/italia/spid-sp-sapspid/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/spid-sp-sapspid?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/spid-sp-sapspid/issues'><img align='right' src='https://img.shields.io/github/issues/italia/spid-sp-sapspid' alt='GitHub issues'></a>\
-  SPID Service Provider SAML basato su SapSpid
-
-
 - [anpr-client-example](https://github.com/italia/anpr-client-example)
   <a href='https://github.com/italia/anpr-client-example/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/anpr-client-example/issues'><img align='right' src='https://img.shields.io/github/issues/italia/anpr-client-example' alt='GitHub issues'></a>\
   Example Java client to connect to ANPR
-
-
-- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
-  <a href='https://github.com/italia/publiccode-parser-go/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/publiccode-parser-go/issues'><img align='right' src='https://img.shields.io/github/issues/italia/publiccode-parser-go' alt='GitHub issues'></a>\
-  A Go parser for publiccode.yml files
 
 
 - [api-starter-kit](https://github.com/teamdigitale/api-starter-kit)
@@ -623,6 +633,12 @@
   Perl module for SPID authentication
 
 
+- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
+  <a href='https://github.com/italia/bootstrap-italia-playground/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/bootstrap-italia-playground/issues'><img align='right' src='https://img.shields.io/github/issues/italia/bootstrap-italia-playground' alt='GitHub issues'></a>\
+  Bootstrap Italia Playground
+
+
 - [OntoPiA-UI](https://github.com/italia/OntoPiA-UI)
   <a href='https://github.com/italia/OntoPiA-UI/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/OntoPiA-UI?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/OntoPiA-UI/issues'><img align='right' src='https://img.shields.io/github/issues/italia/OntoPiA-UI' alt='GitHub issues'></a>
@@ -667,12 +683,6 @@
   Starter kit per pubblicare su Docs Italia
 
 
-- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
-  <a href='https://github.com/italia/bootstrap-italia-playground/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/italia/bootstrap-italia-playground/issues'><img align='right' src='https://img.shields.io/github/issues/italia/bootstrap-italia-playground' alt='GitHub issues'></a>\
-  Bootstrap Italia Playground
-
-
 - [docs-italia-pandoc-filters](https://github.com/italia/docs-italia-pandoc-filters)
   <a href='https://github.com/italia/docs-italia-pandoc-filters/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/docs-italia-pandoc-filters?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/docs-italia-pandoc-filters/issues'><img align='right' src='https://img.shields.io/github/issues/italia/docs-italia-pandoc-filters' alt='GitHub issues'></a>\
@@ -705,6 +715,12 @@
   <a href='https://github.com/teamdigitale/docs-italia-theme-legacy/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/docs-italia-theme-legacy?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/teamdigitale/docs-italia-theme-legacy/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/docs-italia-theme-legacy' alt='GitHub issues'></a>\
   Docs Italia Theme
+
+
+- [anpr-dashboard](https://github.com/teamdigitale/anpr-dashboard)
+  <a href='https://github.com/teamdigitale/anpr-dashboard/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/anpr-dashboard?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/teamdigitale/anpr-dashboard/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/anpr-dashboard' alt='GitHub issues'></a>\
+  Dashboard presenting the status of the municipalities onboarding to ANPR
 
 
 - [spid-passport](https://github.com/teamdigitale/spid-passport)
@@ -836,8 +852,9 @@
 - [cie-nis-dotnetcore-sdk](https://github.com/italia/cie-nis-dotnetcore-sdk)
   <a href='https://github.com/italia/cie-nis-dotnetcore-sdk/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/cie-nis-dotnetcore-sdk?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/cie-nis-dotnetcore-sdk/issues'><img align='right' src='https://img.shields.io/github/issues/italia/cie-nis-dotnetcore-sdk' alt='GitHub issues'></a>\
-  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using .NET Core
+  SDK for reading and validate the NIS code from an Italian Electronic Identity Card (CIE) using .NET Core
 
+  🥇 **[lucagraziani82](https://github.com/lucagraziani82)** (1) 
 
 - [publiccode-tools](https://github.com/italia/publiccode-tools)
   <a href='https://github.com/italia/publiccode-tools/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode-tools?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -850,17 +867,11 @@
   <a href='https://github.com/italia/design-wordpress-theme-italiaWP2/issues'><img align='right' src='https://img.shields.io/github/issues/italia/design-wordpress-theme-italiaWP2' alt='GitHub issues'></a>\
   Tema WordPress open-source per la Pubblica Amministrazione basato su Bootstrap Italia
 
-  🥇 **[borisamico](https://github.com/borisamico)** (3) 
+  🥇 **[borisamico](https://github.com/borisamico)** (4) 
 
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <a href='https://github.com/italia/repubblica-digitale/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/italia/repubblica-digitale/issues'><img align='right' src='https://img.shields.io/github/issues/italia/repubblica-digitale' alt='GitHub issues'></a>
-
-- [anpr-dashboard](https://github.com/teamdigitale/anpr-dashboard)
-  <a href='https://github.com/teamdigitale/anpr-dashboard/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/anpr-dashboard?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/teamdigitale/anpr-dashboard/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/anpr-dashboard' alt='GitHub issues'></a>\
-  Dashboard presenting the status of the municipalities onboarding to ANPR
-
 
 - [api-starter-kit-python](https://github.com/teamdigitale/api-starter-kit-python)
   <a href='https://github.com/teamdigitale/api-starter-kit-python/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/api-starter-kit-python?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
@@ -1524,6 +1535,12 @@
   PostGIS v11 packaged for CKAN and with some customizations.
 
 
+- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
+  <a href='https://github.com/italia/publiccode-parser-action/stargazers'><img align='right' src='https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/italia/publiccode-parser-action/issues'><img align='right' src='https://img.shields.io/github/issues/italia/publiccode-parser-action' alt='GitHub issues'></a>\
+  A simple Github action to validate publiccode.yml
+
+
 - [anpr-cie](https://github.com/teamdigitale/anpr-cie)
   <a href='https://github.com/teamdigitale/anpr-cie/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/anpr-cie?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
   <a href='https://github.com/teamdigitale/anpr-cie/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/anpr-cie' alt='GitHub issues'></a>\
@@ -1688,9 +1705,9 @@
   Experimental api-starter-kit in RUST
 
 
-- [cla-assistant](https://github.com/teamdigitale/cla-assistant)
-  <a href='https://github.com/teamdigitale/cla-assistant/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/cla-assistant?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
-  <a href='https://github.com/teamdigitale/cla-assistant/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/cla-assistant' alt='GitHub issues'></a>\
+- [cla-assistant-old](https://github.com/teamdigitale/cla-assistant-old)
+  <a href='https://github.com/teamdigitale/cla-assistant-old/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/cla-assistant-old?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/teamdigitale/cla-assistant-old/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/cla-assistant-old' alt='GitHub issues'></a>\
   CLA
 
 
@@ -1705,4 +1722,11 @@
   <a href='https://github.com/teamdigitale/api-pilota-osservazioni/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/api-pilota-osservazioni' alt='GitHub issues'></a>\
   Pilota per API osservazioni e parametri
 
+
+- [cla-assistant](https://github.com/teamdigitale/cla-assistant)
+  <a href='https://github.com/teamdigitale/cla-assistant/stargazers'><img align='right' src='https://img.shields.io/github/stars/teamdigitale/cla-assistant?label=%E2%AD%90%EF%B8%8F&logo=github' alt='GitHub stars'></a>
+  <a href='https://github.com/teamdigitale/cla-assistant/issues'><img align='right' src='https://img.shields.io/github/issues/teamdigitale/cla-assistant' alt='GitHub issues'></a>\
+  Contributor License Agreement assistant (CLA assistant)
+
+  🥇 **[KharitonOff](https://github.com/KharitonOff)** (1)   🥇 **[panov-andy](https://github.com/panov-andy)** (1)   🥇 **[tobie](https://github.com/tobie)** (1)   🥇 **[dansible](https://github.com/dansible)** (1) 
 
