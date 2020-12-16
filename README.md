@@ -273,9 +273,9 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-limesurvey-plugin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-limesurvey-plugin" alt="GitHub issues">
 
-- [spid-passport](https://github.com/italia/spid-passport)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-passport?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-passport" alt="GitHub issues">
+- [spid-express](https://github.com/italia/spid-express)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-express?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-express" alt="GitHub issues">
 
 - [spid-spring](https://github.com/italia/spid-spring)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-spring?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -977,6 +977,18 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
   A Go parser for publiccode.yml files
+- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
+  Helper HTTP library used in publiccode-parser-go
+- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
+  GitHub Action for publiccode.yml validation
+- [publiccode-parser-orb](https://github.com/italia/publiccode-parser-orb)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-orb?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-orb" alt="GitHub issues">\
+  CircleCI Orb for publiccode.yml validation
 - [foia-circolare2-docs](https://github.com/italia/foia-circolare2-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/foia-circolare2-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/foia-circolare2-docs" alt="GitHub issues">\
@@ -1139,6 +1151,10 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it-postgis?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it-postgis" alt="GitHub issues">\
   PostGIS v11 packaged for CKAN and with some customizations.
+- [form-pa](https://github.com/italia/form-pa)
+  <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
+  A flexible and configurable form based on json schema
 
 🍴 = Forked from upstream
 
