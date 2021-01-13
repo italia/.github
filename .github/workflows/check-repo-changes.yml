@@ -1,11 +1,9 @@
-name: check-repo-changes
-
 on:
   schedule:
     - cron:  '*/15 * * * *'
 
 jobs:
-  build_and_deploy:
+  check_repo_changes:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -13,6 +11,6 @@ jobs:
       with:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
         working-directory: scripts
-    - run: ruby check-repo-changes.rb
+    - run: cd scripts && ruby check-repo-changes.rb
       env:
         GITHUB_TOKEN: ${{ secrets.DEVELOPERS_ITALIA_BOT_GITHUB_TOKEN }}
