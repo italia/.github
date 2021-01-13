@@ -1,3 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+ruby RUBY_VERSION
 
-gem 'httparty'
+gem "octokit", "~> 4.20"
