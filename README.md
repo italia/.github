@@ -608,19 +608,10 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">
   repubblicadigitale.innovazione.gov.it
 
-- ❌ [monitoraggio-italia-it](https://github.com/italia/monitoraggio-italia-it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/monitoraggio-italia-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/monitoraggio-italia-it" alt="GitHub issues">
-
 - 👀 [comunica.italia.it](https://github.com/italia/comunica.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/comunica.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/comunica.italia.it" alt="GitHub issues">\
   comunica.italia.it
-
-- ❌ [servizi-gov](https://github.com/italia/servizi-gov)
-  <img align="right" src="https://img.shields.io/github/stars/italia/servizi-gov?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/servizi-gov" alt="GitHub issues">\
-  servizi.gov.it: Catalogo Servizi della PA
 
 - [hack.developers.italia.it](https://github.com/italia/hack.developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/hack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
