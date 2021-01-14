@@ -8,8 +8,8 @@ require 'json'
 require 'octokit'
 
 ORGS = %w[teamdigitale italia].freeze
-AWESOME_ITALIA_REPO = 'bfabio/awesome-italia-state'
-STATE_REPO = 'bfabio/awesome-italia-state'
+AWESOME_ITALIA_REPO = 'italia/awesome-italia'
+STATE_REPO = 'developers-italia-bot/awesome-italia-state'
 STATE_FILE = 'repos.json'
 
 GITHUB_TOKEN = ENV.fetch('GITHUB_TOKEN', '')
