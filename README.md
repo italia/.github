@@ -625,46 +625,20 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 ## 💰 pagoPa
 
-- [pagopa-docs-overview](https://github.com/italia/pagopa-docs-overview)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-docs-overview?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-docs-overview" alt="GitHub issues">\
-  PagoPA Documentation - Overview
-- [pagopa-docs-architettura](https://github.com/italia/pagopa-docs-architettura)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-docs-architettura?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-docs-architettura" alt="GitHub issues">\
-  PagoPA Documentation - Architettura
-- [pagopa-docs-formatoXML](https://github.com/italia/pagopa-docs-formatoXML)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-docs-formatoXML?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-docs-formatoXML" alt="GitHub issues">\
-  PagoPA Documentation - Formato Messaggi XML
-- [pagopa-docs-specattuative](https://github.com/italia/pagopa-docs-specattuative)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-docs-specattuative?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-docs-specattuative" alt="GitHub issues">\
-  PagoPA Documentation - Specifiche Attuative Pagamenti
-- [pagopa-docs-specWS](https://github.com/italia/pagopa-docs-specWS)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-docs-specWS?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-docs-specWS" alt="GitHub issues">\
-  PagoPA Documentation - Specifiche Web Services
-- [pagopa-docs-legacy](https://github.com/italia/pagopa-docs-legacy)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-docs-legacy?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-docs-legacy" alt="GitHub issues">\
-  Old PagoPA Documentation in PDF format
-- [pagopa-portaledelleadesioni-docs](https://github.com/italia/pagopa-portaledelleadesioni-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-portaledelleadesioni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-portaledelleadesioni-docs" alt="GitHub issues">
-  
-- [pagopa-soap-ruby](https://github.com/italia/pagopa-soap-ruby)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-soap-ruby?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-soap-ruby" alt="GitHub issues">
-  Ruby Wrapper for pagoPA SOAP API
-- [pagopa-ios-sdk](https://github.com/italia/pagopa-ios-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-ios-sdk" alt="GitHub issues">
-  
-- [pagopa-android-sdk](https://github.com/italia/pagopa-android-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pagopa-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pagopa-android-sdk" alt="GitHub issues">
-  
+- [pagopa-docs-faq](https://github.com/pagopa/pagopa-docs-faq)
+  <img align="right" src="https://img.shields.io/github/stars/pagopa/pagopa-docs-faq?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/pagopa/pagopa-docs-faq" alt="GitHub issues">\
+  Le FAQ (<https://docs.italia.it/italia/pagopa/pagopa-docs-faq>).
+
+- [pagopa-specifichepagamenti-docs](https://github.com/pagopa/pagopa-specifichepagamenti-docs)
+  <img align="right" src="https://img.shields.io/github/stars/pagopa/pagopa-specifichepagamenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/pagopa/pagopa-specifichepagamenti-docs" alt="GitHub issues">\
+  La documentazione tecnica.
+
+- [pagopa-api](https://github.com/pagopa/pagopa-api)
+  <img align="right" src="https://img.shields.io/github/stars/pagopa/pagopa-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/pagopa/pagopa-api" alt="GitHub issues">\
+  Le interfacce (esposte e richieste) per la connessione con pagoPA. Tutti gli schemi XSD e WSDL.
 
 ## 🧑 ANPR (Anagrafe Nazionale Popolazione Residente)
 
