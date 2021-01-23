@@ -11,6 +11,7 @@
 </p>
 
 [<g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji>  Guidelines](#️--guidelines)
+• [<g-emoji class="g-emoji" alias="cyclone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png">🌀</g-emoji> Open data](#-open-data)
 • [<g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Mobile apps](#-mobile-apps)
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> SPID](#-spid)
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> Electronic identity card (CIE)](#-electronic-identity-card-cie)
@@ -70,6 +71,18 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/gl-acquisition-and-reuse-software-for-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/gl-acquisition-and-reuse-software-for-pa-docs" alt="GitHub issues">\
   Guidelines on the acquisition and reuse of software for Public Administrations
+
+## 🌀 Open data
+
+- [covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini)
+  <img align="right" src="https://img.shields.io/github/stars/italia/covid19-opendata-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/covid19-opendata-vaccini" alt="GitHub issues">\
+  Consegna e somministrazione dei vaccini anti COVID-19 in Italia.
+
+- [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
+  <img align="right" src="https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/awesome-italian-public-datasets" alt="GitHub issues">\
+  A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases
 
 ## 📱 Mobile apps
 
@@ -974,10 +987,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-template-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-template-conversione" alt="GitHub issues">\
   Modello per creare un documento da pubblicare su Docs Italia
-- [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
-  <img align="right" src="https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/awesome-italian-public-datasets" alt="GitHub issues">\
-  A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases
 - [developers-italia-onboarding](https://github.com/italia/developers-italia-onboarding)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-onboarding?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-onboarding" alt="GitHub issues">\
