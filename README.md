@@ -549,6 +549,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 ## 🔗 Websites
 
+- [innovazione.gov.it](https://github.com/teamdigitale/innovazione.gov.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/innovazione.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/innovazione.gov.it-site" alt="GitHub issues">\
+  Minister for Technological Innovation and Digitalization (<https://innovazione.gov.it>)
+
 - [developers.italia.it](https://github.com/italia/developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
