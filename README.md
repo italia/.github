@@ -24,6 +24,12 @@
 • [<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Docs](#-docs)
 • [<g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> Unsorted](#-unsorted)
 
+<p align="center">
+  <a href="https://developers.italia.it/en/to-do" title="Search issues in need for help" >
+    <strong>Want to help?</strong>
+  </a>
+</p>
+
 # Awesome Italia
 
 > The organized list of awesome @italia (and friends) projects
