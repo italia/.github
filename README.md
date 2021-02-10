@@ -193,6 +193,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-testenv2" alt="GitHub issues">\
   New test Identity Provider for SPID
 
+- [Satosa-Saml2Spid](italia/Satosa-Saml2Spid)
+  <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
+  SPID proxy for Service Providers that already implement SAML2
+
 - [spid-sinatra-example](https://github.com/italia/spid-sinatra-example)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sinatra-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sinatra-example" alt="GitHub issues">\
