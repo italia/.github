@@ -19,6 +19,7 @@
 • [<g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> Websites](#-websites)
 • [<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> pagoPa](#-pagopa)
 • [<g-emoji class="g-emoji" alias="adult" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png">🧑</g-emoji> ANPR (Anagrafe Nazionale Popolazione Residente)](#-anpr-anagrafe-nazionale-popolazione-residente)
+• [<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Publiccode](#-publiccode)
 • [<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> DAF](#-daf)
 • [<g-emoji class="g-emoji" alias="building_construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png">🏗️</g-emoji> Tooling](#️-tooling)
 • [<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Docs](#-docs)
@@ -708,6 +709,40 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr-client-example" alt="GitHub issues">\
   Example Java client to connect to ANPR
 
+## 💻 Publiccode
+
+Describe the Free and Open Source software of your Public Administration with a YAML file in your repo
+
+- [publiccode.yml](https://github.com/italia/publiccode.yml)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode.yml" alt="GitHub issues">\
+  The standard itself and its documentation
+
+- [publiccode-editor](https://github.com/italia/publiccode-editor)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-editor" alt="GitHub issues">\
+  An editor to create and edit publiccode.yml files
+
+- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
+  A Go library for parsing and validating publiccode.yml files
+
+- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
+  GitHub Action for publiccode.yml validation
+
+- [publiccode-parser-orb](https://github.com/italia/publiccode-parser-orb)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-orb?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-orb" alt="GitHub issues">\
+  CircleCI Orb for publiccode.yml validation
+
+- [publiccode-parser-gitlab-ci](https://github.com/italia/publiccode-parser-gitlab-ci)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-gitlab-ci?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-gitlab-ci" alt="GitHub issues">\
+  GitLab includable snippet for publiccode.yml validation
+
 ## 📜 DAF
 
 - [daf](https://github.com/italia/daf)
@@ -967,22 +1002,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/pandoc-font-to-style?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pandoc-font-to-style" alt="GitHub issues">\
   convert DOCX fonts into formatting
-- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
-  A Go parser for publiccode.yml files
-- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
-  Helper HTTP library used in publiccode-parser-go
-- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
-  GitHub Action for publiccode.yml validation
-- [publiccode-parser-orb](https://github.com/italia/publiccode-parser-orb)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-orb?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-orb" alt="GitHub issues">\
-  CircleCI Orb for publiccode.yml validation
 - [foia-circolare2-docs](https://github.com/italia/foia-circolare2-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/foia-circolare2-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/foia-circolare2-docs" alt="GitHub issues">\
@@ -1011,10 +1030,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-php-sdk" alt="GitHub issues">\
   PHP SDK per la fatturazione elettronica
-- [publiccode.yml](https://github.com/italia/publiccode.yml)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode.yml" alt="GitHub issues">\
-  publiccode.yml is a metadata standard for public software
 - [fatturapa-webapp](https://github.com/italia/fatturapa-webapp)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-webapp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-webapp" alt="GitHub issues">
@@ -1053,10 +1068,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/interoperabilita" alt="GitHub issues">\
   Interoperabilità
-- [publiccode-editor](https://github.com/italia/publiccode-editor)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-editor" alt="GitHub issues">\
-  An editor to create and edit publiccode.yml files
 - [developers-italia-gsoc](https://github.com/italia/developers-italia-gsoc)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-gsoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-gsoc" alt="GitHub issues">\
@@ -1109,10 +1120,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontopia-lode?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontopia-lode" alt="GitHub issues">\
   Repo to containerize Lode: a Tomcat server application that can be used to create HTML documentation for Web Ontology Language (OWL) ontologies (more info at https://github.com/essepuntato/LODE).
-- [publiccode-validator](https://github.com/italia/publiccode-validator)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-validator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-validator" alt="GitHub issues">\
-  publiccode.yml rest validator for Go
 - [dati-ontonethub](https://github.com/italia/dati-ontonethub)
   <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontonethub?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontonethub" alt="GitHub issues">\
@@ -1133,10 +1140,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/stars/italia/public-opendata-sources?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/public-opendata-sources" alt="GitHub issues">\
   A (complete) list of Italian public open data sources.
-- [publiccode-issueopener](https://github.com/italia/publiccode-issueopener)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-issueopener?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-issueopener" alt="GitHub issues">\
-  The Publiccode Issue Opener repository
 - [ckan-it-postgis](https://github.com/italia/ckan-it-postgis)
   <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it-postgis?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it-postgis" alt="GitHub issues">\
