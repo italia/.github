@@ -109,11 +109,6 @@
   <img align="right" src="https://img.shields.io/github/issues/italia/18app-dotnet-sdk" alt="GitHub issues">\
   .NET SDK for developing merchant applications which accept 18app vouchers
 
-- [18app-cpp-sdk](https://github.com/italia/18app-cpp-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-cpp-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-cpp-sdk" alt="GitHub issues">\
-  C++ SDK for developing merchant applications which accept 18app vouchers
-
 - [18app-python-sdk](https://github.com/italia/18app-python-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/18app-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/18app-python-sdk" alt="GitHub issues">\
@@ -285,17 +280,9 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">
 
-- [spid-magento](https://github.com/italia/spid-magento)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-magento?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-magento" alt="GitHub issues">
-
 - [spid-symfony-bundle](https://github.com/italia/spid-symfony-bundle)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-symfony-bundle?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-symfony-bundle" alt="GitHub issues">
-
-- [spid-limesurvey-plugin](https://github.com/italia/spid-limesurvey-plugin)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-limesurvey-plugin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-limesurvey-plugin" alt="GitHub issues">
 
 - [spid-express](https://github.com/italia/spid-express)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-express?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -305,26 +292,13 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-spring?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-spring" alt="GitHub issues">
 
-- [spid-joomla-plugin](https://github.com/italia/spid-joomla-plugin)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-joomla-plugin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-joomla-plugin" alt="GitHub issues">
-
 - [spid-drupal-module](https://github.com/italia/spid-drupal-module)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-drupal-module?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-drupal-module" alt="GitHub issues">
 
-- [spid-liferay](https://github.com/italia/spid-liferay)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-liferay?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-liferay" alt="GitHub issues">
-
 - [spid-ionic-sdk](https://github.com/italia/spid-ionic-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-ionic-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-ionic-sdk" alt="GitHub issues">
-
-- [spid-concrete5](https://github.com/italia/spid-concrete5)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-concrete5?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-concrete5" alt="GitHub issues">
-  Add-on for integration of SPID with the concrete5 CMS
 
 - [spid-perl](https://github.com/italia/spid-perl)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -333,10 +307,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [spid-perl-dancer2](https://github.com/italia/spid-perl-dancer2)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-dancer2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-dancer2" alt="GitHub issues">
-
-- [spid-perl-mojolicious](https://github.com/italia/spid-perl-mojolicious)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-mojolicious?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-mojolicious" alt="GitHub issues">
 
 ## 🎭 Electronic identity card (CIE)
 
