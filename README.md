@@ -114,11 +114,6 @@
   <img align="right" src="https://img.shields.io/github/issues/italia/18app-python-sdk" alt="GitHub issues">\
   Python SDK for developing merchant applications which accept 18app vouchers
 
-- [18app-magento-sdk](https://github.com/italia/18app-magento-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-magento-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-magento-sdk" alt="GitHub issues">\
-  Plugin per Magento per esercenti accreditati su 18app
-
 - [18app-php-sdk](https://github.com/italia/18app-php-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/18app-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/18app-php-sdk" alt="GitHub issues">\
