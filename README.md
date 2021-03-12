@@ -309,10 +309,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware" alt="GitHub issues">\
   Middleware della CIE (Carta di identità elettronica)
-- [cie-ideaapp](https://github.com/italia/cie-ideaapp)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-ideaapp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-ideaapp" alt="GitHub issues">\
-  App IDEA per Android che consente la lettura dati documento ICAO
 - [cie-mrtd-dotnet-sdk](https://github.com/italia/cie-mrtd-dotnet-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-mrtd-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-mrtd-dotnet-sdk" alt="GitHub issues">\
@@ -325,22 +321,10 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-mrtd-example-app?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-mrtd-example-app" alt="GitHub issues">\
   Example desktop application using the cie-mrtd-sdk library
-- [cie-mrtd-example-web](https://github.com/italia/cie-mrtd-example-web)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-mrtd-example-web?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-mrtd-example-web" alt="GitHub issues">\
-  Example web application which uses the cie-mrtd-sdk library
-- [cie-nis-java-sdk](https://github.com/italia/cie-nis-java-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-nis-java-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-nis-java-sdk" alt="GitHub issues">\
-  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using Java
 - [cie-nis-cpp-sdk](https://github.com/italia/cie-nis-cpp-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-nis-cpp-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-nis-cpp-sdk" alt="GitHub issues">\
   SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using C++
-- [cie-nis-objc-sdk](https://github.com/italia/cie-nis-objc-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-nis-objc-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-nis-objc-sdk" alt="GitHub issues">\
-  SDK for reading the NIS code from an Italian Electronic Identity Card (CIE) using Objective-C
 - [cie-middleware-macos](https://github.com/italia/cie-middleware-macos)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-macos" alt="GitHub issues">\
@@ -372,7 +356,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [cieid-android-sdk](https://github.com/italia/cieid-android-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/cieid-android-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cieid-android-sdk" alt="GitHub issues">
-  
+  Android SDK for CIE
+- [cieid-ios-sdk](https://github.com/italia/cieid-ios-sdk)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cieid-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cieid-ios-sdk" alt="GitHub issues">
+  iOS SDK for CIE
 - [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
