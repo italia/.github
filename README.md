@@ -707,31 +707,6 @@ Describe the Free and Open Source software of your Public Administration with a 
   <img align="right" src="https://img.shields.io/github/issues/italia/pandoc" alt="GitHub issues">\
   Universal markup converter
 
-- 🗑 [security-pulse](https://github.com/italia/security-pulse)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-pulse?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-pulse" alt="GitHub issues">\
-  How the .gov domain space is doing at best practices and federal requirements.
-
-- 🍴 🗑 [security-securethenews](https://github.com/italia/security-securethenews)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-securethenews?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-securethenews" alt="GitHub issues">\
-  An automated scanner and web dashboard for tracking TLS deployment across news organizations
-
-- 🗑 [security-dashboard](https://github.com/italia/security-dashboard)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-dashboard?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-dashboard" alt="GitHub issues">\
-  A dashboard that shows the status of security features on .gov.it websites
-
-- 🗑 [security-recipes](https://github.com/italia/security-recipes)
-  <img align="right" src="https://img.shields.io/github/stars/italia/security-recipes?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/security-recipes" alt="GitHub issues">\
-  Docker and other deploy recipes for security dashboards
-
-- 🍴 🗑 [domain-scan](https://github.com/italia/domain-scan)
-  <img align="right" src="https://img.shields.io/github/stars/italia/domain-scan?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/domain-scan" alt="GitHub issues">\
-  A pipeline for scanning domains to measure things like speed, accessibility, and HTTPS.
-
 ## 📜 Docs
 
 - [docs-italia-guide](https://github.com/italia/docs-italia-guide)
