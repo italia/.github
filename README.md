@@ -665,9 +665,9 @@ L'anagrafe digitale Italiana
 
 Describe the Free and Open Source software of your Public Administration with a YAML file in your repo
 
-- [publiccode.yml](https://github.com/italia/publiccode.yml)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode.yml" alt="GitHub issues">\
+- [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml)
+  <img align="right" src="https://img.shields.io/github/stars/publiccodeyml/publiccode.yml?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/publiccodeyml/publiccode.yml" alt="GitHub issues">\
   The standard itself and its documentation
 
 - [publiccode-editor](https://github.com/italia/publiccode-editor)
