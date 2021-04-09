@@ -134,11 +134,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-regole-tecniche" alt="GitHub issues">\
   Specifiche tecniche su docs.italia.it
 
-- [spid-docs](https://github.com/italia/spid-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-docs" alt="GitHub issues">\
-  Documentazione
-
 - [spid-graphics](https://github.com/italia/spid-graphics)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-graphics" alt="GitHub issues">\
