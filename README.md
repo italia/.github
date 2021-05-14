@@ -585,6 +585,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">
   repubblicadigitale.innovazione.gov.it
 
+- [come-partecipo.italia.it](https://github.com/italia/wizard-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/wizard-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/wizard-italia" alt="GitHub issues">\
+  Guida interattiva per guidare le persone che vogliono contribuire
+
 - 👀 [comunica.italia.it](https://github.com/italia/comunica.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/comunica.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/comunica.italia.it" alt="GitHub issues">\
