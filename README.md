@@ -28,6 +28,12 @@
   <a href="https://developers.italia.it/en/to-do" title="Search issues in need for help" >
     <strong>Want to help?</strong>
   </a>
+  •
+  <a href="https://come-partecipo.italia.it"
+     title="Scopri come contribuire al miglioramento dei servizi pubblici digitali del Paese"
+  >
+    <strong>Come partecipo?</strong>
+  </a>
 </p>
 
 # Awesome Italia
