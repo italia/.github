@@ -571,10 +571,10 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
     <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-deploy-scripts" alt="GitHub issues">\
     Ansible playbooks for deploying docs.italia.it
 
-- [cloud.italia.it](https://github.com/italia/cloud.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud.italia.it" alt="GitHub issues">\
-  Repository ufficiale del Cloud della PA
+- [cloud.italia.it](https://github.com/italia/cloud.italia.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud.italia.it-site" alt="GitHub issues">\
+  cloud.italia.it: il sito del cloud della Pubblica Amministrazione
 
 - [dati.gov.it](https://github.com/italia/dati.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
