@@ -185,10 +185,10 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-sapspid" alt="GitHub issues">\
   Service Provider SAML basato su SapSpid
 
-- [spid-testenv2](https://github.com/italia/spid-testenv2)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-testenv2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-testenv2" alt="GitHub issues">\
-  New test Identity Provider for SPID
+- [spid-sp-test](https://github.com/italia/spid-sp-test)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-test" alt="GitHub issues">\
+  Valida e testa l'implementazione del tuo Service Provider SPID
 
 - [Satosa-Saml2Spid](italia/Satosa-Saml2Spid)
   <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
