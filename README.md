@@ -195,11 +195,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
   SPID proxy for Service Providers that already implement SAML2
 
-- [spid-sinatra-example](https://github.com/italia/spid-sinatra-example)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sinatra-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sinatra-example" alt="GitHub issues">\
-  Test application to demostrate gem 'spid' usage in a sinatra application
-
 - [spid-shibboleth-proxy-docker](https://github.com/italia/spid-shibboleth-proxy-docker)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-shibboleth-proxy-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-shibboleth-proxy-docker" alt="GitHub issues">\
