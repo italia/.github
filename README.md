@@ -174,6 +174,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-metadata-builder?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-metadata-builder" alt="GitHub issues">\
   Generatore metadata SPID per Service Provider
+  
+- [spid-keycloak-provider](https://github.com/italia/spid-keycloak-provider)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-keycloak-provider?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-keycloak-provider" alt="GitHub issues">\
+  SPID authentication provider per Keycloak (https://www.keycloak.org/) 
 
 - [spid-sp-shibboleth](https://github.com/italia/spid-sp-shibboleth)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-shibboleth?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
