@@ -861,12 +861,8 @@ Describe the Free and Open Source software of your Public Administration with a 
 
 - [cloud-enablement-kit](https://github.com/italia/cloud-enablement-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud-enablement-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">
-  
-- 🗑 [interoperabilita](https://github.com/italia/interoperabilita)
-  <img align="right" src="https://img.shields.io/github/stars/italia/interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/interoperabilita" alt="GitHub issues">\
-  Interoperabilità
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">  
+
 - [developers-italia-gsoc](https://github.com/italia/developers-italia-gsoc)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-gsoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-gsoc" alt="GitHub issues">\
