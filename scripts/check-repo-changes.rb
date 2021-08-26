@@ -44,9 +44,6 @@ if added || removed
 
   issue_body = ''
 
-  info = "added repos #{added_count}, removed repos: #{removed_count}"
-  puts info
-
   if added
     issue_body += "\n### The following repos were added\n"
     issue_body += added_repos.values.flatten.map { |r| "* [#{r}](https://github.com/#{r})\n" }.join
@@ -57,8 +54,11 @@ if added || removed
     issue_body += removed_repos.values.flatten.map { |r| "* [#{r}](https://github.com/#{r})\n" }.join
   end
 
+  changed_repos = added_repos.values.flatten + removed_repos.values.flatten
+  title = "🔄 #{changed_repos.join ', '}"
+
   puts "Creating issue in #{AWESOME_ITALIA_REPO}"
-  client.create_issue(AWESOME_ITALIA_REPO, "New or removed repositories (#{info})", issue_body)
+  client.create_issue(AWESOME_ITALIA_REPO, title, issue_body)
 
   puts "Updating state file '#{STATE_FILE}' in #{STATE_REPO}"
   client.create_contents(STATE_REPO,
