@@ -149,6 +149,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
     <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
     <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-test" alt="GitHub issues">\
     Valida a riga di comando l'implementazione del tuo Service Provider SPID
+    
+- [spid-compliant-certificates-python](https://github.com/italia/spid-compliant-certificates-python)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-compliant-certificates-python?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-compliant-certificates-python" alt="GitHub issues">\
+  Genera e valida certificati X.509 certificati secondo le specifiche di SPID 
   
 - [spid-graphics](https://github.com/italia/spid-graphics)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
