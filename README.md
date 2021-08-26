@@ -140,6 +140,16 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-regole-tecniche" alt="GitHub issues">\
   Specifiche tecniche su docs.italia.it
 
+- [spid-saml-check](https://github.com/italia/spid-saml-check)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-saml-check" alt="GitHub issues">\
+  Suite per la verifica dell'implementazione SPID
+  
+  - [spid-sp-test](https://github.com/italia/spid-sp-test)
+    <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-test" alt="GitHub issues">\
+    Valida a riga di comando l'implementazione del tuo Service Provider SPID
+  
 - [spid-graphics](https://github.com/italia/spid-graphics)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-graphics" alt="GitHub issues">\
@@ -190,11 +200,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-sapspid" alt="GitHub issues">\
   Service Provider SAML basato su SapSpid
 
-- [spid-sp-test](https://github.com/italia/spid-sp-test)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-test" alt="GitHub issues">\
-  Valida e testa l'implementazione del tuo Service Provider SPID
-
 - [Satosa-Saml2Spid](italia/Satosa-Saml2Spid)
   <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
@@ -204,11 +209,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-shibboleth-proxy-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-shibboleth-proxy-docker" alt="GitHub issues">\
   SPID authentication proxy based on Shibboleth service provider
-
-- [spid-saml-check](https://github.com/italia/spid-saml-check)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-saml-check" alt="GitHub issues">\
-  Tool di verifica implementazione SPID SAML
 
 - [spid-registry-idp](https://github.com/italia/spid-registry-idp)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-registry-idp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
