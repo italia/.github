@@ -13,4 +13,4 @@ jobs:
         working-directory: scripts
     - run: cd scripts && ruby check-repo-changes.rb
       env:
-        GITHUB_TOKEN: ${{ secrets.DEVELOPERS_ITALIA_BOT_GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.DEVELOPERS_ITALIA_DROID_GITHUB_TOKEN }}
