@@ -530,7 +530,12 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   - [developers-italia-backend](https://github.com/italia/developers-italia-backend)
     <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-backend?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
     <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-backend" alt="GitHub issues">\
-     Backend & crawler for the OSS catalog of Developers Italia
+    Backend & crawler for the OSS catalog of Developers Italia
+     
+  - [developers.italia.it-data](https://github.com/italia/developers.italia.it-data)
+    <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it-data?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+    <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it-data" alt="GitHub issues">\
+    Data exported from external APIs, used during the site's build     
 
 - [designers.italia.it](https://github.com/italia/designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
