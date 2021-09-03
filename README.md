@@ -730,11 +730,6 @@ Describe the Free and Open Source software of your Public Administration with a 
   <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">
   Codice dell'amministrazione digitale
 
-- 🗑 [cad-docs](https://github.com/italia/cad-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cad-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cad-docs" alt="GitHub issues">\
-  Codice dell'amministrazione digitale
-
 - [piano-nazionale-innovazione-2025-docs](https://github.com/italia/piano-nazionale-innovazione-2025-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/piano-nazionale-innovazione-2025-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/piano-nazionale-innovazione-2025-docs" alt="GitHub issues">\
