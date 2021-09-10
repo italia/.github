@@ -199,6 +199,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-shibboleth?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-shibboleth" alt="GitHub issues">\
   Middleware SPID basato su Shibboleth
+   
+- [spid-idp-proxy-shibboleth](https://github.com/italia/spid-idp-proxy-shibboleth)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-idp-proxy-shibboleth?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-idp-proxy-shibboleth" alt="GitHub issues">\
+  Shibboleth IdP con possibilità di delegare l'autenticazione ad un IdP SPID/CIE/eIDAS.
 
 - [spid-sp-sapspid](https://github.com/italia/spid-sp-sapspid)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-sapspid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
