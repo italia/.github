@@ -389,11 +389,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
   Bootstrap Italia è un tema Bootstrap 4 conforme alle linee guida di design per i servizi web della PA
 
-- [design-web-toolkit](https://github.com/italia/design-web-toolkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-web-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-web-toolkit" alt="GitHub issues">\
-  Questa libreria è deprecata, si consiglia l'utilizzo di Bootstrap Italia (https://italia.github.io/bootstrap-italia/)
-
 - [design-react-kit](https://github.com/italia/design-react-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit" alt="GitHub issues">\
@@ -454,10 +449,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-prototipi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-prototipi" alt="GitHub issues">\
   Prototipo HiFi del progetto scuole
-- [design-wordpress-theme-italiaWP](https://github.com/italia/design-wordpress-theme-italiaWP)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-wordpress-theme-italiaWP?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-wordpress-theme-italiaWP" alt="GitHub issues">\
-  A wordpress theme based on the legacy Italia web toolkit
+
 - [design-comuni-prototipi](https://github.com/italia/design-comuni-prototipi)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-prototipi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-prototipi" alt="GitHub issues">\
