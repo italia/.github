@@ -421,10 +421,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/design-ckan-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-ckan-theme" alt="GitHub issues">\
   A CKAN theme which implements the Italia Design System
-- [design-qml-components](https://github.com/italia/design-qml-components)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-qml-components?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-qml-components" alt="GitHub issues">\
-  QML Components that follow the Italia Design System Guidelines
+
 - [design-liferay-theme](https://github.com/italia/design-liferay-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-liferay-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-liferay-theme" alt="GitHub issues">\
