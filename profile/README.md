@@ -230,7 +230,8 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
   SPID per uso professionale
 
-### Libraries for SPID authentication
+<details>
+    <summary>Libraries for SPID authentication</summary>
 
 - [spid-wordpress](https://github.com/italia/spid-wordpress)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-wordpress?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -308,7 +309,8 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [spid-perl-dancer2](https://github.com/italia/spid-perl-dancer2)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-perl-dancer2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-perl-dancer2" alt="GitHub issues">
-
+</details>
+    
 ## 🎭 Electronic identity card (CIE)
 
 - [cie-middleware](https://github.com/italia/cie-middleware)
