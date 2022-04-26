@@ -449,10 +449,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-prototipi" alt="GitHub issues">\
   Prototipo HiFi del progetto scuole
 
-- [design-comuni-prototipi](https://github.com/italia/design-comuni-prototipi)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-prototipi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-prototipi" alt="GitHub issues">\
-  Risorse relative al modello dei siti per i Comuni Italiani
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">
