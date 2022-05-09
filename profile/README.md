@@ -210,7 +210,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-sapspid" alt="GitHub issues">\
   Service Provider SAML basato su SapSpid
 
-- [Satosa-Saml2Spid](italia/Satosa-Saml2Spid)
+- [Satosa-Saml2Spid](https://github.com/italia/Satosa-Saml2Spid)
   <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
   SPID proxy for Service Providers that already implement SAML2
