@@ -96,40 +96,6 @@
   <img align="right" src="https://img.shields.io/github/issues/italia/awesome-italian-public-datasets" alt="GitHub issues">\
   A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases
 
-## 📱 Mobile apps
-
-### 18app
-
-- [18app](https://github.com/italia/18app)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app" alt="GitHub issues">\
-  Official mobile app for 18app
-
-- [18app-java-sdk](https://github.com/italia/18app-java-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-java-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-java-sdk" alt="GitHub issues">\
-  Java SDK for developing applications which accept 18app vouchers (retails and stores)
-
-- [18app-dotnet-sdk](https://github.com/italia/18app-dotnet-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-dotnet-sdk" alt="GitHub issues">\
-  .NET SDK for developing merchant applications which accept 18app vouchers
-
-- [18app-python-sdk](https://github.com/italia/18app-python-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-python-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-python-sdk" alt="GitHub issues">\
-  Python SDK for developing merchant applications which accept 18app vouchers
-
-- [18app-php-sdk](https://github.com/italia/18app-php-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-php-sdk" alt="GitHub issues">\
-  PHP SDK for developing merchant applications which accept 18app vouchers￼
-
-- [18app-esercenti-docs](https://github.com/italia/18app-esercenti-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/18app-esercenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/18app-esercenti-docs" alt="GitHub issues">\
-  Docs for merchants integration with 18app
-
 ## 🎭 SPID
 
 _Sistema Pubblico di Identità Digitale, permette di accedere ai servizi della
