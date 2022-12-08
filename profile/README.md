@@ -12,7 +12,6 @@
 
 [<g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji>  Guidelines](#️--guidelines)
 • [<g-emoji class="g-emoji" alias="cyclone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png">🌀</g-emoji> Open data](#-open-data)
-• [<g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Mobile apps](#-mobile-apps)
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> SPID](#-spid)
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> Electronic identity card (CIE)](#-electronic-identity-card-cie)
 • [<g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">📐</g-emoji> Design](#-design)
