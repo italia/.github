@@ -543,11 +543,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/identitadigitale.gov.it" alt="GitHub issues">\
   identitadigitale.gov.it: il sito dell'Identità Digitale Italiana (SPID + CIE)
 
-- [dati.gov.it](https://github.com/italia/dati.gov.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dati.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dati.gov.it" alt="GitHub issues">\
-  dati.gov.it: il sito degli opendata italiani
-
 - [pianotriennale-ict.italia.it](https://github.com/italia/pianotriennale-ict.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict.italia.it" alt="GitHub issues">\
