@@ -478,11 +478,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   - [developers-italia-searchyll](https://github.com/italia/developers-italia-searchyll)
     <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
     <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">
-      
-  - [developers-italia-backend](https://github.com/italia/developers-italia-backend)
-    <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-backend?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-backend" alt="GitHub issues">\
-    Backend & crawler for the OSS catalog of Developers Italia
      
   - [developers.italia.it-data](https://github.com/italia/developers.italia.it-data)
     <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it-data?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -638,6 +633,11 @@ Describe the Free and Open Source software of your Public Administration with a 
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
   A Go library for parsing and validating publiccode.yml files
 
+- [publiccode-crawler](https://github.com/italia/publiccode-crawler)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-crawler?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-crawler" alt="GitHub issues">\
+  publiccode.yml crawler for the Open Source software catalog of Developers Italia
+    
 - [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
