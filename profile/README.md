@@ -346,124 +346,71 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit" alt="GitHub issues">\
   Official UI components and templates for the Italia design system
 
-- [design-icon-kit](https://github.com/italia/design-icon-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-icon-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-icon-kit" alt="GitHub issues">\
-  Official icon set for the Italia design system
-
 - [bootstrap-italia](https://github.com/italia/bootstrap-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
   Bootstrap Italia è un tema basato su Bootstrap 5 conforme alle "Linee guida di design per i siti internet e i servizi digitali della Pubblica Amministrazione"
+  
+ - [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
+  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
+  Bootstrap Italia Playground - Questo progetto è il modo più semplice per iniziare ad usare Bootstrap Italia.
 
 - [design-react-kit](https://github.com/italia/design-react-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit" alt="GitHub issues">\
   A React toolkit that implements the Italia design system
-
-- [design-joomla-theme](https://github.com/italia/design-joomla-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-joomla-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-joomla-theme" alt="GitHub issues">\
-  A Joomla theme which implements the Italia Design System
-
-- [design-wordpress-theme](https://github.com/italia/design-wordpress-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-wordpress-theme" alt="GitHub issues">\
-  Tema di WordPress per la Pubblica Amministrazione che implementa Bootstrap Italia.
-
-- [design-jekyll-theme](https://github.com/italia/design-jekyll-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-jekyll-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-jekyll-theme" alt="GitHub issues">\
-  A Jekyll theme which implements the Italia Design System
+  
+- [design-angular-kit](https://github.com/italia/design-angular-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit" alt="GitHub issues">\
+  An Angular toolkit that implements the Italia design system
 
 - [design-drupal-theme](https://github.com/italia/design-drupal-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-drupal-theme" alt="GitHub issues">\
-  A Drupal theme which implements the Italia Design System
+  A Drupal theme that implements the Italia design system
+  
+- [design-django-theme](https://github.com/italia/design-django-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-django-theme" alt="GitHub issues">\
+  A Django theme that implements the Italia design system
+ 
 - [design.plone.theme](https://github.com/italia/design.plone.theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design.plone.theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design.plone.theme" alt="GitHub issues">\
   A Plone theme that implements the Italia design system
-- [design-ckan-theme](https://github.com/italia/design-ckan-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-ckan-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-ckan-theme" alt="GitHub issues">\
-  A CKAN theme which implements the Italia Design System
-
-- [design-liferay-theme](https://github.com/italia/design-liferay-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-liferay-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-liferay-theme" alt="GitHub issues">\
-  A Liferay theme which implements the Italia Design System
-- [design-vue-kit](https://github.com/italia/design-vue-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-vue-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-vue-kit" alt="GitHub issues">
   
 - [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-wireframe-kit" alt="GitHub issues">\
   Official Italian wireframe kit for LoFi prototyping
-- [design-angular-kit](https://github.com/italia/design-angular-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit" alt="GitHub issues">\
-  Un toolkit Angular conforme alle linee guida di design per i servizi web della PA
-- [design-scuole-docs](https://github.com/italia/design-scuole-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
-  Documentazione del progetto di design dei siti web delle scuole
-- [design-scuole-prototipi](https://github.com/italia/design-scuole-prototipi)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-prototipi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-prototipi" alt="GitHub issues">\
-  Prototipo HiFi del progetto scuole
-
-- [design-comuni-docs](https://github.com/italia/design-comuni-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">
   
-- [design-django-theme](https://github.com/italia/design-django-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-django-theme" alt="GitHub issues">\
-  Bootstrap Italia template for Django
-- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-laravel-theme" alt="GitHub issues">\
-  Easy Bootstrap-Italia integration with Laravel 5
 - [design-scuole-wordpress-theme](https://github.com/italia/design-scuole-wordpress-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-wordpress-theme" alt="GitHub issues">\
   Tema Wordpress dedicato al progetto per i siti delle scuole
+  
 - [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche" alt="GitHub issues">\
   Pagine statiche dedicate al progetto per i siti delle scuole
-- [design-scuole-wordpress-theme-demo](https://github.com/italia/design-scuole-wordpress-theme-demo)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-wordpress-theme-demo?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-wordpress-theme-demo" alt="GitHub issues">\
-  Una demo per il tema WordPress per i siti delle scuole
-- [design-shibboleth-idp-theme](https://github.com/italia/design-shibboleth-idp-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-shibboleth-idp-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-shibboleth-idp-theme" alt="GitHub issues">\
-  Bootstrap Italia template for Shibboleth IdP > 3.2
-- [design-italia-gatsby-starterkit](https://github.com/italia/design-italia-gatsby-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-gatsby-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-gatsby-starterkit" alt="GitHub issues">\
-  Gatsby starter per il Design React kit di Bootstrap Italia
+  
+- [design-comuni-wordpress-theme](https://github.com/italia/design-comuni-wordpress-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-wordpress-theme" alt="GitHub issues">\
+  Tema Wordpress dedicato al progetto per i siti dei comuni
+  
+- [design-comuni-pagine-statiche](https://github.com/italia/design-comuni-pagine-statiche)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-pagine-statiche" alt="GitHub issues">\
+  Pagine statiche dedicate al progetto per i siti dei comuni
+  
 - [design-wordpress-theme-italiaWP2](https://github.com/italia/design-wordpress-theme-italiaWP2)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wordpress-theme-italiaWP2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-wordpress-theme-italiaWP2" alt="GitHub issues">\
   Tema WordPress open-source per la Pubblica Amministrazione basato su Bootstrap Italia
-- [design-linee-guida-docs](https://github.com/italia/design-linee-guida-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-linee-guida-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-linee-guida-docs" alt="GitHub issues">
-
-- [hugo-theme-bootstrap-italia](https://github.com/italia/hugo-theme-bootstrap-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/hugo-theme-bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/hugo-theme-bootstrap-italia" alt="GitHub issues">
-  A Hugo theme built with Bootstrap Italia (https://italia.github.io/bootstrap-italia/)
-
-- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
-  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
-  Bootstrap Italia Playground
-
+  
 ## 🔗 Websites
 
 - [innovazione.gov.it](https://github.com/teamdigitale/innovazione.gov.it-site)
