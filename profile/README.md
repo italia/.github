@@ -351,7 +351,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
   Bootstrap Italia è un tema basato su Bootstrap 5 conforme alle "Linee guida di design per i siti internet e i servizi digitali della Pubblica Amministrazione"
   
- - [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
+- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
   Bootstrap Italia Playground - Questo progetto è il modo più semplice per iniziare ad usare Bootstrap Italia.
