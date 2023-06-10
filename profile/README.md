@@ -40,10 +40,20 @@
 
 ## 🌀 Open data
 
+- [anpr-opendata](https://github.com/italia/anpr-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
+  Open data di ANPR (Anagrafe Nazionale)
+
+- [padigitale2026-opendata](https://github.com/teamdigitale/padigitale2026-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
+  Open data di PA digitale 2026
+
 - [covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini)
   <img align="right" src="https://img.shields.io/github/stars/italia/covid19-opendata-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/covid19-opendata-vaccini" alt="GitHub issues">\
-  Consegna e somministrazione dei vaccini anti COVID-19 in Italia.
+  Consegna e somministrazione dei vaccini anti COVID-19 in Italia
 
 - [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets)
   <img align="right" src="https://img.shields.io/github/stars/italia/awesome-italian-public-datasets?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
