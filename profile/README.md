@@ -302,7 +302,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 - [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
-  L'obiettivo di questo progetto è quello di fornire un template pronto all'uso che realizza un sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP. Ognuno può poi modificare o specializzare questo progetto sulla base delle proprie esigenze  Si tratta di un progetto docker per la creazione di un container che implementa un sistema di mutua autenticazione o autenticazione bilaterale SSL/TLS. Questo meccanismo di autenticazione richiede anche il certificato digitale da parte del client, certificato che in questo caso risiede all'interno della TS-CNS o della CIE.
+  Template per Apache di un sistema di autenticazione con Smart Card TS-CNS (o CNS) e CIE (Carta d'Identità Elettronica)
 
 ## 📐 Design
 
