@@ -20,7 +20,7 @@
 • [<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Publiccode](#-publiccode)
 • [<g-emoji class="g-emoji" alias="building_construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png">🏗️</g-emoji> Tooling](#️-tooling)
 • [<g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Docs](#-docs)
-• [<g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> Unsorted](#-unsorted)
+• [<g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> Misc](#-unsorted)
 
 <p align="center">
   <a href="https://developers.italia.it/en/to-do" title="Search issues in need for help" >
@@ -418,23 +418,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/come-partecipo.italia.it" alt="GitHub issues">\
   Guida interattiva per guidare le persone che vogliono contribuire
 
-## 💰 pagoPa
-
-- [pagopa-docs-faq](https://github.com/pagopa/pagopa-docs-faq)
-  <img align="right" src="https://img.shields.io/github/stars/pagopa/pagopa-docs-faq?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/pagopa/pagopa-docs-faq" alt="GitHub issues">\
-  Le FAQ (<https://docs.italia.it/italia/pagopa/pagopa-docs-faq>).
-
-- [pagopa-specifichepagamenti-docs](https://github.com/pagopa/pagopa-specifichepagamenti-docs)
-  <img align="right" src="https://img.shields.io/github/stars/pagopa/pagopa-specifichepagamenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/pagopa/pagopa-specifichepagamenti-docs" alt="GitHub issues">\
-  La documentazione tecnica.
-
-- [pagopa-api](https://github.com/pagopa/pagopa-api)
-  <img align="right" src="https://img.shields.io/github/stars/pagopa/pagopa-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/pagopa/pagopa-api" alt="GitHub issues">\
-  Le interfacce (esposte e richieste) per la connessione con pagoPA. Tutti gli schemi XSD e WSDL.
-
 ## 🧑 ANPR (Anagrafe Nazionale Popolazione Residente)
 
 L'anagrafe digitale Italiana
@@ -488,134 +471,23 @@ Describe the Free and Open Source software of your Public Administration with a 
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-gitlab-ci" alt="GitHub issues">\
   GitLab includable snippet for publiccode.yml validation
 
-## 🏗️ Tooling
-
-- [repo-cookiecutter](https://github.com/italia/repo-cookiecutter)
-  <img align="right" src="https://img.shields.io/github/stars/italia/repo-cookiecutter?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/repo-cookiecutter" alt="GitHub issues">\
-  This repo is meant to be used as a template for creating new repos
-
-- 🍴 [pandoc](https://github.com/italia/pandoc)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pandoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pandoc" alt="GitHub issues">\
-  Universal markup converter
-
 ## 📜 Docs
 
-- [docs-italia-guide](https://github.com/italia/docs-italia-guide)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-guide?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-guide" alt="GitHub issues">\
-  Guida alla pubblicazione dei documenti su Docs Italia
-
-- [codice-amministrazione-digitale-docs](https://github.com/italia/codice-amministrazione-digitale-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/codice-amministrazione-digitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/codice-amministrazione-digitale-docs" alt="GitHub issues">
-  Codice dell'amministrazione digitale
-
-- [piano-nazionale-innovazione-2025-docs](https://github.com/italia/piano-nazionale-innovazione-2025-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/piano-nazionale-innovazione-2025-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/piano-nazionale-innovazione-2025-docs" alt="GitHub issues">\
-  Strategia per l’innovazione tecnologica e la digitalizzazione del Paese 2025
-
-- [pianotriennale-ict-doc](https://github.com/italia/pianotriennale-ict-doc)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc" alt="GitHub issues">\
-  Documento Piano Triennale ICT
-
-- [pianotriennale-ict-doc-en](https://github.com/italia/pianotriennale-ict-doc-en)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc-en?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc-en" alt="GitHub issues">\
-  The Italian Three Year Plan for ICT - English translation
-
-- [cloud-docs](https://github.com/italia/cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
-  La documentazione del Cloud della PA
-
-- [censimento-ict](https://github.com/italia/censimento-ict)
-  <img align="right" src="https://img.shields.io/github/stars/italia/censimento-ict?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/censimento-ict" alt="GitHub issues">\
-  Documentazione del processo di Censimento ICT della PA
-
-- [cloud-circolari-docs](https://github.com/italia/cloud-circolari-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-circolari-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-circolari-docs" alt="GitHub issues">
-
-- [cartadocente-esercenti-docs](https://github.com/italia/cartadocente-esercenti-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cartadocente-esercenti-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cartadocente-esercenti-docs" alt="GitHub issues">\
-  Guida a Carta del Docente per gli esercenti
-
-- [competenzedigitali-docs](https://github.com/italia/competenzedigitali-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/competenzedigitali-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/competenzedigitali-docs" alt="GitHub issues">
-  
-- [pell-illuminazionepubblica-docs](https://github.com/italia/pell-illuminazionepubblica-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pell-illuminazionepubblica-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pell-illuminazionepubblica-docs" alt="GitHub issues">
+- [All repositories containing Docs Italia documents](https://github.com/search?q=org%3Aitalia+-docs&type=repositories)
   
 
-## 🚧 Unsorted
+## 🚧 Misc
 
-- [pianotri-schede-bdin](https://github.com/italia/pianotri-schede-bdin)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-schede-bdin?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotri-schede-bdin" alt="GitHub issues">\
-  Schede Basi di Dati di Interesse Nazionale
-
-- 👀 [moduli-pa](https://github.com/italia/moduli-pa)
-  <img align="right" src="https://img.shields.io/github/stars/italia/moduli-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/moduli-pa" alt="GitHub issues">
-
-- [pianotri-elencobasidatichiave](https://github.com/italia/pianotri-elencobasidatichiave)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotri-elencobasidatichiave?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotri-elencobasidatichiave" alt="GitHub issues">\
-  Piano Triennale: Elenco Basi Dati Chiave
-
-- [ckan-it](https://github.com/italia/ckan-it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it" alt="GitHub issues">\
-  This project provides everything you need to run CKAN plus a set of extensions for supporting Italian open data in a set of Docker images.
-
-- [pandoc-types](https://github.com/italia/pandoc-types)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pandoc-types?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pandoc-types" alt="GitHub issues">\
-  types for representing structured documents
-- [relazionecommissionedigitale-docs](https://github.com/italia/relazionecommissionedigitale-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/relazionecommissionedigitale-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/relazionecommissionedigitale-docs" alt="GitHub issues">\
-  Relazione della Commissione Parlamentare d'Inchiesta sulla Digitalizzazione e l'Innovazione della Pubblica Amministrazione
-- [pandoc-font-to-style](https://github.com/italia/pandoc-font-to-style)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pandoc-font-to-style?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pandoc-font-to-style" alt="GitHub issues">\
-  convert DOCX fonts into formatting
-- [foia-circolare2-docs](https://github.com/italia/foia-circolare2-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/foia-circolare2-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/foia-circolare2-docs" alt="GitHub issues">\
-  Circolare n. 2 del 2017. Attuazione delle norme sul FOIA
 - [writing-toolkit](https://github.com/italia/writing-toolkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/writing-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/writing-toolkit" alt="GitHub issues">\
   Guida al linguaggio della Pubblica Amministrazione
-- [OntoPiA-UI](https://github.com/italia/OntoPiA-UI)
-  <img align="right" src="https://img.shields.io/github/stars/italia/OntoPiA-UI?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/OntoPiA-UI" alt="GitHub issues">
   
-- [w3id.org](https://github.com/italia/w3id.org)
-  <img align="right" src="https://img.shields.io/github/stars/italia/w3id.org?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/w3id.org" alt="GitHub issues">\
-  Website source code for w3id.org
-- [docs-italia-template-conversione](https://github.com/italia/docs-italia-template-conversione)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-template-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-template-conversione" alt="GitHub issues">\
-  Modello per creare un documento da pubblicare su Docs Italia
-- [developers-italia-onboarding](https://github.com/italia/developers-italia-onboarding)
-  <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-onboarding?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-onboarding" alt="GitHub issues">\
-  Onboarding web portal for the Developers Italia website
 - [fatturapa-php-sdk](https://github.com/italia/fatturapa-php-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-php-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-php-sdk" alt="GitHub issues">\
   PHP SDK per la fatturazione elettronica
+  
 - [fatturapa-webapp](https://github.com/italia/fatturapa-webapp)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-webapp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-webapp" alt="GitHub issues">
@@ -624,117 +496,8 @@ Describe the Free and Open Source software of your Public Administration with a 
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-testsdi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-testsdi" alt="GitHub issues">\
   Sistema d'Interscambio di test
-- 👀 [italia-conf](https://github.com/italia/italia-conf)
-  <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">
   
-- 👀 [awesome-rss-feeds](https://github.com/italia/awesome-rss-feeds)
-  <img align="right" src="https://img.shields.io/github/stars/italia/awesome-rss-feeds?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/awesome-rss-feeds" alt="GitHub issues">\
-  A selection of interesting RSS feeds from the Italian Public Administration and use cases
-- [agavecms](https://github.com/italia/agavecms)
-  <img align="right" src="https://img.shields.io/github/stars/italia/agavecms?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/agavecms" alt="GitHub issues">\
-  Agave è un software open-source composto da una serie di strumenti interconnessi che cooperano tra loro per la generazione di un sito statico
-
-- [ruby-agave-client](https://github.com/italia/ruby-agave-client)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ruby-agave-client?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ruby-agave-client" alt="GitHub issues">\
-  CLI tool for AgaveCMS
-- [agave-template-school](https://github.com/italia/agave-template-school)
-  <img align="right" src="https://img.shields.io/github/stars/italia/agave-template-school?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/agave-template-school" alt="GitHub issues">\
-  Public example of a school website to be used with Agave.
-
-- [cloud-enablement-kit](https://github.com/italia/cloud-enablement-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-enablement-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-enablement-kit" alt="GitHub issues">  
-
-- [developers-italia-gsoc](https://github.com/italia/developers-italia-gsoc)
-  <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-gsoc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-gsoc" alt="GitHub issues">\
-  Documentation and discussion about GSoC projects
 - [fatturapa-python](https://github.com/italia/fatturapa-python)
   <img align="right" src="https://img.shields.io/github/stars/italia/fatturapa-python?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/fatturapa-python" alt="GitHub issues">\
   Generatore a riga di comando di semplici fatture elettroniche FatturaPA per consulenti
-- [ckanext-dcatapit](https://github.com/italia/ckanext-dcatapit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckanext-dcatapit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckanext-dcatapit" alt="GitHub issues">\
-  CKAN extension for the Italian Open Data Portals (DCAT_AP-IT)
-- [ckanext-multilang](https://github.com/italia/ckanext-multilang)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckanext-multilang?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckanext-multilang" alt="GitHub issues">\
-  A CKAN extension that manages multilingual contents
-- [readme-starterkit](https://github.com/italia/readme-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/readme-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/readme-starterkit" alt="GitHub issues">\
-  A README file starter kit
-- [manuale-di-abilitazione-al-cloud-docs](https://github.com/italia/manuale-di-abilitazione-al-cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-di-abilitazione-al-cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-di-abilitazione-al-cloud-docs" alt="GitHub issues">\
-  Repo del doc Manuale di abilitazione al cloud
-- [ckan](https://github.com/italia/ckan)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckan?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckan" alt="GitHub issues">\
-  CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.
-- [ckanext-dcat](https://github.com/italia/ckanext-dcat)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckanext-dcat?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckanext-dcat" alt="GitHub issues">\
-  CKAN ♥ DCAT
-- [ckanext-harvest](https://github.com/italia/ckanext-harvest)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckanext-harvest?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckanext-harvest" alt="GitHub issues">\
-  Remote harvesting extension for CKAN
-- [datapusher](https://github.com/italia/datapusher)
-  <img align="right" src="https://img.shields.io/github/stars/italia/datapusher?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/datapusher" alt="GitHub issues">\
-  A standalone web service that pushes data files from a CKAN site's resources into its DataStore
-- [dati-ontopia-virtuoso](https://github.com/italia/dati-ontopia-virtuoso)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontopia-virtuoso?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontopia-virtuoso" alt="GitHub issues">\
-  The Virtuoso SPARQL enpoint used by PDND
-- [dati-ontopia-lodview](https://github.com/italia/dati-ontopia-lodview)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontopia-lodview?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontopia-lodview" alt="GitHub issues">\
-  A browser for ontology entities and controlled vocabularies entities used in the context of OntoPiA in the PDND project.
-- [dati-ontopia-lode](https://github.com/italia/dati-ontopia-lode)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontopia-lode?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontopia-lode" alt="GitHub issues">\
-  Repo to containerize Lode: a Tomcat server application that can be used to create HTML documentation for Web Ontology Language (OWL) ontologies (more info at https://github.com/essepuntato/LODE).
-- [dati-ontonethub](https://github.com/italia/dati-ontonethub)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dati-ontonethub?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dati-ontonethub" alt="GitHub issues">\
-  OntoNetHub is a Web-based application meant to deal with the management of ontology networks. This include the upload, deletion, storage, and indexing of an ontology part of a network.
-- [policy-inserimento-catalogo-docs](https://github.com/italia/policy-inserimento-catalogo-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/policy-inserimento-catalogo-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/policy-inserimento-catalogo-docs" alt="GitHub issues">\
-  Repository Docs Italia contenente le policy per l'inserimento di software OSS nel catalogo di Developers Italia
-- [ckanext-spatial](https://github.com/italia/ckanext-spatial)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckanext-spatial?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckanext-spatial" alt="GitHub issues">\
-  Geospatial extension for CKAN
-- [ckan-it-solr](https://github.com/italia/ckan-it-solr)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it-solr?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it-solr" alt="GitHub issues">\
-  Solr v6.2 packaged for CKAN and with some customizations.
-- [public-opendata-sources](https://github.com/italia/public-opendata-sources)
-  <img align="right" src="https://img.shields.io/github/stars/italia/public-opendata-sources?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/public-opendata-sources" alt="GitHub issues">\
-  A (complete) list of Italian public open data sources.
-- [ckan-it-postgis](https://github.com/italia/ckan-it-postgis)
-  <img align="right" src="https://img.shields.io/github/stars/italia/ckan-it-postgis?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ckan-it-postgis" alt="GitHub issues">\
-  PostGIS v11 packaged for CKAN and with some customizations.
-- [form-pa](https://github.com/italia/form-pa)
-  <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
-  A flexible and configurable form based on json schema
-
-🍴 = Forked from upstream
-
-❌ = Obsolete / Not working
-
-🗑= Should probably be removed
-
-👀 = Need info
