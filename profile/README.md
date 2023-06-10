@@ -387,15 +387,7 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
   The developer community designing and developing public digital services in Italy
-  - [developers-italia-searchyll](https://github.com/italia/developers-italia-searchyll)
-    <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">
-     
-  - [developers.italia.it-data](https://github.com/italia/developers.italia.it-data)
-    <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it-data?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it-data" alt="GitHub issues">\
-    Data exported from external APIs, used during the site's build     
-
+  
 - [designers.italia.it](https://github.com/italia/designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/designers.italia.it" alt="GitHub issues">\
@@ -405,40 +397,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/docs.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs.italia.it" alt="GitHub issues">\
   The source code that powers docs.italia.it
-
-  - [docs-italia-theme](https://github.com/italia/docs-italia-theme)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
-    Tema per i documenti pubblicati su Docs Italia
-
-  - [docs-italia-convertitore-web](https://github.com/italia/docs-italia-convertitore-web)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-convertitore-web?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-convertitore-web" alt="GitHub issues">
-      
-  - [docs-italia-test-conversione](https://github.com/italia/docs-italia-test-conversione)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-test-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-test-conversione" alt="GitHub issues">\
-    test di regressione per https://github.com/italia/docs-italia-comandi-conversione
-
-  - [docs-italia-starter-kit](https://github.com/italia/docs-italia-starter-kit)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-starter-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-starter-kit" alt="GitHub issues">\
-    Starter kit per pubblicare su Docs Italia
-
-  - [docs-italia-pandoc-filters](https://github.com/italia/docs-italia-pandoc-filters)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-pandoc-filters?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-pandoc-filters" alt="GitHub issues">\
-    Filtri pandoc per Docs Italia
-
-  - [docs-italia-comandi-conversione](https://github.com/italia/docs-italia-comandi-conversione)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-comandi-conversione?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-comandi-conversione" alt="GitHub issues">\
-    Comandi di conversione di formato per Docs Italia
-
-  - [docs-italia-deploy-scripts](https://github.com/italia/docs-italia-deploy-scripts)
-    <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-deploy-scripts?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-deploy-scripts" alt="GitHub issues">\
-    Ansible playbooks for deploying docs.italia.it
 
 - [cloud.italia.it](https://github.com/italia/cloud.italia.it-site)
   <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -450,11 +408,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/identitadigitale.gov.it" alt="GitHub issues">\
   identitadigitale.gov.it: il sito dell'Identità Digitale Italiana (SPID + CIE)
 
-- [pianotriennale-ict.italia.it](https://github.com/italia/pianotriennale-ict.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict.italia.it" alt="GitHub issues">\
-  Sito Piano Triennale ICT
-
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
@@ -464,11 +417,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/come-partecipo.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/come-partecipo.italia.it" alt="GitHub issues">\
   Guida interattiva per guidare le persone che vogliono contribuire
-
-- 👀 [comunica.italia.it](https://github.com/italia/comunica.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/comunica.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/comunica.italia.it" alt="GitHub issues">\
-  comunica.italia.it
 
 ## 💰 pagoPa
 
