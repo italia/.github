@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 1 * *'
+
+jobs:
+  check-stale-repos:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - uses: docker://ghcr.io/github/stale_repos:v1
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        ORGANIZATION: italia
+        INACTIVE_DAYS: 365
+
+    - uses: peter-evans/create-issue-from-file@v4
+      with:
+        title: Stale repository report
+        content-filepath: ./stale_repos.md
+        token: ${{ secrets.GITHUB_TOKEN }}
