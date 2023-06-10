@@ -10,8 +10,7 @@
   <br>
 </p>
 
-[<g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji>  Guidelines](#️--guidelines)
-• [<g-emoji class="g-emoji" alias="cyclone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png">🌀</g-emoji> Open data](#-open-data)
+[<g-emoji class="g-emoji" alias="cyclone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png">🌀</g-emoji> Open data](#-open-data)
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> SPID](#-spid)
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> Electronic identity card (CIE)](#-electronic-identity-card-cie)
 • [<g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">📐</g-emoji> Design](#-design)
@@ -38,50 +37,6 @@
 # Awesome Italia
 
 > The organized list of awesome @italia (and friends) projects
-
-## ☑️  Guidelines
-
-- [lg-transizione-interoperabilita](https://github.com/italia/lg-transizione-interoperabilita)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-transizione-interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-transizione-interoperabilita" alt="GitHub issues">\
-  Linee guida per transitare al nuovo modello di interoperabilità
-- [lg-patrimonio-pubblico](https://github.com/italia/lg-patrimonio-pubblico)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-patrimonio-pubblico?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-patrimonio-pubblico" alt="GitHub issues">\
-  Linee guida per la valorizzazione del patrimonio informativo pubblico
-- [lg-misuraperformance-docs](https://github.com/italia/lg-misuraperformance-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-misuraperformance-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-misuraperformance-docs" alt="GitHub issues">
-  
-- [lg-acquisizione-e-riuso-software-per-pa-docs](https://github.com/italia/lg-acquisizione-e-riuso-software-per-pa-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-acquisizione-e-riuso-software-per-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-acquisizione-e-riuso-software-per-pa-docs" alt="GitHub issues">\
-  Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
-- [lg-interoperabilita](https://github.com/italia/lg-interoperabilita)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-interoperabilita?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-interoperabilita" alt="GitHub issues">
-  
-- [lg-modellointeroperabilita-docs](https://github.com/italia/lg-modellointeroperabilita-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-modellointeroperabilita-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-modellointeroperabilita-docs" alt="GitHub issues">\
-  Linee guida sul modello di interoperabilità 2018
-- [lg-comunicazione-docs](https://github.com/italia/lg-comunicazione-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-comunicazione-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-comunicazione-docs" alt="GitHub issues">
-  
-- [lg-competenzedigitali-docs](https://github.com/italia/lg-competenzedigitali-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-competenzedigitali-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-competenzedigitali-docs" alt="GitHub issues">\
-  Linee guida competenze digitali
-- [linee-guida-cataloghi-dati-dcat-ap-it](https://github.com/italia/linee-guida-cataloghi-dati-dcat-ap-it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/linee-guida-cataloghi-dati-dcat-ap-it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/linee-guida-cataloghi-dati-dcat-ap-it" alt="GitHub issues">\
-  Linee guida per l’alimentazione e gestione di cataloghi dati secondo il profilo nazionale di metadatazione DCAT-AP_IT
-
-- [gl-acquisition-and-reuse-software-for-pa-docs](https://github.com/italia/gl-acquisition-and-reuse-software-for-pa-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/gl-acquisition-and-reuse-software-for-pa-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/gl-acquisition-and-reuse-software-for-pa-docs" alt="GitHub issues">\
-  Guidelines on the acquisition and reuse of software for Public Administrations
 
 ## 🌀 Open data
 
