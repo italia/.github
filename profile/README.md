@@ -444,31 +444,6 @@ L'anagrafe digitale Italiana
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr" alt="GitHub issues">\
   Issue tracker e documentazione
 
-- [anpr-doc-subentro](https://github.com/italia/anpr-doc-subentro)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-doc-subentro?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-doc-subentro" alt="GitHub issues">\
-  ANPR - Documentazione sulle procedure di rettifica delle anomalie per il subentro
-
-- [anpr-wsdl-docwriter](https://github.com/italia/anpr-wsdl-docwriter)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-wsdl-docwriter?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-wsdl-docwriter" alt="GitHub issues">\
-  An automated generator of API documentation starting from WSDL files
-
-- [anpr-github-privacy-check](https://github.com/italia/anpr-github-privacy-check)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-github-privacy-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-github-privacy-check" alt="GitHub issues">\
-  A service to enforce the absence of sensitive data on ANPR tickets
-
-- [anpr-github-metrics](https://github.com/italia/anpr-github-metrics)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-github-metrics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-github-metrics" alt="GitHub issues">\
-  An analytics system for github issues
-
-- [anpr-error-search](https://github.com/italia/anpr-error-search)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-error-search?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-error-search" alt="GitHub issues">\
-  A search interface to sort through error codes
-
 - [anpr-client-example](https://github.com/italia/anpr-client-example)
   <img align="right" src="https://img.shields.io/github/stars/italia/anpr-client-example?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr-client-example" alt="GitHub issues">\
