@@ -15,7 +15,6 @@
 • [<g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> Electronic identity card (CIE)](#-electronic-identity-card-cie)
 • [<g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">📐</g-emoji> Design](#-design)
 • [<g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> Websites](#-websites)
-• [<g-emoji class="g-emoji" alias="moneybag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png">💰</g-emoji> pagoPa](#-pagopa)
 • [<g-emoji class="g-emoji" alias="adult" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1.png">🧑</g-emoji> ANPR (Anagrafe Nazionale Popolazione Residente)](#-anpr-anagrafe-nazionale-popolazione-residente)
 • [<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Publiccode](#-publiccode)
 • [<g-emoji class="g-emoji" alias="building_construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png">🏗️</g-emoji> Tooling](#️-tooling)
