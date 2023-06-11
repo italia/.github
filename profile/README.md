@@ -63,11 +63,6 @@
 _Sistema Pubblico di Identità Digitale, permette di accedere ai servizi della
 Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e smartphone._
 
-- [spid-regole-tecniche](https://github.com/italia/spid-regole-tecniche)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-regole-tecniche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-regole-tecniche" alt="GitHub issues">\
-  Specifiche tecniche su docs.italia.it
-
 - [spid-saml-check](https://github.com/italia/spid-saml-check)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-saml-check?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-saml-check" alt="GitHub issues">\
@@ -87,11 +82,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-graphics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-graphics" alt="GitHub issues">\
   Icone, loghi e grafiche
-
-- [spid-idp-login-layout](https://github.com/italia/spid-idp-login-layout)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-idp-login-layout?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-idp-login-layout" alt="GitHub issues">\
-  User Interface per Identity Provider SPID
 
 - [spid-sp-access-button](https://github.com/italia/spid-sp-access-button)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-access-button?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -143,20 +133,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
   SPID proxy for Service Providers that already implement SAML2
 
-- [spid-registry-idp](https://github.com/italia/spid-registry-idp)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-registry-idp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-registry-idp" alt="GitHub issues">\
-  SPID Registry - IDP
-
-- [spid](https://github.com/italia/spid)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid" alt="GitHub issues">\
-  Bug tracker per supporto tecnico a pubbliche amministrazioni ed enti privati
-
-- [lg-spid-rilascio-identita-digitale-uso-professionale](https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-spid-rilascio-identita-digitale-uso-professionale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-spid-rilascio-identita-digitale-uso-professionale" alt="GitHub issues">\
-  SPID per uso professionale
 
 <details>
     <summary>Libraries for SPID authentication</summary>
@@ -245,18 +221,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware" alt="GitHub issues">\
   Middleware della CIE (Carta di identità elettronica)
-- [cie-mrtd-dotnet-sdk](https://github.com/italia/cie-mrtd-dotnet-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-mrtd-dotnet-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-mrtd-dotnet-sdk" alt="GitHub issues">\
-  SDK for reading the ICAO MRTD information from the Italian Electronic Identity Card (CIE)
-- [cie-docs-servizi](https://github.com/italia/cie-docs-servizi)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-docs-servizi?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-docs-servizi" alt="GitHub issues">\
-  CIE 3.0 Documentation - Utilizzo della nuova CIE per la realizzazione di servizi al cittadino
-- [cie-mrtd-example-app](https://github.com/italia/cie-mrtd-example-app)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-mrtd-example-app?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-mrtd-example-app" alt="GitHub issues">\
-  Example desktop application using the cie-mrtd-sdk library
 - [cie-nis-cpp-sdk](https://github.com/italia/cie-nis-cpp-sdk)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-nis-cpp-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-nis-cpp-sdk" alt="GitHub issues">\
@@ -265,10 +229,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-macos" alt="GitHub issues">\
   Middleware della CIE per MacOS (Carta di identità elettronica) 
-- [cie-middleware-windows-docs](https://github.com/italia/cie-middleware-windows-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-windows-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-windows-docs" alt="GitHub issues">\
-  Documentazione "CIE 3.0: Manuale d’uso del middleware CIE"
 - [cie-PN532](https://github.com/italia/cie-PN532)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-PN532?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-PN532" alt="GitHub issues">\
