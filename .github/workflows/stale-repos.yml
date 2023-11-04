@@ -17,7 +17,6 @@ jobs:
         INACTIVE_DAYS: 365
 
     - name: Check for the stale report issue
-      id: existing_issue
       run: |
         ISSUE_NUMBER=$(gh search issues "Stale repository report" --label "stale-report" --match title --json number --jq ".[0].number")
         echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_ENV"
