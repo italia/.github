@@ -8,13 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v3
+    
     - uses: docker://ghcr.io/github/stale_repos:v1
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         ORGANIZATION: italia
         INACTIVE_DAYS: 365
 
-    - uses: actions/checkout@v3
     - name: Check for the stale report issue
       id: existing_issue
       run: |
