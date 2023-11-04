@@ -14,10 +14,11 @@ jobs:
         ORGANIZATION: italia
         INACTIVE_DAYS: 365
 
+    - uses: actions/checkout@v3
     - name: Check for the stale report issue
       id: existing_issue
       run: |
-        ISSUE_NUMBER=$(gh issue list --label "stale-report" --search "title:Stale repository report" --json number --jq ".[0].number")
+        ISSUE_NUMBER=$(gh search issues "Stale repository report" --label "stale-report" --match title --json number --jq ".[0].number")
         echo "::set-output name=issue_number::$ISSUE_NUMBER"
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
