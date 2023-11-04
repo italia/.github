@@ -20,13 +20,13 @@ jobs:
       id: existing_issue
       run: |
         ISSUE_NUMBER=$(gh search issues "Stale repository report" --label "stale-report" --match title --json number --jq ".[0].number")
-        echo "::set-output name=issue_number::$ISSUE_NUMBER"
+        echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_ENV"
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     - uses: peter-evans/create-issue-from-file@v4
       with:
-        issue-number: ${{ steps.last-issue.outputs.issue_number }}
+        issue-number: ${{ env.issue_number }}
         title: Stale repository report
         content-filepath: ./stale_repos.md
         labels: stale-report
