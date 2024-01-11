@@ -49,8 +49,8 @@
   Open data di PA digitale 2026
 
 - [pdnd-opendata](https://github.com/italia/pdnd-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
   Open data di Piattaforma Digitale Nazionale Dati (PDND)
   
 - [covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini)
