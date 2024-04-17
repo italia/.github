@@ -333,6 +333,21 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-pagine-statiche" alt="GitHub issues">\
   Pagine statiche dedicate al progetto per i siti dei comuni
+
+- [design-comuni-ui-kit](https://github.com/italia/design-comuni-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-ui-kit" alt="GitHub issues">\
+  UI kit dedicato al progetto per i siti dei comuni
+
+- [design-asl-ui-kit](https://github.com/italia/design-asl-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-ui-kit" alt="GitHub issues">\
+  UI kit dedicato al progetto per i siti delle aziende sanitarie locali (ASL)
+
+- [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
+  UI kit dedicato al progetto per i siti dei musei civici
   
 - [design-wordpress-theme-italiaWP2](https://github.com/italia/design-wordpress-theme-italiaWP2)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wordpress-theme-italiaWP2?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
