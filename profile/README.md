@@ -303,11 +303,6 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-django-theme" alt="GitHub issues">\
   A Django theme that implements the Italia design system
- 
-- [design.plone.theme](https://github.com/italia/design.plone.theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design.plone.theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design.plone.theme" alt="GitHub issues">\
-  A Plone theme that implements the Italia design system
   
 - [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -328,6 +323,11 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-wordpress-theme" alt="GitHub issues">\
   Tema Wordpress dedicato al progetto per i siti dei comuni
+
+- [design-comuni-plone-theme](https://github.com/italia/design-comuni-plone-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design.plone.theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design.plone.theme" alt="GitHub issues">\
+  A Plone theme that implements the Italia design system
   
 - [design-comuni-pagine-statiche](https://github.com/italia/design-comuni-pagine-statiche)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
