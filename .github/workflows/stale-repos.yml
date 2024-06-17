@@ -9,10 +9,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    
+
     - uses: docker://ghcr.io/github/stale_repos:v1
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_TOKEN: ${{ secrets.DEVELOPERS_ITALIA_DROID_GITHUB_TOKEN }}
         ORGANIZATION: italia
         INACTIVE_DAYS: 365
 
@@ -22,7 +22,7 @@ jobs:
         echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_ENV"
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
+
     - uses: peter-evans/create-issue-from-file@v4
       with:
         issue-number: ${{ env.issue_number }}
