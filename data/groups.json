@@ -1,0 +1,56 @@
+[
+    {
+        "id": "opendata",
+        "name" : "Open data",
+        "description" : "Open data repositories",
+        "icon" : "🌀"
+    },
+    {
+        "id": "spid",
+        "name" : "SPID",
+        "description" : "SPID repositories",
+        "icon" : "🎭"
+    },
+    {
+        "id": "design",
+        "name" : "Design",
+        "description" : "Design repositories",
+        "icon" : "📐"
+    },
+    {
+        "id": "cie",
+        "name" : "Electronic identity card (CIE)",
+        "description" : "Electronic identity card (CIE) repositories",
+        "icon" : "🎭"
+    },
+    {
+        "id": "websites",
+        "name" : "Websites",
+        "description" : "Websites repositories",
+        "icon" : "🌍"
+    },
+    {
+        "id": "anpr",
+        "name" : "ANPR (Anagrafe Nazionale Popolazione Residente)",
+        "description" : "ANPR (Anagrafe Nazionale Popolazione Residente) repositories",
+        "icon" : "🧑"
+    },
+    {
+        "id": "publiccode",
+        "name" : "Publiccode",
+        "description" : "Publiccode repositories",
+        "icon" : "💻"
+    },
+    {
+        "id": "docs",
+        "name" : "Docs",
+        "description" : "Docs repositories",
+        "icon" : "📜"
+    },
+    {
+        "id": "misc",
+        "name" : "Misc",
+        "description" : "Misc repositories",
+        "icon" : "🚧"
+    }
+]
