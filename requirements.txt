@@ -1,0 +1,4 @@
+github3.py==4.0.1
+python-dotenv==1.0.1
+python_dateutil==2.9.0.post0
+python-slugify==8.0.4
