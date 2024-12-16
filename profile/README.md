@@ -79,7 +79,7 @@
 - [anis-opendata](https://github.com/italia/anis-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/anis-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anis-opendata" alt="GitHub issues">\
-  
+  Questo repository contiene i dati pubblici estratti dalla pagina Numeri del portale ANIS.
 
 
 
@@ -488,7 +488,7 @@
 - [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
-  L'obiettivo di questo progetto è quello di fornire un template pronto all'uso che realizza un sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP. Ognuno può poi modificare o specializzare questo progetto sulla base delle proprie esigenze  Si tratta di un progetto docker per la creazione di un container che implementa un sistema di mutua autenticazione o autenticazione bilaterale SSL/TLS. Questo meccanismo di autenticazione richiede anche il certificato digitale da parte del client, certificato che in questo caso risiede all'interno della TS-CNS o della CIE.
+  Template di sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP.
 
 
 
@@ -562,7 +562,7 @@
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
-  
+  Sorgente del sito repubblicadigitale.innovazione.gov.it
 
 
 
@@ -760,14 +760,14 @@
 - [italia-conf](https://github.com/italia/italia-conf)
   <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
-  
+  File di configurazione per l'organizzazione Italia.
 
 
 
 - [slack-notify-release-action](https://github.com/italia/slack-notify-release-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/slack-notify-release-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack-notify-release-action" alt="GitHub issues">\
-  
+  GitHub action per notificare nuove release su Slack.
 
 
 
@@ -781,7 +781,7 @@
 - [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
   <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
-  
+  Libreria comune in Go per crawler, publiccode-parser-go e publiccode-validator.
 
 
 
