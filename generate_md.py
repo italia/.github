@@ -2,7 +2,7 @@
 
 import os, json
 from slugify import slugify
-from utils import auth_to_github, get_inactive_repos
+from utils import auth_to_github, get_inactive_repos, write_inactive_repos_to_md
 
 gh_connection = auth_to_github()
 
@@ -50,6 +50,7 @@ def repo_to_json():
     with open(os.path.join('data', 'repositories.json')) as f:
         repositories = json.load(f)
     inactive_repos = get_inactive_repos(gh_connection, 365, 'italia')
+    write_inactive_repos_to_md(inactive_repos, 365)
     inactive_repos_urls = [repo['url'] for repo in inactive_repos]
     for repo in gh_connection.organization('italia').repositories():
         if repo.html_url not in inactive_repos_urls:
@@ -105,5 +106,5 @@ for group in groups:
     if "repos" in group:
         for repo in sorted(group['repos'], key=lambda d: d['stars'], reverse=True):
             repositories += f'{create_repo_list_item(repo['slug'], repo['description'])}\n'
-    
+
 generate_markdown(summary, repositories)
