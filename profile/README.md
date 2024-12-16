@@ -11,7 +11,7 @@
 <br>
 </p>
 
-[🌀 Open data](#-open-data) •&nbsp;[🎭 SPID](#-spid) •&nbsp;[📐 Design](#-design) •&nbsp;[🎭 Electronic identity card (CIE)](#-electronic-identity-card-cie) •&nbsp;[🌍 Websites](#-websites) •&nbsp;[🧑 ANPR (Anagrafe Nazionale Popolazione Residente)](#-anpr-anagrafe-nazionale-popolazione-residente) •&nbsp;[💻 Publiccode](#-publiccode) •&nbsp;[📜 Docs](#-docs) •&nbsp;[🚧 Misc](#-misc) •&nbsp;
+[🌀 Open data](#-open-data) •&nbsp;[🎭 SPID](#-spid) •&nbsp;[📐 Design](#-design) •&nbsp;[🎭 Electronic identity card (CIE)](#-electronic-identity-card-cie) •&nbsp;[🌍 Websites](#-websites) •&nbsp;[🧑 ANPR (Anagrafe Nazionale Popolazione Residente)](#-anpr-anagrafe-nazionale-popolazione-residente) •&nbsp;[💻 Publiccode](#-publiccode) •&nbsp;[📜 Docs](#-docs) •&nbsp;[🚧 Misc](#-misc) 
 
 <p align="center">
 <a href="https://developers.italia.it/en/to-do" title="Search issues in need for help" >

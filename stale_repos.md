@@ -54,7 +54,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/daf-srv-ingestion | 2109 | 2019-03-08 | public |
 | https://github.com/italia/ruby-agave-client | 2102 | 2019-03-15 | public |
 | https://github.com/italia/pagopa-portaledelleadesioni-docs | 2099 | 2019-03-18 | public |
-| https://github.com/italia/anpr-doc-subentro | 2095 | 2019-03-22 | public |
+| https://github.com/italia/anpr-doc-subentro | 2096 | 2019-03-22 | public |
 | https://github.com/italia/spid-perl | 2088 | 2019-03-29 | public |
 | https://github.com/italia/design-vue-kit | 2074 | 2019-04-12 | public |
 | https://github.com/italia/cie-mrtd-example-app | 2046 | 2019-05-10 | public |
