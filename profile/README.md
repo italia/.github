@@ -48,6 +48,13 @@
 
 
 
+- [padigitale2026-opendata](https://github.com/teamdigitale/padigitale2026-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
+  opendata PNRR - PA digitale 2026
+
+
+
 - [anpr-opendata](https://github.com/italia/anpr-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
@@ -736,6 +743,13 @@
 
 
 
+- [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat" alt="GitHub issues">\
+  Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
+
+
+
 - [eslint-config-italia](https://github.com/italia/eslint-config-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/eslint-config-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/eslint-config-italia" alt="GitHub issues">\
@@ -753,6 +767,13 @@
 - [slack-notify-release-action](https://github.com/italia/slack-notify-release-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/slack-notify-release-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack-notify-release-action" alt="GitHub issues">\
+  
+
+
+
+- [apportafoglio](https://github.com/teamdigitale/apportafoglio)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apportafoglio?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apportafoglio" alt="GitHub issues">\
   
 
 
@@ -775,6 +796,20 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/LavoroAgile?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/LavoroAgile" alt="GitHub issues">\
   Sistema per la gestione degli accordi di lavoro agile
+
+
+
+- [matrix.developers.italia.it](https://github.com/teamdigitale/matrix.developers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/matrix.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/matrix.developers.italia.it" alt="GitHub issues">\
+  
+
+
+
+- [slack-matrix-migration](https://github.com/teamdigitale/slack-matrix-migration)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/slack-matrix-migration?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/slack-matrix-migration" alt="GitHub issues">\
+  A tool to import a Slack export into a Matrix homeserver
 
 
 

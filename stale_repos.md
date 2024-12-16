@@ -5,7 +5,7 @@ The following repos have not had a push event for more than 365 days:
 | Repository URL | Days Inactive | Last Push Date | Visibility |
 | --- | --- | --- | --- |
 | https://github.com/teamdigitale/spid-sp-playbook | 2775 | 2017-05-11 | public |
-| https://github.com/teamdigitale/codice-amministrazione-digitale | 2667 | 2017-08-27 | public |
+| https://github.com/teamdigitale/codice-amministrazione-digitale | 2668 | 2017-08-27 | public |
 | https://github.com/italia/design-joomla-theme | 2637 | 2017-09-26 | public |
 | https://github.com/teamdigitale/react-native-image | 2619 | 2017-10-14 | public |
 | https://github.com/italia/18app-dotnet-sdk | 2588 | 2017-11-14 | public |
@@ -54,7 +54,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/pagopa-docs-overview | 2231 | 2018-11-06 | public |
 | https://github.com/italia/docs-italia-template-conversione | 2222 | 2018-11-15 | public |
 | https://github.com/teamdigitale/scenarios | 2220 | 2018-11-17 | public |
-| https://github.com/italia/cloud-enablement-kit | 2204 | 2018-12-03 | public |
+| https://github.com/italia/cloud-enablement-kit | 2205 | 2018-12-03 | public |
 | https://github.com/teamdigitale/primi-due-anni-docs | 2196 | 2018-12-11 | public |
 | https://github.com/teamdigitale/italia-conf | 2194 | 2018-12-14 | public |
 | https://github.com/teamdigitale/protocollo-intesa-corte-dei-conti-docs | 2190 | 2018-12-17 | public |
@@ -275,7 +275,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/teamdigitale/eurostat-datawizard | 425 | 2023-10-17 | public |
 | https://github.com/italia/writing-toolkit | 409 | 2023-11-02 | public |
 | https://github.com/italia/docs.italia.it | 400 | 2023-11-11 | public |
-| https://github.com/italia/policy-inserimento-catalogo-docs | 393 | 2023-11-18 | public |
+| https://github.com/italia/policy-inserimento-catalogo-docs | 394 | 2023-11-18 | public |
 | https://github.com/teamdigitale/hiring-dtd-2023 | 388 | 2023-11-24 | public |
 | https://github.com/italia/OntoPiA-UI | 376 | 2023-12-05 | public |
 | https://github.com/italia/cie-manuale-operativo-docs | 370 | 2023-12-12 | public |
