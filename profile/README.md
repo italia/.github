@@ -76,6 +76,13 @@
 
 
 
+- [open-data-repository-template](https://github.com/teamdigitale/open-data-repository-template)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/open-data-repository-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/open-data-repository-template" alt="GitHub issues">\
+  Repository template for open data publication
+
+
+
 ## 🎭 SPID
 
 
@@ -538,10 +545,24 @@
 
 
 
+- [innovazione.gov.it-site](https://github.com/teamdigitale/innovazione.gov.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/innovazione.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/innovazione.gov.it-site" alt="GitHub issues">\
+  Sito del Dipartimento per la trasformazione digitale
+
+
+
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
   
+
+
+
+- [padigitale2026.gov.it-site](https://github.com/teamdigitale/padigitale2026.gov.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026.gov.it-site" alt="GitHub issues">\
+  Sorgente del sito padigitale2026.gov.it
 
 
 
@@ -552,10 +573,45 @@
 
 
 
+- [anagrafenazionale.interno.it-site](https://github.com/teamdigitale/anagrafenazionale.interno.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/anagrafenazionale.interno.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/anagrafenazionale.interno.it-site" alt="GitHub issues">\
+  anagrafenazionale.interno.it sorgenti
+
+
+
 - [next.developers.italia.it](https://github.com/italia/next.developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/next.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/next.developers.italia.it" alt="GitHub issues">\
   The developer community designing and developing public digital services in Italy - Next site
+
+
+
+- [monitoraggio.repubblicadigitale.gov.it](https://github.com/teamdigitale/monitoraggio.repubblicadigitale.gov.it)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/monitoraggio.repubblicadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/monitoraggio.repubblicadigitale.gov.it" alt="GitHub issues">\
+  facilita.repubblicadigitale.gov.it app
+
+
+
+- [identitadigitale.gov.it](https://github.com/teamdigitale/identitadigitale.gov.it)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/identitadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/identitadigitale.gov.it" alt="GitHub issues">\
+  Landing page per campagna Identità Digitale
+
+
+
+- [ministeroinnovazione.it-site](https://github.com/teamdigitale/ministeroinnovazione.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministeroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministeroinnovazione.it-site" alt="GitHub issues">\
+  
+
+
+
+- [ministroinnovazione.it-site](https://github.com/teamdigitale/ministroinnovazione.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministroinnovazione.it-site" alt="GitHub issues">\
+  
 
 
 
