@@ -1,48 +1,10 @@
-# Generates .md from JSON
-
 import os, json
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 from slugify import slugify
 from utils import auth_to_github, get_inactive_repos, write_inactive_repos_to_md
 
-gh_connection = auth_to_github()
 
-def generate_markdown(summary, repositories):
-    final_markdown = f"""<!-- markdownlint-disable line-length no-inline-html -->
-<!--
-    line-length: Split up badges lines are busier than having long lines
-    no-inline-html: We need that sweet center align
--->
-
-<p align="center">
-<br>
-<img width="200" src="awesome-italia.png" alt="logo of awesome-italia">
-<br>
-</p>
-
-{summary}
-
-<p align="center">
-<a href="https://developers.italia.it/en/to-do" title="Search issues in need for help" >
-    <strong>Want to help?</strong>
-</a>
-•
-<a href="https://come-partecipo.italia.it"
-    title="Scopri come contribuire al miglioramento dei servizi pubblici digitali del Paese"
->
-    <strong>Come partecipo?</strong>
-</a>
-</p>
-
-# Awesome Italia
-
-> The organized list of awesome @italia (and friends) projects
-
-{repositories}
-    """
-    with open(os.path.join('README.md'), "w") as f:
-        f.write(final_markdown)
-
-def repo_to_json():
+def load_groups_and_repos():
     groups = []
     repositories = {}
     with open(os.path.join('data', 'groups.json')) as f:
@@ -63,8 +25,11 @@ def repo_to_json():
             else:
                 if repositories[repo.html_url]:
                     group = [gr for gr in groups if gr['id'] == repositories[repo.html_url]][0]
+                    ## Init group
                     if not "repos" in group:
                         group["repos"] = []
+                    if not "slug" in group:
+                        group["slug"] = slugify(group["name"])
                     group["repos"].append(
                         {
                             'url' : repo.html_url,
@@ -77,34 +42,18 @@ def repo_to_json():
         json.dump(repositories, f, ensure_ascii=False, indent=4)
     return groups
 
-def create_group_title(icon, group_name):
-    return f'## {icon} {group_name}'
 
-def create_group_list_item(icon, group_name):
-    return f'• [{icon} {group_name}](#-{slugify(group_name)})'
+if __name__ == '__main__':
+    gh_connection = auth_to_github()
 
-def create_repo_list_item(slug, description):
-    repo_item = f"""- [{slug}](https://github.com/italia/{slug})
-  <img align="right" src="https://img.shields.io/github/stars/italia/{slug}?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/{slug}" alt="GitHub issues">\
-  {description}
-    """
-    return repo_item
+    groups = load_groups_and_repos()
 
+    env = Environment(
+        loader=FileSystemLoader(searchpath=os.path.join('templates')),
+        autoescape=select_autoescape()
+    )
 
-summary = ''
-repositories = ''
+    template = env.get_template(os.path.join('main.md'))
 
-groups = repo_to_json()
-
-for group in groups:
-    summary += f'{create_group_list_item(group['icon'], group['name'])}\n'
-
-for group in groups:
-    repositories += f'{create_group_title(group['icon'], group['name'])}\n\n'
-    repositories += f'{group['description']}\n'
-    if "repos" in group:
-        for repo in sorted(group['repos'], key=lambda d: d['stars'], reverse=True):
-            repositories += f'{create_repo_list_item(repo['slug'], repo['description'])}\n'
-
-generate_markdown(summary, repositories)
+    with open(os.path.join('README.md'), "w") as f:
+        f.write(template.render(groups=groups))
