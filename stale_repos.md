@@ -17,7 +17,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/lg-interoperabilita | 2425 | 2018-04-26 | public |
 | https://github.com/italia/cartadocente-esercenti-docs | 2424 | 2018-04-27 | public |
 | https://github.com/italia/competenzedigitali-docs | 2414 | 2018-05-07 | public |
-| https://github.com/italia/pell-illuminazionepubblica-docs | 2407 | 2018-05-14 | public |
+| https://github.com/italia/pell-illuminazionepubblica-docs | 2408 | 2018-05-14 | public |
 | https://github.com/italia/spid-idp-login-layout | 2376 | 2018-06-14 | public |
 | https://github.com/italia/lg-misuraperformance-docs | 2346 | 2018-07-15 | public |
 | https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale | 2346 | 2018-07-14 | public |
@@ -155,10 +155,10 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/design-linee-guida-docs | 766 | 2022-11-10 | public |
 | https://github.com/italia/design-comuni-wordpress-theme-devops | 766 | 2022-11-10 | public |
 | https://github.com/italia/design-base-wordpress-theme-devops | 766 | 2022-11-10 | public |
+| https://github.com/italia/daf-semantic-katalod | 761 | 2022-11-16 | public |
+| https://github.com/italia/daf-semantic-triplifier | 761 | 2022-11-16 | public |
+| https://github.com/italia/daf-semantic-kbaselib | 761 | 2022-11-16 | public |
 | https://github.com/italia/daf-semantics | 760 | 2022-11-16 | public |
-| https://github.com/italia/daf-semantic-katalod | 760 | 2022-11-16 | public |
-| https://github.com/italia/daf-semantic-triplifier | 760 | 2022-11-16 | public |
-| https://github.com/italia/daf-semantic-kbaselib | 760 | 2022-11-16 | public |
 | https://github.com/italia/18app-java-sdk | 757 | 2022-11-19 | public |
 | https://github.com/italia/publiccode-ui | 746 | 2022-11-30 | public |
 | https://github.com/italia/spid-dotnet-sdk | 739 | 2022-12-07 | public |
