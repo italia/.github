@@ -21,6 +21,8 @@ jobs:
 
     - name: Generate Awesome Italia
       run: python generate_md.py
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Check for the stale report issue
       run: |
@@ -40,7 +42,8 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v7
       with:
-        commit-message: chore:: update awesome italia
+        commit-message: "chore: update awesome italia"
         title: Update Awesome Italia
         body: This PR updates Awesome Italia files
         branch: update-awesome-italia
+        token: ${{ secrets.GITHUB_TOKEN }}
