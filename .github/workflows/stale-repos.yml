@@ -10,12 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - uses: docker://ghcr.io/github/stale_repos:v1
-      env:
-        GH_TOKEN: ${{ secrets.DEVELOPERS_ITALIA_DROID_GITHUB_TOKEN }}
-        ORGANIZATION: italia
-        INACTIVE_DAYS: 365
-
     - name: Check for the stale report issue
       run: |
         ISSUE_NUMBER=$(gh search issues "Stale repository report" --label "stale-report" --match title --json number --jq ".[0].number")
