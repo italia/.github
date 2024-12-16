@@ -36,9 +36,9 @@
 
 {% for repo in group.repos %}
 - [{{repo.slug}}](https://github.com/italia/{{repo.slug}})
-<img align="right" src="https://img.shields.io/github/stars/italia/{{repo.slug}}?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-<img align="right" src="https://img.shields.io/github/issues/italia/{{repo.slug}}" alt="GitHub issues">
-{{repo.description}}
+  <img align="right" src="https://img.shields.io/github/stars/italia/{{repo.slug}}?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/{{repo.slug}}" alt="GitHub issues">\
+  {{repo.description}}
 {% endfor %}
 {% endfor %}
 
