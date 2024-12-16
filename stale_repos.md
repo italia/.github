@@ -30,7 +30,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/daf-vanilla-microservice | 2302 | 2018-08-27 | public |
 | https://github.com/italia/daf-piano-di-sviluppo | 2300 | 2018-08-29 | public |
 | https://github.com/italia/relazionecommissionedigitale-docs | 2300 | 2018-08-29 | public |
-| https://github.com/italia/pandoc-types | 2290 | 2018-09-08 | public |
+| https://github.com/italia/pandoc-types | 2291 | 2018-09-08 | public |
 | https://github.com/italia/docs-italia-pandoc-filters | 2288 | 2018-09-10 | public |
 | https://github.com/italia/docs-italia-test-conversione | 2288 | 2018-09-10 | public |
 | https://github.com/italia/pagopa-soap-ruby | 2287 | 2018-09-11 | public |
@@ -64,8 +64,8 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/gl-acquisition-and-reuse-software-for-pa-docs | 1998 | 2019-06-27 | public |
 | https://github.com/italia/daf-srv-security | 1984 | 2019-07-11 | public |
 | https://github.com/italia/daf-dataportal | 1978 | 2019-07-17 | public |
-| https://github.com/italia/daf-srv-catalog | 1973 | 2019-07-22 | public |
-| https://github.com/italia/daf-srv-storage | 1971 | 2019-07-24 | public |
+| https://github.com/italia/daf-srv-catalog | 1974 | 2019-07-22 | public |
+| https://github.com/italia/daf-srv-storage | 1972 | 2019-07-24 | public |
 | https://github.com/italia/moduli-pa | 1966 | 2019-07-29 | public |
 | https://github.com/italia/dati-ontopia-lodview | 1957 | 2019-08-07 | public |
 | https://github.com/italia/dati-ontopia-lode | 1956 | 2019-08-08 | public |
@@ -155,10 +155,10 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/design-linee-guida-docs | 766 | 2022-11-10 | public |
 | https://github.com/italia/design-comuni-wordpress-theme-devops | 766 | 2022-11-10 | public |
 | https://github.com/italia/design-base-wordpress-theme-devops | 766 | 2022-11-10 | public |
+| https://github.com/italia/daf-semantics | 761 | 2022-11-16 | public |
 | https://github.com/italia/daf-semantic-katalod | 761 | 2022-11-16 | public |
 | https://github.com/italia/daf-semantic-triplifier | 761 | 2022-11-16 | public |
 | https://github.com/italia/daf-semantic-kbaselib | 761 | 2022-11-16 | public |
-| https://github.com/italia/daf-semantics | 760 | 2022-11-16 | public |
 | https://github.com/italia/18app-java-sdk | 757 | 2022-11-19 | public |
 | https://github.com/italia/publiccode-ui | 746 | 2022-11-30 | public |
 | https://github.com/italia/spid-dotnet-sdk | 739 | 2022-12-07 | public |

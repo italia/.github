@@ -34,13 +34,6 @@
 
 
 
-- [covid19-dashboard-vaccini](https://github.com/italia/covid19-dashboard-vaccini)
-  <img align="right" src="https://img.shields.io/github/stars/italia/covid19-dashboard-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/covid19-dashboard-vaccini" alt="GitHub issues">\
-  [WIP] Unofficial example of the COVID-19 vaccinations dashboard
-
-
-
 - [covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini)
   <img align="right" src="https://img.shields.io/github/stars/italia/covid19-opendata-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/covid19-opendata-vaccini" alt="GitHub issues">\
@@ -48,10 +41,10 @@
 
 
 
-- [report-vaccini-anti-covid-19](https://github.com/italia/report-vaccini-anti-covid-19)
-  <img align="right" src="https://img.shields.io/github/stars/italia/report-vaccini-anti-covid-19?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/report-vaccini-anti-covid-19" alt="GitHub issues">\
-  Report vaccini anti Covid-19 - Commissario straordinario per l'emergenza Covid-19
+- [covid19-dashboard-vaccini](https://github.com/italia/covid19-dashboard-vaccini)
+  <img align="right" src="https://img.shields.io/github/stars/italia/covid19-dashboard-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/covid19-dashboard-vaccini" alt="GitHub issues">\
+  [WIP] Unofficial example of the COVID-19 vaccinations dashboard
 
 
 
@@ -62,10 +55,10 @@
 
 
 
-- [anis-opendata](https://github.com/italia/anis-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anis-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anis-opendata" alt="GitHub issues">\
-  
+- [report-vaccini-anti-covid-19](https://github.com/italia/report-vaccini-anti-covid-19)
+  <img align="right" src="https://img.shields.io/github/stars/italia/report-vaccini-anti-covid-19?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/report-vaccini-anti-covid-19" alt="GitHub issues">\
+  Report vaccini anti Covid-19 - Commissario straordinario per l'emergenza Covid-19
 
 
 
@@ -76,21 +69,14 @@
 
 
 
+- [anis-opendata](https://github.com/italia/anis-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anis-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anis-opendata" alt="GitHub issues">\
+  
+
+
+
 ## 🎭 SPID
-
-
-
-- [spid-django](https://github.com/italia/spid-django)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">\
-  SPID authentication for Django
-
-
-
-- [spid-laravel](https://github.com/italia/spid-laravel)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-laravel" alt="GitHub issues">\
-  SPID authentication package for Laravel
 
 
 
@@ -108,27 +94,6 @@
 
 
 
-- [spid-php-lib](https://github.com/italia/spid-php-lib)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
-  PHP package for SPID authentication
-
-
-
-- [spid-go](https://github.com/italia/spid-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
-  Go package for SPID authentication
-
-
-
-- [Satosa-Saml2Spid](https://github.com/italia/Satosa-Saml2Spid)
-  <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
-  SATOSA SAML-to-SAML proxy with Spid compliances
-
-
-
 - [spid-keycloak-provider](https://github.com/italia/spid-keycloak-provider)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-keycloak-provider?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-keycloak-provider" alt="GitHub issues">\
@@ -136,10 +101,24 @@
 
 
 
-- [spid-compliant-certificates](https://github.com/italia/spid-compliant-certificates)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-compliant-certificates?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-compliant-certificates" alt="GitHub issues">\
-  Solution to create self-signed certificates according to Avviso SPID n.29
+- [spid-laravel](https://github.com/italia/spid-laravel)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-laravel?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-laravel" alt="GitHub issues">\
+  SPID authentication package for Laravel
+
+
+
+- [spid-django](https://github.com/italia/spid-django)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">\
+  SPID authentication for Django
+
+
+
+- [Satosa-Saml2Spid](https://github.com/italia/Satosa-Saml2Spid)
+  <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
+  SATOSA SAML-to-SAML proxy with Spid compliances
 
 
 
@@ -157,10 +136,24 @@
 
 
 
+- [spid-php-lib](https://github.com/italia/spid-php-lib)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
+  PHP package for SPID authentication
+
+
+
 - [spid-cie-oidc-django](https://github.com/italia/spid-cie-oidc-django)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-django" alt="GitHub issues">\
   The SPID/CIE OIDC Federation SDK, written in Python
+
+
+
+- [spid-compliant-certificates](https://github.com/italia/spid-compliant-certificates)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-compliant-certificates?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-compliant-certificates" alt="GitHub issues">\
+  Solution to create self-signed certificates according to Avviso SPID n.29
 
 
 
@@ -171,13 +164,6 @@
 
 
 
-- [spid-cie-oidc-nodejs](https://github.com/italia/spid-cie-oidc-nodejs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-nodejs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-nodejs" alt="GitHub issues">\
-  The SPID/CIE OIDC Federation for Node.js
-
-
-
 - [spid-cie-oidc-aspnetcore](https://github.com/italia/spid-cie-oidc-aspnetcore)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-aspnetcore" alt="GitHub issues">\
@@ -185,10 +171,24 @@
 
 
 
+- [spid-go](https://github.com/italia/spid-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
+  Go package for SPID authentication
+
+
+
 - [spid-cie-oidc-php](https://github.com/italia/spid-cie-oidc-php)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-php" alt="GitHub issues">\
   The SPID/CIE OIDC Federation Relying Party for PHP
+
+
+
+- [spid-cie-oidc-nodejs](https://github.com/italia/spid-cie-oidc-nodejs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-nodejs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-nodejs" alt="GitHub issues">\
+  The SPID/CIE OIDC Federation for Node.js
 
 
 
@@ -203,17 +203,17 @@
 
 
 
+- [bootstrap-italia](https://github.com/italia/bootstrap-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
+  Bootstrap Italia è un tema basato su Bootstrap 5 conforme alle "Linee guida di design per i siti internet e i servizi digitali della Pubblica Amministrazione"
+
+
+
 - [developers.italia.it](https://github.com/italia/developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
   The developer community designing and developing public digital services in Italy
-
-
-
-- [designers.italia.it](https://github.com/italia/designers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/designers.italia.it" alt="GitHub issues">\
-  Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
 
 
 
@@ -224,73 +224,10 @@
 
 
 
-- [bootstrap-italia](https://github.com/italia/bootstrap-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia" alt="GitHub issues">\
-  Bootstrap Italia è un tema basato su Bootstrap 5 conforme alle "Linee guida di design per i siti internet e i servizi digitali della Pubblica Amministrazione"
-
-
-
 - [design-react-kit](https://github.com/italia/design-react-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit" alt="GitHub issues">\
   Il toolkit React conforme alle linee guida di design per i siti internet e i servizi digitali della PA.
-
-
-
-- [design-comuni-plone-theme](https://github.com/italia/design-comuni-plone-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-plone-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-plone-theme" alt="GitHub issues">\
-  Tema Plone per i siti dei comuni italiani
-
-
-
-- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
-  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
-  Bootstrap Italia Playground
-
-
-
-- [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-wireframe-kit" alt="GitHub issues">\
-  Official Italian wireframe kit for LoFi prototyping
-
-
-
-- [design-angular-kit](https://github.com/italia/design-angular-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit" alt="GitHub issues">\
-  Il toolkit Angular conforme alle linee guida di design per i servizi web della PA.
-
-
-
-- [design-scuole-docs](https://github.com/italia/design-scuole-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
-  Documentazione del progetto di design dei siti web delle scuole
-
-
-
-- [design-comuni-docs](https://github.com/italia/design-comuni-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
-  
-
-
-
-- [design-django-theme](https://github.com/italia/design-django-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-django-theme" alt="GitHub issues">\
-  Bootstrap Italia template for Django
-
-
-
-- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-laravel-theme" alt="GitHub issues">\
-  Easy Bootstrap-Italia integration with Laravel 5
 
 
 
@@ -301,17 +238,45 @@
 
 
 
+- [design-angular-kit](https://github.com/italia/design-angular-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit" alt="GitHub issues">\
+  Il toolkit Angular conforme alle linee guida di design per i servizi web della PA.
+
+
+
+- [designers.italia.it](https://github.com/italia/designers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/designers.italia.it" alt="GitHub issues">\
+  Designers Italia mette a disposizione la conoscenza e gli strumenti per progettare e realizzare servizi pubblici centrati sulle necessità delle persone
+
+
+
+- [design-django-theme](https://github.com/italia/design-django-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-django-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-django-theme" alt="GitHub issues">\
+  Bootstrap Italia template for Django
+
+
+
+- [design-comuni-wordpress-theme](https://github.com/italia/design-comuni-wordpress-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-wordpress-theme" alt="GitHub issues">\
+  Tema Wordpress per i siti dei comuni italiani
+
+
+
+- [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
+  <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
+  Bootstrap Italia Playground
+
+
+
 - [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche" alt="GitHub issues">\
   Pagine statiche dedicate al progetto per i siti delle scuole
-
-
-
-- [design-italia-gatsby-starterkit](https://github.com/italia/design-italia-gatsby-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-gatsby-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-gatsby-starterkit" alt="GitHub issues">\
-  Gatsby starter per il Design React kit di Bootstrap Italia
 
 
 
@@ -322,48 +287,24 @@
 
 
 
-- [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
-  Manuale operativo di Design
+- [design-comuni-plone-theme](https://github.com/italia/design-comuni-plone-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-plone-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-plone-theme" alt="GitHub issues">\
+  Tema Plone per i siti dei comuni italiani
 
 
 
-- [design-drupal-theme](https://github.com/italia/design-drupal-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-drupal-theme" alt="GitHub issues">\
-  Bootstrap Italia theme for Drupal. Mirror of https://git.drupalcode.org/project/bootstrap_italia
+- [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-wireframe-kit" alt="GitHub issues">\
+  Official Italian wireframe kit for LoFi prototyping
 
 
 
-<details>
-    <summary>Other repositories for Design</summary>
-
-- [design-comuni-wordpress-theme](https://github.com/italia/design-comuni-wordpress-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-wordpress-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-wordpress-theme" alt="GitHub issues">\
-  Tema Wordpress per i siti dei comuni italiani
-
-
-
-- [design-comuni-drupal-theme](https://github.com/italia/design-comuni-drupal-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-drupal-theme" alt="GitHub issues">\
-  Tema Drupal per i siti dei comuni italiani
-
-
-
-- [design-comuni-semantica](https://github.com/italia/design-comuni-semantica)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-semantica?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-semantica" alt="GitHub issues">\
-  
-
-
-
-- [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
-  Backend for the feedback form of https://designers.italia.it
+- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-laravel-theme" alt="GitHub issues">\
+  Easy Bootstrap-Italia integration with Laravel 5
 
 
 
@@ -374,17 +315,41 @@
 
 
 
-- [design-asl-docs](https://github.com/italia/design-asl-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
-  Documentazione tecnica e di progetto del modello ASL di Designers Italia
+- [design-italia-gatsby-starterkit](https://github.com/italia/design-italia-gatsby-starterkit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-gatsby-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-gatsby-starterkit" alt="GitHub issues">\
+  Gatsby starter per il Design React kit di Bootstrap Italia
 
 
 
-- [design-musei-docs](https://github.com/italia/design-musei-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-docs" alt="GitHub issues">\
-  Documentazione tecnica e di progetto del modello Musei di Designers Italia
+- [design-drupal-theme](https://github.com/italia/design-drupal-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-drupal-theme" alt="GitHub issues">\
+  Bootstrap Italia theme for Drupal. Mirror of https://git.drupalcode.org/project/bootstrap_italia
+
+
+
+- [design-comuni-drupal-theme](https://github.com/italia/design-comuni-drupal-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-drupal-theme" alt="GitHub issues">\
+  Tema Drupal per i siti dei comuni italiani
+
+
+
+<details>
+    <summary>Other repositories for Design</summary>
+
+- [design-comuni-docs](https://github.com/italia/design-comuni-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
+  
+
+
+
+- [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
+  Manuale operativo di Design
 
 
 
@@ -402,6 +367,27 @@
 
 
 
+- [design-asl-ui-kit](https://github.com/italia/design-asl-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-ui-kit" alt="GitHub issues">\
+  UI Kit per il modello di sito per le ASL
+
+
+
+- [design-scuole-docs](https://github.com/italia/design-scuole-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
+  Documentazione del progetto di design dei siti web delle scuole
+
+
+
+- [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
+  Backend for the feedback form of https://designers.italia.it
+
+
+
 - [design-angular-kit-playground](https://github.com/italia/design-angular-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit-playground" alt="GitHub issues">\
@@ -409,10 +395,10 @@
 
 
 
-- [design-ui-kit-template](https://github.com/italia/design-ui-kit-template)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit-template" alt="GitHub issues">\
-  Template for Design UI kit
+- [design-musei-docs](https://github.com/italia/design-musei-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-docs" alt="GitHub issues">\
+  Documentazione tecnica e di progetto del modello Musei di Designers Italia
 
 
 
@@ -423,10 +409,31 @@
 
 
 
-- [design-asl-ui-kit](https://github.com/italia/design-asl-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di sito per le ASL
+- [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
+  UI Kit per il modello di FSE
+
+
+
+- [design-comuni-semantica](https://github.com/italia/design-comuni-semantica)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-semantica?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-semantica" alt="GitHub issues">\
+  
+
+
+
+- [design-asl-docs](https://github.com/italia/design-asl-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
+  Documentazione tecnica e di progetto del modello ASL di Designers Italia
+
+
+
+- [design-ui-kit-template](https://github.com/italia/design-ui-kit-template)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit-template" alt="GitHub issues">\
+  Template for Design UI kit
 
 
 
@@ -449,13 +456,6 @@
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-angular-starterkit" alt="GitHub issues">\
   Starter kit for Angular project using Design Angular Kit
 
-
-
-- [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di FSE
-
 </details>
 
 
@@ -468,6 +468,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware" alt="GitHub issues">\
   Middleware della CIE (Carta di identità elettronica)
+
+
+
+- [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
+  L'obiettivo di questo progetto è quello di fornire un template pronto all'uso che realizza un sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP. Ognuno può poi modificare o specializzare questo progetto sulla base delle proprie esigenze  Si tratta di un progetto docker per la creazione di un container che implementa un sistema di mutua autenticazione o autenticazione bilaterale SSL/TLS. Questo meccanismo di autenticazione richiede anche il certificato digitale da parte del client, certificato che in questo caso risiede all'interno della TS-CNS o della CIE.
 
 
 
@@ -485,17 +492,10 @@
 
 
 
-- [cie-middleware-windows-docs](https://github.com/italia/cie-middleware-windows-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-windows-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-windows-docs" alt="GitHub issues">\
-  Documentazione "CIE 3.0: Manuale d’uso del middleware CIE"
-
-
-
-- [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
-  L'obiettivo di questo progetto è quello di fornire un template pronto all'uso che realizza un sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP. Ognuno può poi modificare o specializzare questo progetto sulla base delle proprie esigenze  Si tratta di un progetto docker per la creazione di un container che implementa un sistema di mutua autenticazione o autenticazione bilaterale SSL/TLS. Questo meccanismo di autenticazione richiede anche il certificato digitale da parte del client, certificato che in questo caso risiede all'interno della TS-CNS o della CIE.
+- [cie-aspnetcore](https://github.com/italia/cie-aspnetcore)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cie-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cie-aspnetcore" alt="GitHub issues">\
+  AspNetCore Remote Authenticator for CIE 3.0
 
 
 
@@ -506,10 +506,10 @@
 
 
 
-- [cie-aspnetcore](https://github.com/italia/cie-aspnetcore)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-aspnetcore" alt="GitHub issues">\
-  AspNetCore Remote Authenticator for CIE 3.0
+- [cie-middleware-windows-docs](https://github.com/italia/cie-middleware-windows-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-windows-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-windows-docs" alt="GitHub issues">\
+  Documentazione "CIE 3.0: Manuale d’uso del middleware CIE"
 
 
 
@@ -524,6 +524,20 @@
 
 
 
+- [come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/come-partecipo.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/come-partecipo.italia.it" alt="GitHub issues">\
+  Guided wizard to direct contributors to Developers and Designers Italia
+
+
+
+- [cloud.italia.it-site](https://github.com/italia/cloud.italia.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud.italia.it-site" alt="GitHub issues">\
+  Sorgente del sito cloud.italia.it
+
+
+
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
@@ -535,20 +549,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/forum.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/forum.italia.it" alt="GitHub issues">\
   Theme for Discourse - currently in use on https://forum.italia.it
-
-
-
-- [cloud.italia.it-site](https://github.com/italia/cloud.italia.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud.italia.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud.italia.it-site" alt="GitHub issues">\
-  Sorgente del sito cloud.italia.it
-
-
-
-- [come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/come-partecipo.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/come-partecipo.italia.it" alt="GitHub issues">\
-  Guided wizard to direct contributors to Developers and Designers Italia
 
 
 
@@ -581,13 +581,6 @@
 
 
 
-- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
-  publiccode.yml parser library and validator in Go
-
-
-
 - [publiccode-editor](https://github.com/italia/publiccode-editor)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-editor" alt="GitHub issues">\
@@ -595,10 +588,10 @@
 
 
 
-- [publiccode-issueopener](https://github.com/italia/publiccode-issueopener)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-issueopener?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-issueopener" alt="GitHub issues">\
-  The Publiccode Issue Opener repository
+- [publiccode-parser-go](https://github.com/italia/publiccode-parser-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-go" alt="GitHub issues">\
+  publiccode.yml parser library and validator in Go
 
 
 
@@ -616,14 +609,14 @@
 
 
 
+- [publiccode-issueopener](https://github.com/italia/publiccode-issueopener)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-issueopener?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-issueopener" alt="GitHub issues">\
+  The Publiccode Issue Opener repository
+
+
+
 ## 📜 Docs
-
-
-
-- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
-  Tema per i documenti pubblicati su Docs Italia
 
 
 
@@ -634,10 +627,10 @@
 
 
 
-- [cloud-docs](https://github.com/italia/cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
-  La documentazione del Cloud della PA
+- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
+  Tema per i documenti pubblicati su Docs Italia
 
 
 
@@ -655,6 +648,13 @@
 
 
 
+- [cloud-docs](https://github.com/italia/cloud-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
+  La documentazione del Cloud della PA
+
+
+
 - [docs-italia-template](https://github.com/italia/docs-italia-template)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-template" alt="GitHub issues">\
@@ -663,13 +663,6 @@
 
 
 ## 🚧 Misc
-
-
-
-- [italia-conf](https://github.com/italia/italia-conf)
-  <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
-  
 
 
 
@@ -687,13 +680,6 @@
 
 
 
-- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
-  
-
-
-
 - [eslint-config-italia](https://github.com/italia/eslint-config-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/eslint-config-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/eslint-config-italia" alt="GitHub issues">\
@@ -701,9 +687,23 @@
 
 
 
+- [italia-conf](https://github.com/italia/italia-conf)
+  <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
+  
+
+
+
 - [slack-notify-release-action](https://github.com/italia/slack-notify-release-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/slack-notify-release-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack-notify-release-action" alt="GitHub issues">\
+  
+
+
+
+- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
   
 
 

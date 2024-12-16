@@ -34,7 +34,7 @@
 {% for group in groups %}
 ## {{group.icon}} {{group.name}}
 
-{% for repo in group.repos %}
+{% for repo in group.repos|sort(attribute='stars', reverse = True) %}
 {% if loop.index == 20 and group.repos|length > 25 %}
 <details>
     <summary>Other repositories for {{group.name}}</summary>
