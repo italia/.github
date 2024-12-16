@@ -12,7 +12,7 @@
 </p>
 
 {% for group in groups -%}
-[{{group.icon}} {{group.name}}](#-{{group.slug}}) •&nbsp;
+[{{group.icon}} {{group.name}}](#-{{group.slug}}) {% if not loop.last %}•&nbsp;{% endif %}
 {%- endfor %}
 
 <p align="center">
