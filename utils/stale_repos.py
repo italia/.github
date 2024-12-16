@@ -1,4 +1,13 @@
 #!/usr/bin/env python
+"""
+--------------------------------------------------------------------------
+This a fork of Github Stale Repos Action, required to use it as a library
+Initial license and original file name below
+Stale Repos Action: stale_repos.py
+Licensed under MIT (https://github.com/github/stale-repos/blob/main/LICENSE)
+--------------------------------------------------------------------------
+"""
+
 """ Find stale repositories in a GitHub organization. """
 import fnmatch
 import json
