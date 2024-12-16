@@ -3,6 +3,8 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from slugify import slugify
 from utils import auth_to_github, get_inactive_repos, write_inactive_repos_to_md
 
+ORGANIZATIONS = ['italia', 'teamdigitale']
+INACTIVE_DAYS_TRESHOLD = 365
 
 def load_groups_and_repos():
     groups = []
@@ -11,10 +13,17 @@ def load_groups_and_repos():
         groups = json.load(f)
     with open(os.path.join('data', 'repositories.json')) as f:
         repositories = json.load(f)
-    inactive_repos = get_inactive_repos(gh_connection, 365, 'italia')
-    write_inactive_repos_to_md(inactive_repos, 365)
+    inactive_repos = []
+    all_repos = []
+
+    for organization in ORGANIZATIONS:
+        inactive_repos.extend(get_inactive_repos(gh_connection, INACTIVE_DAYS_TRESHOLD, organization))
+        all_repos.extend(gh_connection.organization(organization).repositories())
+
+    write_inactive_repos_to_md(inactive_repos, INACTIVE_DAYS_TRESHOLD)
     inactive_repos_urls = [repo['url'] for repo in inactive_repos]
-    for repo in gh_connection.organization('italia').repositories():
+
+    for repo in all_repos:
         if repo.html_url not in inactive_repos_urls:
             if repo.archived or repo.private:
                 if repo.html_url in repositories:
@@ -35,7 +44,8 @@ def load_groups_and_repos():
                             'url' : repo.html_url,
                             'slug' : repo.name,
                             'description': repo.description or '',
-                            'stars' : repo.stargazers_count
+                            'stars' : repo.stargazers_count,
+                            'organization': repo.html_url.replace('https://github.com/', '').split('/')[0]
                         }
                     )
     with open(os.path.join('data', 'repositories.json'), 'w', encoding='utf-8') as f:
