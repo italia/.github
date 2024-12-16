@@ -19,8 +19,8 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/competenzedigitali-docs | 2414 | 2018-05-07 | public |
 | https://github.com/italia/pell-illuminazionepubblica-docs | 2407 | 2018-05-14 | public |
 | https://github.com/italia/spid-idp-login-layout | 2376 | 2018-06-14 | public |
+| https://github.com/italia/lg-misuraperformance-docs | 2346 | 2018-07-15 | public |
 | https://github.com/italia/lg-spid-rilascio-identita-digitale-uso-professionale | 2346 | 2018-07-14 | public |
-| https://github.com/italia/lg-misuraperformance-docs | 2345 | 2018-07-15 | public |
 | https://github.com/italia/awesome-rss-feeds | 2344 | 2018-07-16 | public |
 | https://github.com/italia/daf-d3-unibo-scuole | 2335 | 2018-07-25 | public |
 | https://github.com/italia/daf-d3-sose-rifiuti | 2333 | 2018-07-27 | public |
@@ -75,11 +75,11 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/design-scuole-wordpress-theme-demo | 1837 | 2019-12-05 | public |
 | https://github.com/italia/lg-comunicazione-docs | 1755 | 2020-02-25 | public |
 | https://github.com/italia/public-opendata-sources | 1711 | 2020-04-09 | public |
-| https://github.com/italia/lg-competenzedigitali-docs | 1689 | 2020-05-01 | public |
+| https://github.com/italia/lg-competenzedigitali-docs | 1690 | 2020-05-01 | public |
 | https://github.com/italia/docs-italia-guide | 1662 | 2020-05-28 | public |
 | https://github.com/italia/hugo-theme-bootstrap-italia | 1646 | 2020-06-13 | public |
 | https://github.com/italia/dati-ontopia-virtuoso | 1634 | 2020-06-25 | public |
-| https://github.com/italia/docs-italia-starter-kit | 1549 | 2020-09-18 | public |
+| https://github.com/italia/docs-italia-starter-kit | 1550 | 2020-09-18 | public |
 | https://github.com/italia/spid-symfony-bundle | 1523 | 2020-10-14 | public |
 | https://github.com/italia/developers-italia-searchyll | 1509 | 2020-10-28 | public |
 | https://github.com/italia/lg-acquisizione-e-riuso-software-per-pa-docs | 1503 | 2020-11-03 | public |
@@ -92,7 +92,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/readme-starterkit | 1381 | 2021-03-05 | public |
 | https://github.com/italia/cie-mrtd-dotnet-sdk | 1378 | 2021-03-08 | public |
 | https://github.com/italia/cie-nis-cpp-sdk | 1378 | 2021-03-08 | public |
-| https://github.com/italia/18app-python-example | 1376 | 2021-03-10 | public |
+| https://github.com/italia/18app-python-example | 1377 | 2021-03-10 | public |
 | https://github.com/italia/noipa-python-example | 1373 | 2021-03-13 | public |
 | https://github.com/italia/pianotri-schede-bdin | 1363 | 2021-03-23 | public |
 | https://github.com/italia/cloud-circolari-docs | 1361 | 2021-03-25 | public |
@@ -111,7 +111,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/italian-cloud-strategy-docs | 1195 | 2021-09-08 | public |
 | https://github.com/italia/cie-accessi-pinless-manuale-docs | 1174 | 2021-09-28 | public |
 | https://github.com/italia/design-ckan-theme | 1164 | 2021-10-08 | public |
-| https://github.com/italia/design-shibboleth-idp-theme | 1149 | 2021-10-23 | public |
+| https://github.com/italia/design-shibboleth-idp-theme | 1150 | 2021-10-23 | public |
 | https://github.com/italia/design-it | 1122 | 2021-11-19 | public |
 | https://github.com/italia/cloud-google-sigla | 1056 | 2022-01-24 | private |
 | https://github.com/italia/spid-sp-shibboleth | 1054 | 2022-01-26 | public |
@@ -127,8 +127,8 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/gl-tourism-digital-hub-interoperabilita-docs | 1013 | 2022-03-08 | public |
 | https://github.com/italia/anagrafi | 1004 | 2022-03-17 | public |
 | https://github.com/italia/cie-PN532 | 1001 | 2022-03-20 | public |
-| https://github.com/italia/plugin_wp_anac_xml_bandi_gara | 969 | 2022-04-21 | public |
-| https://github.com/italia/plugin_wp_amministrazione_aperta | 969 | 2022-04-21 | public |
+| https://github.com/italia/plugin_wp_anac_xml_bandi_gara | 970 | 2022-04-21 | public |
+| https://github.com/italia/plugin_wp_amministrazione_aperta | 970 | 2022-04-21 | public |
 | https://github.com/italia/cloud-google-erpnext | 964 | 2022-04-26 | private |
 | https://github.com/italia/design-scuole-prototipi | 963 | 2022-04-27 | public |
 | https://github.com/italia/cloud-microsoft-sedoo | 956 | 2022-05-04 | private |
@@ -149,9 +149,9 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/design-scuole-conformita-docs | 825 | 2022-09-12 | public |
 | https://github.com/italia/design-comuni-conformita-docs | 825 | 2022-09-12 | private |
 | https://github.com/italia/prototipo-pagamento-multe | 807 | 2022-09-30 | public |
-| https://github.com/italia/ICDP-PND-circolazione-riuso-docs | 802 | 2022-10-05 | public |
+| https://github.com/italia/ICDP-PND-circolazione-riuso-docs | 803 | 2022-10-05 | public |
 | https://github.com/italia/design-jekyll-theme | 797 | 2022-10-10 | public |
-| https://github.com/italia/spid-drupal-module | 796 | 2022-10-11 | public |
+| https://github.com/italia/spid-drupal-module | 797 | 2022-10-11 | public |
 | https://github.com/italia/design-linee-guida-docs | 766 | 2022-11-10 | public |
 | https://github.com/italia/design-comuni-wordpress-theme-devops | 766 | 2022-11-10 | public |
 | https://github.com/italia/design-base-wordpress-theme-devops | 766 | 2022-11-10 | public |
@@ -187,7 +187,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/js-action-template | 671 | 2023-02-13 | public |
 | https://github.com/italia/design-archived-prototypes | 667 | 2023-02-17 | public |
 | https://github.com/italia/dati-ontonethub | 663 | 2023-02-22 | public |
-| https://github.com/italia/publiccode-validator | 659 | 2023-02-25 | public |
+| https://github.com/italia/publiccode-validator | 660 | 2023-02-25 | public |
 | https://github.com/italia/spid-smart-button | 653 | 2023-03-04 | public |
 | https://github.com/italia/design-wordpress-theme-italiaWP2 | 636 | 2023-03-20 | public |
 | https://github.com/italia/ICDP-PND-docs | 611 | 2023-04-14 | public |
@@ -203,7 +203,7 @@ The following repos have not had a push event for more than 365 days:
 | https://github.com/italia/spid-idp-proxy-shibboleth | 568 | 2023-05-27 | public |
 | https://github.com/italia/datocms-dataviz-plugin | 556 | 2023-06-08 | public |
 | https://github.com/italia/linee-guida-cataloghi-dati-dcat-ap-it | 539 | 2023-06-25 | public |
-| https://github.com/italia/spid-graphics | 531 | 2023-07-03 | public |
+| https://github.com/italia/spid-graphics | 532 | 2023-07-03 | public |
 | https://github.com/italia/cie-nis-python-sdk | 516 | 2023-07-18 | public |
 | https://github.com/italia/api-oas-action | 516 | 2023-07-19 | public |
 | https://github.com/italia/publiccode.yml-docs | 514 | 2023-07-20 | public |
