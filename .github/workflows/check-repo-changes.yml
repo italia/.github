@@ -1,16 +1,46 @@
 on:
+  workflow_dispatch:
   schedule:
-    - cron:  '* */1 * * *'
+    - cron: '0 3 * * 1'
 
 jobs:
-  check_repo_changes:
+  check-stale-repos:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-    - uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
       with:
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-        working-directory: scripts
-    - run: cd scripts && ruby check-repo-changes.rb
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Generate Awesome Italia
+      run: python generate_md.py
+
+    - name: Check for the stale report issue
+      run: |
+        ISSUE_NUMBER=$(gh search issues "Stale repository report" --label "stale-report" --match title --json number --jq ".[0].number")
+        echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_ENV"
       env:
-        GITHUB_TOKEN: ${{ secrets.DEVELOPERS_ITALIA_DROID_GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - uses: peter-evans/create-issue-from-file@v4
+      with:
+        issue-number: ${{ env.issue_number }}
+        title: Stale repository report
+        content-filepath: ./stale_repos.md
+        labels: stale-report
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v7
+      with:
+        commit-message: chore:: update awesome italia
+        title: Update Awesome Italia
+        body: This PR updates Awesome Italia files
+        branch: update-awesome-italia
