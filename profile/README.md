@@ -129,13 +129,6 @@
 
 
 
-- [Satosa-Saml2Spid](https://github.com/italia/Satosa-Saml2Spid)
-  <img align="right" src="https://img.shields.io/github/stars/italia/Satosa-Saml2Spid?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/Satosa-Saml2Spid" alt="GitHub issues">\
-  SATOSA SAML-to-SAML proxy with Spid compliances
-
-
-
 - [spid-aspnetcore](https://github.com/italia/spid-aspnetcore)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-aspnetcore" alt="GitHub issues">\
@@ -356,7 +349,7 @@
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
-  
+  Documentazione sul progetto di design dei siti web dei Comuni italiani.
 
 
 
@@ -385,6 +378,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-ui-kit" alt="GitHub issues">\
   UI Kit per il modello di sito per le ASL
+
+
+
+- [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
+  Questo repository contiene i prototipi del Fascicolo Sanitario Elettronico
 
 
 
@@ -420,13 +420,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-ui-kit" alt="GitHub issues">\
   UI Kit per il modello di sito dei Comuni italiani
-
-
-
-- [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di FSE
 
 
 
@@ -754,13 +747,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/eslint-config-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/eslint-config-italia" alt="GitHub issues">\
   ESLint rules for React.js JavaScript projects
-
-
-
-- [italia-conf](https://github.com/italia/italia-conf)
-  <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
-  File di configurazione per l'organizzazione Italia.
 
 
 
