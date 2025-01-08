@@ -423,13 +423,6 @@
 
 
 
-- [design-comuni-semantica](https://github.com/italia/design-comuni-semantica)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-semantica?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-semantica" alt="GitHub issues">\
-  
-
-
-
 - [design-asl-docs](https://github.com/italia/design-asl-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
@@ -447,7 +440,7 @@
 - [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
-  
+  UI Kit per il modello di sito dei musei
 
 
 
@@ -604,14 +597,14 @@
 - [ministeroinnovazione.it-site](https://github.com/teamdigitale/ministeroinnovazione.it-site)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministeroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministeroinnovazione.it-site" alt="GitHub issues">\
-  
+  Sito web ministeroinnovazione.it
 
 
 
 - [ministroinnovazione.it-site](https://github.com/teamdigitale/ministroinnovazione.it-site)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministroinnovazione.it-site" alt="GitHub issues">\
-  
+  Sito web ministroinnovazione.it
 
 
 
@@ -760,7 +753,7 @@
 - [apportafoglio](https://github.com/teamdigitale/apportafoglio)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apportafoglio?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apportafoglio" alt="GitHub issues">\
-  
+  Applicazione web per la gestione del proprio portafoglio PA2026
 
 
 
@@ -788,7 +781,7 @@
 - [matrix.developers.italia.it](https://github.com/teamdigitale/matrix.developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/matrix.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/matrix.developers.italia.it" alt="GitHub issues">\
-  
+  Configuration for deploying a Matrix chat server on matrix.developers.italia.it.
 
 
 
