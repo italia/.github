@@ -346,6 +346,13 @@
 <details>
     <summary>Other repositories for Design</summary>
 
+- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
+  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
+  GitHub action to convert Figma files to Sketch ones
+
+
+
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
@@ -357,13 +364,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
   Manuale operativo di Design
-
-
-
-- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
-  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
-  GitHub action to convert Figma files to Sketch ones
 
 
 
@@ -683,13 +683,6 @@
 
 
 
-- [lg-modellointeroperabilita-docs](https://github.com/italia/lg-modellointeroperabilita-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-modellointeroperabilita-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-modellointeroperabilita-docs" alt="GitHub issues">\
-  Linee guida sul modello di interoperabilità 2021
-
-
-
 - [manuale-di-abilitazione-al-cloud-docs](https://github.com/italia/manuale-di-abilitazione-al-cloud-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/manuale-di-abilitazione-al-cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/manuale-di-abilitazione-al-cloud-docs" alt="GitHub issues">\
@@ -746,7 +739,7 @@
 - [slack-notify-release-action](https://github.com/italia/slack-notify-release-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/slack-notify-release-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack-notify-release-action" alt="GitHub issues">\
-  GitHub action per notificare nuove release su Slack.
+  A simple GitHub action to post a Slack message when a new version is released.
 
 
 
