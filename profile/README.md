@@ -48,17 +48,17 @@
 
 
 
-- [padigitale2026-opendata](https://github.com/teamdigitale/padigitale2026-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
-  opendata PNRR - PA digitale 2026
-
-
-
 - [anpr-opendata](https://github.com/italia/anpr-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
   Open data di ANPR
+
+
+
+- [padigitale2026-opendata](https://github.com/teamdigitale/padigitale2026-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
+  opendata PNRR - PA digitale 2026
 
 
 
@@ -73,13 +73,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
   Open data di PDND
-
-
-
-- [anis-opendata](https://github.com/italia/anis-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anis-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anis-opendata" alt="GitHub issues">\
-  Questo repository contiene i dati pubblici estratti dalla pagina Numeri del portale ANIS.
 
 
 
@@ -122,17 +115,17 @@
 
 
 
-- [spid-django](https://github.com/italia/spid-django)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">\
-  SPID authentication for Django
-
-
-
 - [spid-aspnetcore](https://github.com/italia/spid-aspnetcore)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-aspnetcore" alt="GitHub issues">\
   AspNetCore Remote Authenticator for SPID
+
+
+
+- [spid-django](https://github.com/italia/spid-django)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">\
+  SPID authentication for Django
 
 
 
