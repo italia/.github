@@ -210,13 +210,6 @@
 
 
 
-- [developers.italia.it](https://github.com/italia/developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
-  The developer community designing and developing public digital services in Italy
-
-
-
 - [design-ui-kit](https://github.com/italia/design-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit" alt="GitHub issues">\
@@ -301,17 +294,17 @@
 
 
 
-- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-laravel-theme" alt="GitHub issues">\
-  Easy Bootstrap-Italia integration with Laravel 5
-
-
-
 - [design-tokens-italia](https://github.com/italia/design-tokens-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-tokens-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-tokens-italia" alt="GitHub issues">\
   Repository ufficiale dei design token del Design System del Paese
+
+
+
+- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-laravel-theme" alt="GitHub issues">\
+  Easy Bootstrap-Italia integration with Laravel 5
 
 
 
@@ -336,15 +329,15 @@
 
 
 
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
   GitHub action to convert Figma files to Sketch ones
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -507,6 +500,13 @@
 
 
 ## 🌍 Websites
+
+
+
+- [developers.italia.it](https://github.com/italia/developers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
+  The developer community designing and developing public digital services in Italy
 
 
 
@@ -708,17 +708,17 @@
 
 
 
-- [form-pa](https://github.com/italia/form-pa)
-  <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
-  A flexible and configurable form based on json schema
-
-
-
 - [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat" alt="GitHub issues">\
   Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
+
+
+
+- [form-pa](https://github.com/italia/form-pa)
+  <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
+  A flexible and configurable form based on json schema
 
 
 
