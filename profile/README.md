@@ -329,22 +329,15 @@
 
 
 
-- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
-  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
-  GitHub action to convert Figma files to Sketch ones
-
-
-
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
   Documentazione sul progetto di design dei siti web dei Comuni italiani.
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -454,13 +447,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware" alt="GitHub issues">\
   Middleware della CIE (Carta di identità elettronica)
-
-
-
-- [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
-  Template di sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP.
 
 
 
