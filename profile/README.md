@@ -44,7 +44,7 @@
 - [covid19-dashboard-vaccini](https://github.com/italia/covid19-dashboard-vaccini)
   <img align="right" src="https://img.shields.io/github/stars/italia/covid19-dashboard-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/covid19-dashboard-vaccini" alt="GitHub issues">\
-  [WIP] Unofficial example of the COVID-19 vaccinations dashboard
+  Unofficial example of the COVID-19 vaccinations dashboard
 
 
 
@@ -409,13 +409,6 @@
 
 
 
-- [design-ui-kit-template](https://github.com/italia/design-ui-kit-template)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit-template" alt="GitHub issues">\
-  Template for Design UI kit
-
-
-
 - [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
@@ -549,13 +542,6 @@
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/anagrafenazionale.interno.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/anagrafenazionale.interno.it-site" alt="GitHub issues">\
   anagrafenazionale.interno.it 
-
-
-
-- [next.developers.italia.it](https://github.com/italia/next.developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/next.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/next.developers.italia.it" alt="GitHub issues">\
-  The developer community designing and developing public digital services in Italy - Next site
 
 
 

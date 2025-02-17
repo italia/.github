@@ -85,7 +85,6 @@
     "https://github.com/italia/slack-notify-release-action": "misc",
     "https://github.com/italia/ansc": "",
     "https://github.com/italia/slack.developers.italia.it": "misc",
-    "https://github.com/italia/next.developers.italia.it": "websites",
     "https://github.com/italia/datocms-dataviz-webapp": "",
     "https://github.com/italia/eudi-wallet-it-docs": "",
     "https://github.com/italia/api-padigitale2026-misura1.3.1-uni-afam": "",
@@ -151,5 +150,6 @@
     "https://github.com/italia/iam-proxy-italia": "",
     "https://github.com/teamdigitale/api-starter-kit-java": "",
     "https://github.com/italia/project-template": "",
-    "https://github.com/teamdigitale/apposto": ""
+    "https://github.com/teamdigitale/apposto": "",
+    "https://github.com/italia/js-action-template": ""
 }
