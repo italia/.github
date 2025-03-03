@@ -136,17 +136,17 @@
 
 
 
-- [spid-php-lib](https://github.com/italia/spid-php-lib)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
-  PHP package for SPID authentication
-
-
-
 - [spid-cie-oidc-django](https://github.com/italia/spid-cie-oidc-django)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-django" alt="GitHub issues">\
   The SPID/CIE OIDC Federation SDK, written in Python
+
+
+
+- [spid-php-lib](https://github.com/italia/spid-php-lib)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
+  PHP package for SPID authentication
 
 
 
@@ -705,13 +705,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/slack-notify-release-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack-notify-release-action" alt="GitHub issues">\
   A simple GitHub action to post a Slack message when a new version is released.
-
-
-
-- [apportafoglio](https://github.com/teamdigitale/apportafoglio)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apportafoglio?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apportafoglio" alt="GitHub issues">\
-  Applicazione web per la gestione del proprio portafoglio PA2026
 
 
 
