@@ -655,13 +655,6 @@
 
 
 
-- [cloud-docs](https://github.com/italia/cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
-  La documentazione del Cloud della PA
-
-
-
 - [docs-italia-template](https://github.com/italia/docs-italia-template)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-template" alt="GitHub issues">\
