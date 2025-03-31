@@ -48,17 +48,17 @@
 
 
 
-- [anpr-opendata](https://github.com/italia/anpr-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
-  Open data di ANPR
-
-
-
 - [padigitale2026-opendata](https://github.com/teamdigitale/padigitale2026-opendata)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
   opendata PNRR - PA digitale 2026
+
+
+
+- [anpr-opendata](https://github.com/italia/anpr-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
+  Open data di ANPR
 
 
 
@@ -119,13 +119,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-aspnetcore" alt="GitHub issues">\
   AspNetCore Remote Authenticator for SPID
-
-
-
-- [spid-django](https://github.com/italia/spid-django)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-django" alt="GitHub issues">\
-  SPID authentication for Django
 
 
 
@@ -329,20 +322,20 @@
 
 
 
-- [design-comuni-docs](https://github.com/italia/design-comuni-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
-  Documentazione sul progetto di design dei siti web dei Comuni italiani.
+- [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
+  Manuale operativo di Design
 
 
 
 <details>
     <summary>Other repositories for Design</summary>
 
-- [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
-  Manuale operativo di Design
+- [design-comuni-docs](https://github.com/italia/design-comuni-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
+  Documentazione sul progetto di design dei siti web dei Comuni italiani.
 
 
 
@@ -464,13 +457,6 @@
 
 
 
-- [cieid-ios-sdk](https://github.com/italia/cieid-ios-sdk)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cieid-ios-sdk?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cieid-ios-sdk" alt="GitHub issues">\
-  SDK CIEID per iOS
-
-
-
 - [cie-middleware-windows-docs](https://github.com/italia/cie-middleware-windows-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-windows-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-windows-docs" alt="GitHub issues">\
@@ -549,13 +535,6 @@
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/monitoraggio.repubblicadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/monitoraggio.repubblicadigitale.gov.it" alt="GitHub issues">\
   facilita.repubblicadigitale.gov.it app
-
-
-
-- [identitadigitale.gov.it](https://github.com/teamdigitale/identitadigitale.gov.it)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/identitadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/identitadigitale.gov.it" alt="GitHub issues">\
-  Landing page per campagna Identità Digitale
 
 
 
@@ -655,13 +634,6 @@
 
 
 
-- [cloud-docs](https://github.com/italia/cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-docs" alt="GitHub issues">\
-  La documentazione del Cloud della PA
-
-
-
 - [docs-italia-template](https://github.com/italia/docs-italia-template)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-template" alt="GitHub issues">\
@@ -726,6 +698,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/LavoroAgile?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/LavoroAgile" alt="GitHub issues">\
   Sistema per la gestione degli accordi di lavoro agile
+
+
+
+- [apportafoglio](https://github.com/teamdigitale/apportafoglio)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apportafoglio?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apportafoglio" alt="GitHub issues">\
+  Applicazione web per la gestione del proprio portafoglio PA2026
 
 
 
