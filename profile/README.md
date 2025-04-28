@@ -41,10 +41,10 @@
 
 
 
-- [covid19-dashboard-vaccini](https://github.com/italia/covid19-dashboard-vaccini)
-  <img align="right" src="https://img.shields.io/github/stars/italia/covid19-dashboard-vaccini?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/covid19-dashboard-vaccini" alt="GitHub issues">\
-  Unofficial example of the COVID-19 vaccinations dashboard
+- [anpr-opendata](https://github.com/italia/anpr-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
+  Open data di ANPR
 
 
 
@@ -52,13 +52,6 @@
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026-opendata" alt="GitHub issues">\
   opendata PNRR - PA digitale 2026
-
-
-
-- [anpr-opendata](https://github.com/italia/anpr-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
-  Open data di ANPR
 
 
 
@@ -133,13 +126,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-django" alt="GitHub issues">\
   The SPID/CIE OIDC Federation SDK, written in Python
-
-
-
-- [spid-php-lib](https://github.com/italia/spid-php-lib)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
-  PHP package for SPID authentication
 
 
 
@@ -259,17 +245,17 @@
 
 
 
-- [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche" alt="GitHub issues">\
-  Pagine statiche dedicate al progetto per i siti delle scuole
-
-
-
 - [design-comuni-pagine-statiche](https://github.com/italia/design-comuni-pagine-statiche)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-pagine-statiche" alt="GitHub issues">\
   Le pagine statiche che compongono il modello di sito web per i comuni
+
+
+
+- [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche" alt="GitHub issues">\
+  Pagine statiche dedicate al progetto per i siti delle scuole
 
 
 
@@ -308,6 +294,13 @@
 
 
 
+- [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
+  Manuale operativo di Design
+
+
+
 - [design-drupal-theme](https://github.com/italia/design-drupal-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-drupal-theme" alt="GitHub issues">\
@@ -319,13 +312,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-drupal-theme" alt="GitHub issues">\
   Tema Drupal per i siti dei comuni italiani
-
-
-
-- [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
-  Manuale operativo di Design
 
 
 
@@ -367,17 +353,17 @@
 
 
 
-- [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
-  Backend for the feedback form of https://designers.italia.it
-
-
-
 - [design-angular-kit-playground](https://github.com/italia/design-angular-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit-playground" alt="GitHub issues">\
   Design Angular Kit Playground
+
+
+
+- [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
+  Backend for the feedback form of https://designers.italia.it
 
 
 
@@ -433,6 +419,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware" alt="GitHub issues">\
   Middleware della CIE (Carta di identità elettronica)
+
+
+
+- [cie-cns-apache-docker](https://github.com/italia/cie-cns-apache-docker)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cie-cns-apache-docker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cie-cns-apache-docker" alt="GitHub issues">\
+  Template di sistema di autenticazione tramite la Smart Card TS-CNS (o CNS) e la CIE (Carta d'Identità Elettronica) basato su Apache HTTP.
 
 
 
@@ -510,17 +503,17 @@
 
 
 
-- [padigitale2026.gov.it-site](https://github.com/teamdigitale/padigitale2026.gov.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026.gov.it-site" alt="GitHub issues">\
-  Sorgente del sito padigitale2026.gov.it
-
-
-
 - [forum.italia.it](https://github.com/italia/forum.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/forum.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/forum.italia.it" alt="GitHub issues">\
   Theme for Discourse - currently in use on https://forum.italia.it
+
+
+
+- [padigitale2026.gov.it-site](https://github.com/teamdigitale/padigitale2026.gov.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026.gov.it-site" alt="GitHub issues">\
+  Sorgente del sito padigitale2026.gov.it
 
 
 
@@ -652,17 +645,17 @@
 
 
 
-- [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat" alt="GitHub issues">\
-  Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
-
-
-
 - [form-pa](https://github.com/italia/form-pa)
   <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
   A flexible and configurable form based on json schema
+
+
+
+- [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat" alt="GitHub issues">\
+  Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
 
 
 
