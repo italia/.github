@@ -517,13 +517,6 @@
 
 
 
-- [anagrafenazionale.interno.it-site](https://github.com/teamdigitale/anagrafenazionale.interno.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/anagrafenazionale.interno.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/anagrafenazionale.interno.it-site" alt="GitHub issues">\
-  anagrafenazionale.interno.it 
-
-
-
 - [monitoraggio.repubblicadigitale.gov.it](https://github.com/teamdigitale/monitoraggio.repubblicadigitale.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/monitoraggio.repubblicadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/monitoraggio.repubblicadigitale.gov.it" alt="GitHub issues">\
@@ -649,13 +642,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
   A flexible and configurable form based on json schema
-
-
-
-- [confini-amministrativi-istat](https://github.com/teamdigitale/confini-amministrativi-istat)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/confini-amministrativi-istat?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/confini-amministrativi-istat" alt="GitHub issues">\
-  Una collezione di applicazioni e risorse per facilitare il riuso dei dati sui confini amministrativi italiani.
 
 
 
