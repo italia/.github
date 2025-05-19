@@ -150,17 +150,17 @@
 
 
 
-- [spid-go](https://github.com/italia/spid-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
-  Go package for SPID authentication
-
-
-
 - [spid-cie-oidc-php](https://github.com/italia/spid-cie-oidc-php)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-php" alt="GitHub issues">\
   The SPID/CIE OIDC Federation Relying Party for PHP
+
+
+
+- [spid-go](https://github.com/italia/spid-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
+  Go package for SPID authentication
 
 
 
