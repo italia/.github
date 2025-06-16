@@ -129,13 +129,6 @@
 
 
 
-- [spid-compliant-certificates](https://github.com/italia/spid-compliant-certificates)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-compliant-certificates?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-compliant-certificates" alt="GitHub issues">\
-  Solution to create self-signed certificates according to Avviso SPID n.29
-
-
-
 - [spid-cie-oidc-java](https://github.com/italia/spid-cie-oidc-java)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-java?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-java" alt="GitHub issues">\
@@ -168,13 +161,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-nodejs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-nodejs" alt="GitHub issues">\
   The SPID/CIE OIDC Federation for Node.js
-
-
-
-- [spid-cie-oidc-docs](https://github.com/italia/spid-cie-oidc-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-docs" alt="GitHub issues">\
-  SPID CIE OIDC technical specifications
 
 
 
