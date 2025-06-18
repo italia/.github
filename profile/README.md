@@ -346,6 +346,13 @@
 
 
 
+- [design-web-components](https://github.com/italia/design-web-components)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-web-components?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-web-components" alt="GitHub issues">\
+  Toolkit che implementa il Design system .italia
+
+
+
 - [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
@@ -364,6 +371,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-ui-kit" alt="GitHub issues">\
   UI Kit per il modello di sito dei Comuni italiani
+
+
+
+- [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
+  Astro starter kit using boostrap italia 
 
 
 
@@ -392,6 +406,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-angular-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-angular-starterkit" alt="GitHub issues">\
   Starter kit for Angular project using Design Angular Kit
+
+
+
+- [design-scuole-ui-kit](https://github.com/italia/design-scuole-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-ui-kit" alt="GitHub issues">\
+  UI Kit per il modello di sito delle scuole
 
 </details>
 
@@ -510,6 +531,13 @@
 
 
 
+- [padigitale2026.gov.it](https://github.com/italia/padigitale2026.gov.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/padigitale2026.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/padigitale2026.gov.it" alt="GitHub issues">\
+  Progetto Pubblica Amministrazione digitale 2026
+
+
+
 - [ministeroinnovazione.it-site](https://github.com/teamdigitale/ministeroinnovazione.it-site)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministeroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministeroinnovazione.it-site" alt="GitHub issues">\
@@ -581,6 +609,20 @@
 
 
 
+- [publiccode-parser-js](https://github.com/italia/publiccode-parser-js)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-js?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-js" alt="GitHub issues">\
+  
+
+
+
+- [publiccode-json-schema](https://github.com/teamdigitale/publiccode-json-schema)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/publiccode-json-schema?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/publiccode-json-schema" alt="GitHub issues">\
+  
+
+
+
 ## 📜 Docs
 
 
@@ -596,6 +638,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
   Tema per i documenti pubblicati su Docs Italia
+
+
+
+- [writing-toolkit](https://github.com/italia/writing-toolkit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/writing-toolkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/writing-toolkit" alt="GitHub issues">\
+  Guida al linguaggio della Pubblica Amministrazione
 
 
 
@@ -684,6 +733,13 @@
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/slack-matrix-migration?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/slack-matrix-migration" alt="GitHub issues">\
   A tool to import a Slack export into a Matrix homeserver
+
+
+
+- [apposto](https://github.com/teamdigitale/apposto)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apposto?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apposto" alt="GitHub issues">\
+  
 
 
 
