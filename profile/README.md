@@ -273,13 +273,6 @@
 
 
 
-- [design-italia-gatsby-starterkit](https://github.com/italia/design-italia-gatsby-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-gatsby-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-gatsby-starterkit" alt="GitHub issues">\
-  Gatsby starter per il Design React kit di Bootstrap Italia
-
-
-
 - [manuale-operativo-design-docs](https://github.com/italia/manuale-operativo-design-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/manuale-operativo-design-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/manuale-operativo-design-docs" alt="GitHub issues">\
@@ -301,15 +294,15 @@
 
 
 
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
   Documentazione sul progetto di design dei siti web dei Comuni italiani.
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -588,20 +581,6 @@
 
 
 
-- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
-  A simple Github action to validate publiccode.yml
-
-
-
-- [publiccode-parser-gitlab-ci](https://github.com/italia/publiccode-parser-gitlab-ci)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-gitlab-ci?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-gitlab-ci" alt="GitHub issues">\
-  GitLab CI validation of publiccode.yml files
-
-
-
 - [publiccode-issueopener](https://github.com/italia/publiccode-issueopener)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-issueopener?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-issueopener" alt="GitHub issues">\
@@ -677,13 +656,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/form-pa" alt="GitHub issues">\
   A flexible and configurable form based on json schema
-
-
-
-- [eslint-config-italia](https://github.com/italia/eslint-config-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/eslint-config-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/eslint-config-italia" alt="GitHub issues">\
-  ESLint rules for React.js JavaScript projects
 
 
 
