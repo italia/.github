@@ -164,5 +164,6 @@
     "https://github.com/italia/design-web-components": "design",
     "https://github.com/italia/publiccode-parser-js": "publiccode",
     "https://github.com/teamdigitale/api-starter-kit-go": "",
-    "https://github.com/teamdigitale/publiccode-json-schema": "publiccode"
+    "https://github.com/teamdigitale/publiccode-json-schema": "publiccode",
+    "https://github.com/teamdigitale/padigitale2026-api": ""
 }
