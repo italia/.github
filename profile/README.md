@@ -304,6 +304,13 @@
 <details>
     <summary>Other repositories for Design</summary>
 
+- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
+  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
+  GitHub action to convert Figma files to Sketch ones
+
+
+
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit-playground" alt="GitHub issues">\
@@ -367,6 +374,13 @@
 
 
 
+- [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
+  UI Kit per il modello di sito dei musei
+
+
+
 - [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
@@ -378,13 +392,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
   Documentazione tecnica e di progetto del modello ASL di Designers Italia
-
-
-
-- [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di sito dei musei
 
 
 
