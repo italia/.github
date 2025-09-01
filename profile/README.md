@@ -143,17 +143,17 @@
 
 
 
-- [spid-go](https://github.com/italia/spid-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
-  Go package for SPID authentication
-
-
-
 - [spid-cie-oidc-php](https://github.com/italia/spid-cie-oidc-php)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-php" alt="GitHub issues">\
   The SPID/CIE OIDC Federation Relying Party for PHP
+
+
+
+- [spid-go](https://github.com/italia/spid-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
+  Go package for SPID authentication
 
 
 
@@ -304,10 +304,24 @@
 <details>
     <summary>Other repositories for Design</summary>
 
+- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
+  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
+  GitHub action to convert Figma files to Sketch ones
+
+
+
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit-playground" alt="GitHub issues">\
   Design React Kit Playground
+
+
+
+- [design-web-components](https://github.com/italia/design-web-components)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-web-components?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-web-components" alt="GitHub issues">\
+  Toolkit che implementa il Design system .italia
 
 
 
@@ -339,13 +353,6 @@
 
 
 
-- [design-web-components](https://github.com/italia/design-web-components)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-web-components?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-web-components" alt="GitHub issues">\
-  Toolkit che implementa il Design system .italia
-
-
-
 - [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
@@ -367,6 +374,13 @@
 
 
 
+- [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
+  UI Kit per il modello di sito dei musei
+
+
+
 - [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
@@ -378,13 +392,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
   Documentazione tecnica e di progetto del modello ASL di Designers Italia
-
-
-
-- [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di sito dei musei
 
 
 
@@ -436,17 +443,17 @@
 
 
 
-- [cie-middleware-macos](https://github.com/italia/cie-middleware-macos)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-macos" alt="GitHub issues">\
-  Middleware della CIE per MacOS (Carta di identità elettronica) 
-
-
-
 - [cie-aspnetcore](https://github.com/italia/cie-aspnetcore)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-aspnetcore" alt="GitHub issues">\
   AspNetCore Remote Authenticator for CIE 3.0
+
+
+
+- [cie-middleware-macos](https://github.com/italia/cie-middleware-macos)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-macos" alt="GitHub issues">\
+  Middleware della CIE per MacOS (Carta di identità elettronica) 
 
 
 
@@ -581,6 +588,20 @@
 
 
 
+- [publiccode-parser-action](https://github.com/italia/publiccode-parser-action)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
+  A simple Github action to validate publiccode.yml
+
+
+
+- [publiccode-parser-gitlab-ci](https://github.com/italia/publiccode-parser-gitlab-ci)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-gitlab-ci?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-gitlab-ci" alt="GitHub issues">\
+  GitLab CI validation of publiccode.yml files
+
+
+
 - [publiccode-issueopener](https://github.com/italia/publiccode-issueopener)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-issueopener?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-issueopener" alt="GitHub issues">\
@@ -627,10 +648,10 @@
 
 
 
-- [manuale-di-abilitazione-al-cloud-docs](https://github.com/italia/manuale-di-abilitazione-al-cloud-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/manuale-di-abilitazione-al-cloud-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/manuale-di-abilitazione-al-cloud-docs" alt="GitHub issues">\
-  Repo del doc Manuale di abilitazione al cloud
+- [lg-modellointeroperabilita-docs](https://github.com/italia/lg-modellointeroperabilita-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/lg-modellointeroperabilita-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/lg-modellointeroperabilita-docs" alt="GitHub issues">\
+  Linee guida sul modello di interoperabilità 2021
 
 
 
@@ -680,31 +701,10 @@
 
 
 
-- [LavoroAgile](https://github.com/italia/LavoroAgile)
-  <img align="right" src="https://img.shields.io/github/stars/italia/LavoroAgile?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/LavoroAgile" alt="GitHub issues">\
-  Sistema per la gestione degli accordi di lavoro agile
-
-
-
 - [apportafoglio](https://github.com/teamdigitale/apportafoglio)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apportafoglio?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apportafoglio" alt="GitHub issues">\
   Applicazione web per la gestione del proprio portafoglio PA2026
-
-
-
-- [matrix.developers.italia.it](https://github.com/teamdigitale/matrix.developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/matrix.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/matrix.developers.italia.it" alt="GitHub issues">\
-  Configuration for deploying a Matrix chat server on matrix.developers.italia.it.
-
-
-
-- [slack-matrix-migration](https://github.com/teamdigitale/slack-matrix-migration)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/slack-matrix-migration?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/slack-matrix-migration" alt="GitHub issues">\
-  A tool to import a Slack export into a Matrix homeserver
 
 
 
