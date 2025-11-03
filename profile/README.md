@@ -143,24 +143,10 @@
 
 
 
-- [spid-cie-oidc-php](https://github.com/italia/spid-cie-oidc-php)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-php" alt="GitHub issues">\
-  The SPID/CIE OIDC Federation Relying Party for PHP
-
-
-
 - [spid-go](https://github.com/italia/spid-go)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
   Go package for SPID authentication
-
-
-
-- [spid-cie-oidc-nodejs](https://github.com/italia/spid-cie-oidc-nodejs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-nodejs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-nodejs" alt="GitHub issues">\
-  The SPID/CIE OIDC Federation for Node.js
 
 
 
@@ -238,10 +224,10 @@
 
 
 
-- [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche" alt="GitHub issues">\
-  Pagine statiche dedicate al progetto per i siti delle scuole
+- [design-tokens-italia](https://github.com/italia/design-tokens-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-tokens-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-tokens-italia" alt="GitHub issues">\
+  Repository ufficiale dei design token del Design System del Paese
 
 
 
@@ -256,13 +242,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-wireframe-kit" alt="GitHub issues">\
   Official Italian wireframe kit for LoFi prototyping
-
-
-
-- [design-tokens-italia](https://github.com/italia/design-tokens-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-tokens-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-tokens-italia" alt="GitHub issues">\
-  Repository ufficiale dei design token del Design System del Paese
 
 
 
@@ -301,9 +280,6 @@
 
 
 
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
@@ -311,24 +287,13 @@
 
 
 
+<details>
+    <summary>Other repositories for Design</summary>
+
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit-playground" alt="GitHub issues">\
   Design React Kit Playground
-
-
-
-- [design-web-components](https://github.com/italia/design-web-components)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-web-components?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-web-components" alt="GitHub issues">\
-  Toolkit che implementa il Design system .italia
-
-
-
-- [design-asl-ui-kit](https://github.com/italia/design-asl-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di sito per le ASL
 
 
 
@@ -353,6 +318,13 @@
 
 
 
+- [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
+  Astro starter kit using boostrap italia 
+
+
+
 - [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
@@ -367,24 +339,10 @@
 
 
 
-- [design-comuni-ui-kit](https://github.com/italia/design-comuni-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-ui-kit" alt="GitHub issues">\
-  UI Kit per il modello di sito dei Comuni italiani
-
-
-
 - [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
   UI Kit per il modello di sito dei musei
-
-
-
-- [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
-  Astro starter kit using boostrap italia 
 
 
 
@@ -443,13 +401,6 @@
 
 
 
-- [cie-aspnetcore](https://github.com/italia/cie-aspnetcore)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-aspnetcore" alt="GitHub issues">\
-  AspNetCore Remote Authenticator for CIE 3.0
-
-
-
 - [cie-middleware-macos](https://github.com/italia/cie-middleware-macos)
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-macos" alt="GitHub issues">\
@@ -457,10 +408,10 @@
 
 
 
-- [cie-middleware-windows-docs](https://github.com/italia/cie-middleware-windows-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-windows-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-windows-docs" alt="GitHub issues">\
-  Documentazione "CIE 3.0: Manuale d’uso del middleware CIE"
+- [cie-aspnetcore](https://github.com/italia/cie-aspnetcore)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cie-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cie-aspnetcore" alt="GitHub issues">\
+  AspNetCore Remote Authenticator for CIE 3.0
 
 
 
@@ -503,13 +454,6 @@
 
 
 
-- [repubblica-digitale](https://github.com/italia/repubblica-digitale)
-  <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
-  Sorgente del sito repubblicadigitale.innovazione.gov.it
-
-
-
 - [forum.italia.it](https://github.com/italia/forum.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/forum.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/forum.italia.it" alt="GitHub issues">\
@@ -524,6 +468,13 @@
 
 
 
+- [anagrafenazionale.interno.it-site](https://github.com/teamdigitale/anagrafenazionale.interno.it-site)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/anagrafenazionale.interno.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/anagrafenazionale.interno.it-site" alt="GitHub issues">\
+  anagrafenazionale.interno.it 
+
+
+
 - [monitoraggio.repubblicadigitale.gov.it](https://github.com/teamdigitale/monitoraggio.repubblicadigitale.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/monitoraggio.repubblicadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/monitoraggio.repubblicadigitale.gov.it" alt="GitHub issues">\
@@ -535,20 +486,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/padigitale2026.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/padigitale2026.gov.it" alt="GitHub issues">\
   Progetto Pubblica Amministrazione digitale 2026
-
-
-
-- [ministeroinnovazione.it-site](https://github.com/teamdigitale/ministeroinnovazione.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministeroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministeroinnovazione.it-site" alt="GitHub issues">\
-  Sito web ministeroinnovazione.it
-
-
-
-- [ministroinnovazione.it-site](https://github.com/teamdigitale/ministroinnovazione.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/ministroinnovazione.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/ministroinnovazione.it-site" alt="GitHub issues">\
-  Sito web ministroinnovazione.it
 
 
 
