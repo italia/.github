@@ -55,13 +55,6 @@
 
 
 
-- [report-vaccini-anti-covid-19](https://github.com/italia/report-vaccini-anti-covid-19)
-  <img align="right" src="https://img.shields.io/github/stars/italia/report-vaccini-anti-covid-19?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/report-vaccini-anti-covid-19" alt="GitHub issues">\
-  Report vaccini anti Covid-19 - Commissario straordinario per l'emergenza Covid-19
-
-
-
 - [pdnd-opendata](https://github.com/italia/pdnd-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
@@ -231,24 +224,17 @@
 
 
 
+- [design-scuole-pagine-statiche](https://github.com/italia/design-scuole-pagine-statiche)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-pagine-statiche" alt="GitHub issues">\
+  Pagine statiche dedicate al progetto per i siti delle scuole
+
+
+
 - [design-comuni-plone-theme](https://github.com/italia/design-comuni-plone-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-plone-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-plone-theme" alt="GitHub issues">\
   Tema Plone per i siti dei comuni italiani
-
-
-
-- [design-wireframe-kit](https://github.com/italia/design-wireframe-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-wireframe-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-wireframe-kit" alt="GitHub issues">\
-  Official Italian wireframe kit for LoFi prototyping
-
-
-
-- [design-laravel-theme](https://github.com/italia/design-laravel-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-laravel-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-laravel-theme" alt="GitHub issues">\
-  Easy Bootstrap-Italia integration with Laravel 5
 
 
 
@@ -287,6 +273,13 @@
 
 
 
+- [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
+  Questo repository contiene i prototipi del Fascicolo Sanitario Elettronico
+
+
+
 <details>
     <summary>Other repositories for Design</summary>
 
@@ -297,10 +290,10 @@
 
 
 
-- [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
-  Questo repository contiene i prototipi del Fascicolo Sanitario Elettronico
+- [design-angular-kit-playground](https://github.com/italia/design-angular-kit-playground)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit-playground" alt="GitHub issues">\
+  Design Angular Kit Playground
 
 
 
@@ -308,13 +301,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
   Documentazione del progetto di design dei siti web delle scuole
-
-
-
-- [design-angular-kit-playground](https://github.com/italia/design-angular-kit-playground)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit-playground" alt="GitHub issues">\
-  Design Angular Kit Playground
 
 
 
@@ -357,13 +343,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-nextjs-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-nextjs-starterkit" alt="GitHub issues">\
   Starter kit for NextJS project using Design React Kit
-
-
-
-- [design-italia-angular-starterkit](https://github.com/italia/design-italia-angular-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-angular-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-angular-starterkit" alt="GitHub issues">\
-  Starter kit for Angular project using Design Angular Kit
 
 
 
@@ -478,7 +457,7 @@
 - [monitoraggio.repubblicadigitale.gov.it](https://github.com/teamdigitale/monitoraggio.repubblicadigitale.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/monitoraggio.repubblicadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/monitoraggio.repubblicadigitale.gov.it" alt="GitHub issues">\
-  facilita.repubblicadigitale.gov.it app
+  
 
 
 
@@ -617,6 +596,13 @@
 
 
 
+- [eslint-config-italia](https://github.com/italia/eslint-config-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/eslint-config-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/eslint-config-italia" alt="GitHub issues">\
+  ESLint rules for React.js JavaScript projects
+
+
+
 - [slack-notify-release-action](https://github.com/italia/slack-notify-release-action)
   <img align="right" src="https://img.shields.io/github/stars/italia/slack-notify-release-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack-notify-release-action" alt="GitHub issues">\
@@ -624,17 +610,17 @@
 
 
 
-- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
-  Libreria comune in Go per crawler, publiccode-parser-go e publiccode-validator.
-
-
-
 - [slack.developers.italia.it](https://github.com/italia/slack.developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/slack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/slack.developers.italia.it" alt="GitHub issues">\
   Redirect to Slack invite
+
+
+
+- [httpclient-lib-go](https://github.com/italia/httpclient-lib-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/httpclient-lib-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/httpclient-lib-go" alt="GitHub issues">\
+  Libreria comune in Go per crawler, publiccode-parser-go e publiccode-validator.
 
 
 
@@ -648,7 +634,7 @@
 - [apposto](https://github.com/teamdigitale/apposto)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apposto?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apposto" alt="GitHub issues">\
-  
+  App prenotazione postazioni del Dipartimento
 
 
 
