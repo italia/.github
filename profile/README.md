@@ -55,17 +55,17 @@
 
 
 
+- [report-vaccini-anti-covid-19](https://github.com/italia/report-vaccini-anti-covid-19)
+  <img align="right" src="https://img.shields.io/github/stars/italia/report-vaccini-anti-covid-19?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/report-vaccini-anti-covid-19" alt="GitHub issues">\
+  Report vaccini anti Covid-19 - Commissario straordinario per l'emergenza Covid-19
+
+
+
 - [pdnd-opendata](https://github.com/italia/pdnd-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
   Open data di PDND
-
-
-
-- [open-data-repository-template](https://github.com/teamdigitale/open-data-repository-template)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/open-data-repository-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/open-data-repository-template" alt="GitHub issues">\
-  Repository template for open data publication
 
 
 
@@ -76,7 +76,7 @@
 - [spid-cie-php](https://github.com/italia/spid-cie-php)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-php?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-php" alt="GitHub issues">\
-  Software Development Kit for easy SPID/CIE access integration with simplesamlphp - developed and mantained by Michele D'Amico @damikael
+  Software Development Kit for easy SPID/CIE access integration with simplesamlphp - developed and mantained by Michele D'Amico @damikael (michele.damico@linfaservice.it)
 
 
 
@@ -136,10 +136,10 @@
 
 
 
-- [spid-go](https://github.com/italia/spid-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
-  Go package for SPID authentication
+- [spid-cie-oidc-docs](https://github.com/italia/spid-cie-oidc-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-docs" alt="GitHub issues">\
+  SPID CIE OIDC technical specifications
 
 
 
@@ -220,7 +220,7 @@
 - [design-tokens-italia](https://github.com/italia/design-tokens-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-tokens-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-tokens-italia" alt="GitHub issues">\
-  Repository ufficiale dei design token del Design System del Paese
+  Repository ufficiale dei design token del Design System Italia
 
 
 
@@ -290,10 +290,10 @@
 
 
 
-- [design-angular-kit-playground](https://github.com/italia/design-angular-kit-playground)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-angular-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-angular-kit-playground" alt="GitHub issues">\
-  Design Angular Kit Playground
+- [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
+  Astro starter kit using boostrap italia 
 
 
 
@@ -301,13 +301,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
   Documentazione del progetto di design dei siti web delle scuole
-
-
-
-- [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-astro-starterkit" alt="GitHub issues">\
-  Astro starter kit using boostrap italia 
 
 
 
@@ -332,17 +325,17 @@
 
 
 
-- [design-asl-docs](https://github.com/italia/design-asl-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
-  Documentazione tecnica e di progetto del modello ASL di Designers Italia
-
-
-
 - [design-italia-nextjs-starterkit](https://github.com/italia/design-italia-nextjs-starterkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-nextjs-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-nextjs-starterkit" alt="GitHub issues">\
   Starter kit for NextJS project using Design React Kit
+
+
+
+- [design-asl-docs](https://github.com/italia/design-asl-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
+  Documentazione tecnica e di progetto del modello ASL di Designers Italia
 
 
 
@@ -430,13 +423,6 @@
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/innovazione.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/innovazione.gov.it-site" alt="GitHub issues">\
   Sito del Dipartimento per la trasformazione digitale
-
-
-
-- [forum.italia.it](https://github.com/italia/forum.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/forum.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/forum.italia.it" alt="GitHub issues">\
-  Theme for Discourse - currently in use on https://forum.italia.it
 
 
 
@@ -547,13 +533,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict-doc?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict-doc" alt="GitHub issues">\
   Documento Piano Triennale ICT
-
-
-
-- [docs-italia-theme](https://github.com/italia/docs-italia-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-theme" alt="GitHub issues">\
-  Tema per i documenti pubblicati su Docs Italia
 
 
 
