@@ -12,6 +12,12 @@
         "icon" : "🎭"
     },
     {
+        "id": "pdnd",
+        "name" : "PDND",
+        "description" : "Piattaforma Digitale Nazionale Dati" repositories",
+        "icon" : "📊"
+    },
+    {
         "id": "design",
         "name" : "Design",
         "description" : "Design repositories",
