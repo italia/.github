@@ -312,13 +312,6 @@
 
 
 
-- [design-comuni-drupal-theme](https://github.com/italia/design-comuni-drupal-theme)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-drupal-theme" alt="GitHub issues">\
-  Tema Drupal per i siti dei comuni italiani
-
-
-
 - [design-comuni-docs](https://github.com/italia/design-comuni-docs)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-docs" alt="GitHub issues">\
@@ -340,15 +333,15 @@
 
 
 
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [dev-kit-italia](https://github.com/italia/dev-kit-italia)
   <img align="right" src="https://img.shields.io/github/stars/italia/dev-kit-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/dev-kit-italia" alt="GitHub issues">\
   Toolkit che implementa il Design system .italia
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -378,13 +371,6 @@
 
 
 
-- [design-musei-docs](https://github.com/italia/design-musei-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-docs" alt="GitHub issues">\
-  Documentazione tecnica e di progetto del modello Musei di Designers Italia
-
-
-
 - [design-musei-ui-kit](https://github.com/italia/design-musei-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-musei-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-musei-ui-kit" alt="GitHub issues">\
@@ -396,13 +382,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-nextjs-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-nextjs-starterkit" alt="GitHub issues">\
   Starter kit for NextJS project using Design React Kit
-
-
-
-- [design-asl-docs](https://github.com/italia/design-asl-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-asl-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-asl-docs" alt="GitHub issues">\
-  Documentazione tecnica e di progetto del modello ASL di Designers Italia
 
 
 
