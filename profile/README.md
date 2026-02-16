@@ -122,13 +122,6 @@
 
 
 
-- [spid-aspnetcore](https://github.com/italia/spid-aspnetcore)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-aspnetcore" alt="GitHub issues">\
-  AspNetCore Remote Authenticator for SPID
-
-
-
 - [spid-sp-test](https://github.com/italia/spid-sp-test)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-test" alt="GitHub issues">\
@@ -430,13 +423,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/cie-middleware-macos?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/cie-middleware-macos" alt="GitHub issues">\
   Middleware della CIE per MacOS (Carta di identità elettronica) 
-
-
-
-- [cie-aspnetcore](https://github.com/italia/cie-aspnetcore)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cie-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cie-aspnetcore" alt="GitHub issues">\
-  AspNetCore Remote Authenticator for CIE 3.0
 
 
 

@@ -191,5 +191,11 @@
     "https://github.com/italia/developers-italia-searchyll": "misc",
     "https://github.com/italia/api-fse-misura1.3.1-federazioni-professioni-sanitarie": "opendata",
     "https://github.com/italia/design-fse-eds-ui-kit": "",
-    "https://github.com/teamdigitale/teseo-data": ""
+    "https://github.com/teamdigitale/teseo-data": "",
+    "https://github.com/italia/publiccode-validator-api": "",
+    "https://github.com/italia/dati-semantic-mcp": "",
+    "https://github.com/italia/iam-proxy-italia-wallet-instance-demo": "",
+    "https://github.com/italia/api-oas-checker-mcp": "",
+    "https://github.com/teamdigitale/onboarding-italia": "",
+    "https://github.com/teamdigitale/dss-validation-reports": ""
 }
