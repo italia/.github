@@ -157,44 +157,31 @@
 
 
 
-## 📊 PDND
+## 📊 Interoperabilità e semantica (PDND e schema.gov.it)
 
+- [api-oas-checker](https://github.com/italia/api-oas-checker)
+  <img align="right" src="https://img.shields.io/github/stars/italia/api-oas-checker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/api-oas-checker" alt="GitHub issues">\
+  An OpenAPI 3 checker based on spectral.
 
+- [api-oas-checker-rules](https://github.com/italia/api-oas-checker-rules)
+  <img align="right" src="https://img.shields.io/github/stars/italia/api-oas-checker-rules?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/api-oas-checker-rules" alt="GitHub issues">\
+  OpenAPI 3 checker rules based on spectral.
 
-- [daf-dataportal](https://github.com/italia/daf-dataportal)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-dataportal?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-dataportal" alt="GitHub issues">\
-  The DAF Dataportal is the front-end project of the PDND portal available at this link.
+- [dati-semantic-schema-editor](https://github.com/teamdigitale/dati-semantic-schema-editor)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/dati-semantic-schema-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/dati-semantic-schema-editor" alt="GitHub issues">\
 
-
-
-- [daf-semantics](https://github.com/italia/daf-semantics)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantics" alt="GitHub issues">\
-  Daf Semantics repository
-
-
-
-- [daf-semantic-triplifier](https://github.com/italia/daf-semantic-triplifier)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-triplifier?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">\
+- [api-oas-checker-mcp](https://github.com/italia/api-oas-checker-mcp)
+  <img align="right" src="https://img.shields.io/github/stars/italia/api-oas-checker-mcp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/api-oas-checker-mcp" alt="GitHub issues">\
+  OpenAPI 3 checker MCP server
   
-
-
-
-- [daf-semantic-katalod](https://github.com/italia/daf-semantic-katalod)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-katalod?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-katalod" alt="GitHub issues">\
-  
-
-
-
-- [daf-semantic-kbaselib](https://github.com/italia/daf-semantic-kbaselib)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-kbaselib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">\
-  
-
-
+- [dati-semantic-mcp](https://github.com/italia/dati-semantic-mcp)
+  <img align="right" src="https://img.shields.io/github/stars/italia/dati-semantic-mcp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/dati-semantic-mcp" alt="GitHub issues">\
+  Schema.gov.it MCP server
 
 ## 📐 Design
 
@@ -597,22 +584,6 @@
 
 
 ## 🚧 Misc
-
-
-
-- [api-oas-checker](https://github.com/italia/api-oas-checker)
-  <img align="right" src="https://img.shields.io/github/stars/italia/api-oas-checker?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/api-oas-checker" alt="GitHub issues">\
-  An OpenAPI 3 checker based on spectral.
-
-
-
-- [dati-semantic-schema-editor](https://github.com/teamdigitale/dati-semantic-schema-editor)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/dati-semantic-schema-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/dati-semantic-schema-editor" alt="GitHub issues">\
-  Semantic Schema Editor
-
-
 
 - [form-pa](https://github.com/italia/form-pa)
   <img align="right" src="https://img.shields.io/github/stars/italia/form-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
