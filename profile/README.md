@@ -411,6 +411,27 @@
   <img align="right" src="https://img.shields.io/github/issues/italia/template-astro-siti-pa" alt="GitHub issues">\
   Template AstroCMS per le pubbliche amministrazioni
 
+
+
+- [design-jekyll-devkit-theme](https://github.com/italia/design-jekyll-devkit-theme)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-jekyll-devkit-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-jekyll-devkit-theme" alt="GitHub issues">\
+  Jekyll theme skeleton theme using Dev Kit Italia web components (alpha)
+
+
+
+- [design-fse-eds-ui-kit](https://github.com/italia/design-fse-eds-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-eds-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-eds-ui-kit" alt="GitHub issues">\
+  Questo repository contiene un'anteprima dei prototipi dell'Ecosistema Dati Sanitari (EDS) del Fascicolo Sanitario Elettronico
+
+
+
+- [dev-kit-italia-playground](https://github.com/italia/dev-kit-italia-playground)
+  <img align="right" src="https://img.shields.io/github/stars/italia/dev-kit-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/dev-kit-italia-playground" alt="GitHub issues">\
+  Vanilla JavaScript playground for Dev Kit Italia
+
 </details>
 
 
@@ -507,10 +528,24 @@
 
 
 
+- [cloud-italia-website](https://github.com/italia/cloud-italia-website)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-italia-website?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-italia-website" alt="GitHub issues">\
+  
+
+
+
 - [padigitale2026.gov.it](https://github.com/italia/padigitale2026.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/padigitale2026.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/padigitale2026.gov.it" alt="GitHub issues">\
   Progetto Pubblica Amministrazione digitale 2026
+
+
+
+- [innovazione-gov-website](https://github.com/italia/innovazione-gov-website)
+  <img align="right" src="https://img.shields.io/github/stars/italia/innovazione-gov-website?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/innovazione-gov-website" alt="GitHub issues">\
+  
 
 
 
@@ -554,6 +589,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-parser-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-parser-action" alt="GitHub issues">\
   A simple Github action to validate publiccode.yml
+
+
+
+- [publiccode-validator-api](https://github.com/italia/publiccode-validator-api)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-validator-api?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-validator-api" alt="GitHub issues">\
+  publiccode.yml RESTful validator API
 
 
 
