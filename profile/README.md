@@ -69,13 +69,6 @@
 
 
 
-- [pdnd-opendata](https://github.com/italia/pdnd-opendata)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
-  Open data di PDND
-
-
-
 - [api-fse-misura1.3.1-federazioni-professioni-sanitarie](https://github.com/italia/api-fse-misura1.3.1-federazioni-professioni-sanitarie)
   <img align="right" src="https://img.shields.io/github/stars/italia/api-fse-misura1.3.1-federazioni-professioni-sanitarie?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/api-fse-misura1.3.1-federazioni-professioni-sanitarie" alt="GitHub issues">\
@@ -182,6 +175,20 @@
 
 
 
+- [pdnd-opendata](https://github.com/italia/pdnd-opendata)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
+  Open data di PDND
+
+
+
+- [pdnd-client-assertion-generator](https://github.com/italia/pdnd-client-assertion-generator)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-client-assertion-generator?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-client-assertion-generator" alt="GitHub issues">\
+  .NET Client Assertion Generator for PDND Service API
+
+
+
 - [daf-semantic-triplifier](https://github.com/italia/daf-semantic-triplifier)
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-triplifier?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">\
@@ -200,6 +207,20 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-kbaselib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">\
   
+
+
+
+- [pdnd-metadata-dotnet](https://github.com/italia/pdnd-metadata-dotnet)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-metadata-dotnet?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-metadata-dotnet" alt="GitHub issues">\
+  .NET Core middleware to extract, normalize and verify PDND voucher & metadata for provider APIs. Works with Controllers and Minimal APIs.
+
+
+
+- [pdnd-guida-nomenclatura-eservice](https://github.com/italia/pdnd-guida-nomenclatura-eservice)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-guida-nomenclatura-eservice?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-guida-nomenclatura-eservice" alt="GitHub issues">\
+  Buone pratiche per la nomenclatura e la descrizione degli e-service di PDND
 
 
 
