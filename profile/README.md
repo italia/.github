@@ -41,17 +41,17 @@
 
 
 
-- [api-openapi-samples](https://github.com/teamdigitale/api-openapi-samples)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/api-openapi-samples?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/api-openapi-samples" alt="GitHub issues">\
-  OpenAPI Samples for the API Ecosystem project.
-
-
-
 - [anpr-opendata](https://github.com/italia/anpr-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/anpr-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/anpr-opendata" alt="GitHub issues">\
   Open data di ANPR
+
+
+
+- [api-openapi-samples](https://github.com/teamdigitale/api-openapi-samples)
+  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/api-openapi-samples?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/api-openapi-samples" alt="GitHub issues">\
+  OpenAPI Samples for the API Ecosystem project.
 
 
 
@@ -210,17 +210,17 @@
 
 
 
-- [pdnd-metadata-dotnet](https://github.com/italia/pdnd-metadata-dotnet)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-metadata-dotnet?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-metadata-dotnet" alt="GitHub issues">\
-  .NET Core middleware to extract, normalize and verify PDND voucher & metadata for provider APIs. Works with Controllers and Minimal APIs.
-
-
-
 - [pdnd-guida-nomenclatura-eservice](https://github.com/italia/pdnd-guida-nomenclatura-eservice)
   <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-guida-nomenclatura-eservice?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-guida-nomenclatura-eservice" alt="GitHub issues">\
   Buone pratiche per la nomenclatura e la descrizione degli e-service di PDND
+
+
+
+- [pdnd-metadata-dotnet](https://github.com/italia/pdnd-metadata-dotnet)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-metadata-dotnet?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-metadata-dotnet" alt="GitHub issues">\
+  .NET Core middleware to extract, normalize and verify PDND voucher & metadata for provider APIs. Works with Controllers and Minimal APIs.
 
 
 
@@ -354,22 +354,15 @@
 
 
 
-- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
-  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
-  GitHub action to convert Figma files to Sketch ones
-
-
-
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
   Questo repository contiene i prototipi del Fascicolo Sanitario Elettronico
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
