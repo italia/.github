@@ -136,6 +136,13 @@
 
 
 
+- [spid-php-lib](https://github.com/italia/spid-php-lib)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-php-lib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-php-lib" alt="GitHub issues">\
+  PHP package for SPID authentication
+
+
+
 - [spid-cie-oidc-java](https://github.com/italia/spid-cie-oidc-java)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-java?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-java" alt="GitHub issues">\
@@ -147,6 +154,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
   Go package for SPID authentication
+
+
+
+- [spid-cie-oidc-nodejs](https://github.com/italia/spid-cie-oidc-nodejs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-nodejs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-nodejs" alt="GitHub issues">\
+  The SPID/CIE OIDC Federation for Node.js
 
 
 
@@ -168,13 +182,6 @@
 
 
 
-- [daf-semantics](https://github.com/italia/daf-semantics)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantics?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantics" alt="GitHub issues">\
-  Daf Semantics repository
-
-
-
 - [pdnd-opendata](https://github.com/italia/pdnd-opendata)
   <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-opendata?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-opendata" alt="GitHub issues">\
@@ -189,38 +196,17 @@
 
 
 
-- [daf-semantic-triplifier](https://github.com/italia/daf-semantic-triplifier)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-triplifier?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-triplifier" alt="GitHub issues">\
-  
-
-
-
-- [daf-semantic-katalod](https://github.com/italia/daf-semantic-katalod)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-katalod?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-katalod" alt="GitHub issues">\
-  
-
-
-
-- [daf-semantic-kbaselib](https://github.com/italia/daf-semantic-kbaselib)
-  <img align="right" src="https://img.shields.io/github/stars/italia/daf-semantic-kbaselib?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/daf-semantic-kbaselib" alt="GitHub issues">\
-  
+- [pdnd-guida-nomenclatura-eservice](https://github.com/italia/pdnd-guida-nomenclatura-eservice)
+  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-guida-nomenclatura-eservice?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-guida-nomenclatura-eservice" alt="GitHub issues">\
+  Buone pratiche per la nomenclatura e la descrizione degli e-service di PDND
 
 
 
 - [pdnd-metadata-dotnet](https://github.com/italia/pdnd-metadata-dotnet)
   <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-metadata-dotnet?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-metadata-dotnet" alt="GitHub issues">\
-  .NET Core middleware to extract, normalize and verify PDND voucher & metadata for provider APIs. Works with Controllers and Minimal APIs.
-
-
-
-- [pdnd-guida-nomenclatura-eservice](https://github.com/italia/pdnd-guida-nomenclatura-eservice)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pdnd-guida-nomenclatura-eservice?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pdnd-guida-nomenclatura-eservice" alt="GitHub issues">\
-  Buone pratiche per la nomenclatura e la descrizione degli e-service di PDND
+  .NET middleware that extracts and normalizes PDND request metadata into a canonical, versioned key vocabulary. Extraction only: it verifies nothing and rejects nothing.
 
 
 
@@ -319,6 +305,13 @@
 
 
 
+- [dev-kit-italia](https://github.com/italia/dev-kit-italia)
+  <img align="right" src="https://img.shields.io/github/stars/italia/dev-kit-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/dev-kit-italia" alt="GitHub issues">\
+  Toolkit che implementa il Design system .italia
+
+
+
 - [design-drupal-theme](https://github.com/italia/design-drupal-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-drupal-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-drupal-theme" alt="GitHub issues">\
@@ -347,29 +340,15 @@
 
 
 
-- [dev-kit-italia](https://github.com/italia/dev-kit-italia)
-  <img align="right" src="https://img.shields.io/github/stars/italia/dev-kit-italia?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/dev-kit-italia" alt="GitHub issues">\
-  Toolkit che implementa il Design system .italia
-
-
-
-- [figma-to-sketch-action](https://github.com/italia/figma-to-sketch-action)
-  <img align="right" src="https://img.shields.io/github/stars/italia/figma-to-sketch-action?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/figma-to-sketch-action" alt="GitHub issues">\
-  GitHub action to convert Figma files to Sketch ones
-
-
-
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [design-fse-ui-kit](https://github.com/italia/design-fse-ui-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-ui-kit" alt="GitHub issues">\
   Questo repository contiene i prototipi del Fascicolo Sanitario Elettronico
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -392,17 +371,17 @@
 
 
 
-- [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
-  Backend for the feedback form of https://designers.italia.it
-
-
-
 - [design-italia-nextjs-starterkit](https://github.com/italia/design-italia-nextjs-starterkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-nextjs-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-nextjs-starterkit" alt="GitHub issues">\
   Starter kit for NextJS project using Design React Kit
+
+
+
+- [feedback.designers.italia.it](https://github.com/italia/feedback.designers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/feedback.designers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/feedback.designers.italia.it" alt="GitHub issues">\
+  Backend for the feedback form of https://designers.italia.it
 
 
 
@@ -416,7 +395,7 @@
 - [design-jekyll-devkit-theme](https://github.com/italia/design-jekyll-devkit-theme)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-jekyll-devkit-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-jekyll-devkit-theme" alt="GitHub issues">\
-  Jekyll theme skeleton theme using Dev Kit Italia web components (alpha)
+  Jekyll theme skeleton theme using Dev Kit Italia web components (beta)
 
 
 
@@ -475,7 +454,7 @@
 - [developers.italia.it](https://github.com/italia/developers.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers.italia.it" alt="GitHub issues">\
-  The developer community designing and developing public digital services in Italy
+  ⚠️ We're going to deprecate and archive this repository. New repository available linked below.
 
 
 
@@ -504,13 +483,6 @@
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/innovazione.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/innovazione.gov.it-site" alt="GitHub issues">\
   Sito del Dipartimento per la trasformazione digitale
-
-
-
-- [padigitale2026.gov.it-site](https://github.com/teamdigitale/padigitale2026.gov.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/padigitale2026.gov.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/padigitale2026.gov.it-site" alt="GitHub issues">\
-  Sorgente del sito padigitale2026.gov.it
 
 
 
@@ -645,13 +617,6 @@
 
 
 
-- [lg-modellointeroperabilita-docs](https://github.com/italia/lg-modellointeroperabilita-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/lg-modellointeroperabilita-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/lg-modellointeroperabilita-docs" alt="GitHub issues">\
-  Linee guida sul modello di interoperabilità 2021
-
-
-
 - [docs-italia-template](https://github.com/italia/docs-italia-template)
   <img align="right" src="https://img.shields.io/github/stars/italia/docs-italia-template?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/docs-italia-template" alt="GitHub issues">\
@@ -716,13 +681,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/developers-italia-searchyll?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/developers-italia-searchyll" alt="GitHub issues">\
   
-
-
-
-- [apportafoglio](https://github.com/teamdigitale/apportafoglio)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/apportafoglio?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/apportafoglio" alt="GitHub issues">\
-  Applicazione web per la gestione del proprio portafoglio PA2026
 
 
 
