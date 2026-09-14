@@ -150,17 +150,17 @@
 
 
 
-- [spid-go](https://github.com/italia/spid-go)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
-  Go package for SPID authentication
-
-
-
 - [spid-cie-oidc-nodejs](https://github.com/italia/spid-cie-oidc-nodejs)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-nodejs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-nodejs" alt="GitHub issues">\
   The SPID/CIE OIDC Federation for Node.js
+
+
+
+- [spid-go](https://github.com/italia/spid-go)
+  <img align="right" src="https://img.shields.io/github/stars/italia/spid-go?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/spid-go" alt="GitHub issues">\
+  Go package for SPID authentication
 
 
 
@@ -385,6 +385,13 @@
 
 
 
+- [design-fse-eds-ui-kit](https://github.com/italia/design-fse-eds-ui-kit)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-eds-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-eds-ui-kit" alt="GitHub issues">\
+  Questo repository contiene un'anteprima dei prototipi dell'Ecosistema Dati Sanitari (EDS) del Fascicolo Sanitario Elettronico
+
+
+
 - [template-astro-siti-pa](https://github.com/italia/template-astro-siti-pa)
   <img align="right" src="https://img.shields.io/github/stars/italia/template-astro-siti-pa?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/template-astro-siti-pa" alt="GitHub issues">\
@@ -396,13 +403,6 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/design-jekyll-devkit-theme?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-jekyll-devkit-theme" alt="GitHub issues">\
   Jekyll theme skeleton theme using Dev Kit Italia web components (beta)
-
-
-
-- [design-fse-eds-ui-kit](https://github.com/italia/design-fse-eds-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-fse-eds-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-fse-eds-ui-kit" alt="GitHub issues">\
-  Questo repository contiene un'anteprima dei prototipi dell'Ecosistema Dati Sanitari (EDS) del Fascicolo Sanitario Elettronico
 
 
 
