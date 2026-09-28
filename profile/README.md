@@ -122,13 +122,6 @@
 
 
 
-- [spid-sp-test](https://github.com/italia/spid-sp-test)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-test?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-test" alt="GitHub issues">\
-  SAML2 SPID/CIE Service Provider validation tool
-
-
-
 - [spid-cie-oidc-django](https://github.com/italia/spid-cie-oidc-django)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-cie-oidc-django?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-cie-oidc-django" alt="GitHub issues">\
