@@ -649,17 +649,17 @@
 
 
 
-- [slack.developers.italia.it](https://github.com/italia/slack.developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/slack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/slack.developers.italia.it" alt="GitHub issues">\
-  Redirect to Slack invite
-
-
-
 - [italia-conf](https://github.com/italia/italia-conf)
   <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
   File di configurazione per l'organizzazione Italia.
+
+
+
+- [slack.developers.italia.it](https://github.com/italia/slack.developers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/slack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/slack.developers.italia.it" alt="GitHub issues">\
+  Redirect to Slack invite
 
 
 
