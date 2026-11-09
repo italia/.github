@@ -108,13 +108,6 @@
 
 
 
-- [spid-sp-access-button](https://github.com/italia/spid-sp-access-button)
-  <img align="right" src="https://img.shields.io/github/stars/italia/spid-sp-access-button?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/spid-sp-access-button" alt="GitHub issues">\
-  Bottone di scelta dell'Identity Provider per l'accesso ai servizi dei Service Provider
-
-
-
 - [spid-aspnetcore](https://github.com/italia/spid-aspnetcore)
   <img align="right" src="https://img.shields.io/github/stars/italia/spid-aspnetcore?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/spid-aspnetcore" alt="GitHub issues">\
@@ -214,13 +207,6 @@
 
 
 
-- [design-ui-kit](https://github.com/italia/design-ui-kit)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-ui-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-ui-kit" alt="GitHub issues">\
-  UI Kit Italia è la risorsa del design system .italia per costruire e prototipare siti internet e servizi digitali della Pubblica Amministrazione
-
-
-
 - [design-react-kit](https://github.com/italia/design-react-kit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit" alt="GitHub issues">\
@@ -263,17 +249,17 @@
 
 
 
-- [design-comuni-pagine-statiche](https://github.com/italia/design-comuni-pagine-statiche)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-pagine-statiche" alt="GitHub issues">\
-  Le pagine statiche che compongono il modello di sito web per i comuni
-
-
-
 - [bootstrap-italia-playground](https://github.com/italia/bootstrap-italia-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/bootstrap-italia-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/bootstrap-italia-playground" alt="GitHub issues">\
   Bootstrap Italia Playground
+
+
+
+- [design-comuni-pagine-statiche](https://github.com/italia/design-comuni-pagine-statiche)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-comuni-pagine-statiche?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-comuni-pagine-statiche" alt="GitHub issues">\
+  Le pagine statiche che compongono il modello di sito web per i comuni
 
 
 
@@ -340,15 +326,15 @@
 
 
 
-<details>
-    <summary>Other repositories for Design</summary>
-
 - [design-react-kit-playground](https://github.com/italia/design-react-kit-playground)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-react-kit-playground?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-react-kit-playground" alt="GitHub issues">\
   Design React Kit Playground
 
 
+
+<details>
+    <summary>Other repositories for Design</summary>
 
 - [design-italia-astro-starterkit](https://github.com/italia/design-italia-astro-starterkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-astro-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -357,17 +343,17 @@
 
 
 
-- [design-scuole-docs](https://github.com/italia/design-scuole-docs)
-  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
-  Documentazione del progetto di design dei siti web delle scuole
-
-
-
 - [design-italia-nextjs-starterkit](https://github.com/italia/design-italia-nextjs-starterkit)
   <img align="right" src="https://img.shields.io/github/stars/italia/design-italia-nextjs-starterkit?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/design-italia-nextjs-starterkit" alt="GitHub issues">\
   Starter kit for NextJS project using Design React Kit
+
+
+
+- [design-scuole-docs](https://github.com/italia/design-scuole-docs)
+  <img align="right" src="https://img.shields.io/github/stars/italia/design-scuole-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/design-scuole-docs" alt="GitHub issues">\
+  Documentazione del progetto di design dei siti web delle scuole
 
 
 
@@ -451,13 +437,6 @@
 
 
 
-- [pianotriennale-ict.italia.it](https://github.com/italia/pianotriennale-ict.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/pianotriennale-ict.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/pianotriennale-ict.italia.it" alt="GitHub issues">\
-  Sito Piano Triennale ICT
-
-
-
 - [come-partecipo.italia.it](https://github.com/italia/come-partecipo.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/come-partecipo.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/come-partecipo.italia.it" alt="GitHub issues">\
@@ -479,23 +458,9 @@
 
 
 
-- [anagrafenazionale.interno.it-site](https://github.com/teamdigitale/anagrafenazionale.interno.it-site)
-  <img align="right" src="https://img.shields.io/github/stars/teamdigitale/anagrafenazionale.interno.it-site?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/teamdigitale/anagrafenazionale.interno.it-site" alt="GitHub issues">\
-  anagrafenazionale.interno.it 
-
-
-
 - [monitoraggio.repubblicadigitale.gov.it](https://github.com/teamdigitale/monitoraggio.repubblicadigitale.gov.it)
   <img align="right" src="https://img.shields.io/github/stars/teamdigitale/monitoraggio.repubblicadigitale.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/teamdigitale/monitoraggio.repubblicadigitale.gov.it" alt="GitHub issues">\
-  
-
-
-
-- [cloud-italia-website](https://github.com/italia/cloud-italia-website)
-  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-italia-website?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-italia-website" alt="GitHub issues">\
   
 
 
@@ -504,6 +469,13 @@
   <img align="right" src="https://img.shields.io/github/stars/italia/padigitale2026.gov.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/padigitale2026.gov.it" alt="GitHub issues">\
   Progetto Pubblica Amministrazione digitale 2026
+
+
+
+- [cloud-italia-website](https://github.com/italia/cloud-italia-website)
+  <img align="right" src="https://img.shields.io/github/stars/italia/cloud-italia-website?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/cloud-italia-website" alt="GitHub issues">\
+  
 
 
 
@@ -529,17 +501,17 @@
 
 
 
-- [publiccode-editor](https://github.com/italia/publiccode-editor)
-  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-editor" alt="GitHub issues">\
-  A web editor to create and edit publiccode.yml files
-
-
-
 - [publiccode-crawler](https://github.com/italia/publiccode-crawler)
   <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-crawler?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-crawler" alt="GitHub issues">\
   publiccode.yml crawler for the Open Source software catalog of Developers Italia
+
+
+
+- [publiccode-editor](https://github.com/italia/publiccode-editor)
+  <img align="right" src="https://img.shields.io/github/stars/italia/publiccode-editor?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/publiccode-editor" alt="GitHub issues">\
+  A web editor to create and edit publiccode.yml files
 
 
 
@@ -649,17 +621,17 @@
 
 
 
-- [slack.developers.italia.it](https://github.com/italia/slack.developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/slack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/slack.developers.italia.it" alt="GitHub issues">\
-  Redirect to Slack invite
-
-
-
 - [italia-conf](https://github.com/italia/italia-conf)
   <img align="right" src="https://img.shields.io/github/stars/italia/italia-conf?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/italia-conf" alt="GitHub issues">\
   File di configurazione per l'organizzazione Italia.
+
+
+
+- [slack.developers.italia.it](https://github.com/italia/slack.developers.italia.it)
+  <img align="right" src="https://img.shields.io/github/stars/italia/slack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/issues/italia/slack.developers.italia.it" alt="GitHub issues">\
+  Redirect to Slack invite
 
 
 
